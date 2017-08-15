@@ -38,13 +38,13 @@ Installation
 1. Go to `File | Import Settings...` and specify the `settings.jar` file.
     Click `OK` in the dialog that appears.
 
-2. Restart IntelliJ IDEA
+2. Restart your JetBrains IDE.
 
 3. Go to `Preferences | Editor | Color Scheme` and select **`Solarized Dark`** or **`Solarized Light`**.
 
 #### Method #2: *Manual installation*
 
-1.  Copy `Solarized Dark.icls` and `Solarized Light.icls` to your IntelliJ IDEA or CLion preferences
+1.  Copy `Solarized Dark.icls` and `Solarized Light.icls` to your JetBrains IDE preferences
      color directory. The directory varies, depending on which JetBrains IDE you are using.
     
     *The colors directory may need to be created.*
@@ -91,7 +91,7 @@ Installation
 Languages & technologies supported
 -----------
 
-IDE settings: 
+IDE settings:
 `General`
 `Language Defaults `
 `Console Colors`
