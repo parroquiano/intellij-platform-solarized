@@ -23,6 +23,7 @@ Supported products:
 * **`IntelliJ IDEA`**
 * **`CLion`**
 * **`Rider`**
+* **`Android Studio`**
 * **`DataGrip`**
 * **`PyCharm`**
 * **`RubyMine`**
@@ -55,6 +56,7 @@ Installation
     * `~/Library/Preferences/.IntelliJIdeaXXX/colors` (IntelliJ IDEA),
     * `~/Library/Preferences/.CLionXXX/colors` (CLion),
     * `~/Library/Preferences/.RiderXXX/colors` (Rider),
+    * `~/Library/Preferences/.AndroidStudioXXX/colors` (Android Studio),
     * `~/Library/Preferences/.DataGripXXX/colors` (DataGrip),
     * `~/Library/Preferences/.PyCharmXXX/colors` (PyCharm),
     * `~/Library/Preferences/.RubyMineXXX/colors` (RubyMine),
@@ -66,6 +68,7 @@ Installation
     * `~/.IntelliJIdeaXXX/config/colors` (IntelliJ IDEA),
     * `~/.CLionXXX/config/colors` (CLion),
     * `~/.RiderXXX/config/colors` (Rider),
+    * `~/.AndroidStudioXXX/config/colors` (Android Studio),
     * `~/.DataGripXXX/config/colors` (DataGrip),
     * `~/.PyCharmXXX/config/colors` (PyCharm),
     * `~/.RubyMineXXX/config/colors` (RubyMine),
@@ -77,6 +80,7 @@ Installation
     * `%USERPROFILE%\.IntelliJIdeaXXX/config/colors` (IntelliJ IDEA),
     * `%USERPROFILE%\.CLionXXX/config/colors` (CLion),
     * `%USERPROFILE%\.RiderXXX/config/colors` (Rider),
+    * `%USERPROFILE%\.AndroidStudioXXX/config/colors` (Android Studio),
     * `%USERPROFILE%\.DataGripXXX/config/colors` (DataGrip),
     * `%USERPROFILE%\.PyCharmXXX/config/colors` (PyCharm),
     * `%USERPROFILE%\.RubyMineXXX/config/colors` (RubyMine),

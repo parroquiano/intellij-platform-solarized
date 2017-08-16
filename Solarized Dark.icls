@@ -4,7 +4,7 @@
     <option name="ANNOTATIONS_COLOR" value="7899a4" />
     <option name="ANNOTATIONS_MERGED_COLOR" value="2aa198" />
     <option name="CARET_COLOR" value="dc322f" />
-    <option name="CARET_ROW_COLOR" value="73642" />
+    <option name="CARET_ROW_COLOR" value="8323d" />
     <option name="CONSOLE_BACKGROUND_KEY" value="2b36" />
     <option name="DELETED_LINES_COLOR" value="496e7d" />
     <option name="DOCUMENTATION_COLOR" value="2a4f5a" />
@@ -859,7 +859,7 @@
     <option name="INLINE_PARAMETER_HINT">
       <value>
         <option name="FOREGROUND" value="586e75" />
-        <option name="BACKGROUND" value="73642" />
+        <option name="BACKGROUND" value="133b45" />
       </value>
     </option>
     <option name="INSTANCE_FIELD_ATTRIBUTES" baseAttributes="DEFAULT_INSTANCE_FIELD" />
@@ -1378,8 +1378,9 @@
     </option>
     <option name="MATCHED_BRACE_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="2b36" />
-        <option name="BACKGROUND" value="b58900" />
+        <option name="FOREGROUND" value="93a1a1" />
+        <option name="BACKGROUND" value="185156" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="NOT_TOP_FRAME_ATTRIBUTES">
@@ -1632,7 +1633,7 @@
     </option>
     <option name="REGEXP.REDUNDANT_ESCAPE">
       <value>
-        <option name="FOREGROUND" value="d33682" />
+        <option name="FOREGROUND" value="6c71c4" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
@@ -1810,6 +1811,11 @@
     <option name="ReSharper.ASP_NET_TAG_NAME">
       <value>
         <option name="FOREGROUND" value="268bd2" />
+      </value>
+    </option>
+    <option name="ReSharper.BRACE_OUTLINE">
+      <value>
+        <option name="EFFECT_COLOR" value="586e75" />
       </value>
     </option>
     <option name="ReSharper.DELEGATE_IDENTIFIER">
@@ -2003,13 +2009,13 @@
     </option>
     <option name="SLIM_FILTER">
       <value>
-        <option name="FOREGROUND" value="6d72c2" />
+        <option name="FOREGROUND" value="6c71c4" />
         <option name="EFFECT_TYPE" value="4" />
       </value>
     </option>
     <option name="SLIM_FILTER_CONTENT">
       <value>
-        <option name="BACKGROUND" value="40192d" />
+        <option name="BACKGROUND" value="1e2b35" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -2474,8 +2480,7 @@
     </option>
     <option name="UNMATCHED_BRACE_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="2b36" />
-        <option name="BACKGROUND" value="dc322f" />
+        <option name="FOREGROUND" value="dc322f" />
       </value>
     </option>
     <option name="Unresolved reference access">
