@@ -620,6 +620,18 @@
         <option name="FOREGROUND" value="859900" />
       </value>
     </option>
+    <option name="ERL_MACRO" baseAttributes="DEFAULT_STATIC_FIELD" />
+    <option name="ERL_RECORDS">
+      <value>
+        <option name="FOREGROUND" value="6c71c4" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="ERL_VARIABLES">
+      <value>
+        <option name="FOREGROUND" value="6c71c4" />
+      </value>
+    </option>
     <option name="ERRORS_ATTRIBUTES">
       <value>
         <option name="EFFECT_COLOR" value="dc322f" />
