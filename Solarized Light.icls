@@ -776,7 +776,11 @@
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
-    <option name="JADE_FILE_PATH" baseAttributes="DEFAULT_STRING" />
+    <option name="JADE_FILE_PATH">
+      <value>
+        <option name="FOREGROUND" value="2626d1" />
+      </value>
+    </option>
     <option name="JADE_FILTER_NAME">
       <value>
         <option name="FOREGROUND" value="dc322f" />
@@ -788,7 +792,11 @@
         <option name="FOREGROUND" value="6c71c4" />
       </value>
     </option>
-    <option name="JADE_STATEMENTS" baseAttributes="DEFAULT_KEYWORD" />
+    <option name="JADE_STATEMENTS">
+      <value>
+        <option name="FOREGROUND" value="803c10" />
+      </value>
+    </option>
     <option name="JFLEX.COMMENT">
       <value>
         <option name="FOREGROUND" value="566c73" />
