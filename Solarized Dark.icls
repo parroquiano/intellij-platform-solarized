@@ -743,6 +743,17 @@
         <option name="FOREGROUND" value="6c71c4" />
       </value>
     </option>
+    <option name="HOCON_OPTIONAL_SUBSTITUTION_SIGN">
+      <value>
+        <option name="FOREGROUND" value="d33682" />
+      </value>
+    </option>
+    <option name="HOCON_SUBSTITUTION_SIGN">
+      <value>
+        <option name="FOREGROUND" value="2aa198" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
     <option name="HTML_ATTRIBUTE_NAME">
       <value>
         <option name="FOREGROUND" value="839496" />
