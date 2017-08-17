@@ -1279,6 +1279,91 @@
         <option name="FOREGROUND" value="859900" />
       </value>
     </option>
+    <option name="PERL_ARRAY">
+      <value>
+        <option name="FOREGROUND" value="6c71c4" />
+      </value>
+    </option>
+    <option name="PERL_ARRAY_BUILTIN">
+      <value>
+        <option name="FOREGROUND" value="6c71c4" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="PERL_DQ_STRING" baseAttributes="DEFAULT_STRING" />
+    <option name="PERL_DX_STRING" baseAttributes="DEFAULT_STRING" />
+    <option name="PERL_EMBED_MARKER" baseAttributes="DEFAULT_TEMPLATE_LANGUAGE_COLOR" />
+    <option name="PERL_GLOB" baseAttributes="DEFAULT_IDENTIFIER" />
+    <option name="PERL_GLOB_BUILTIN">
+      <value>
+        <option name="FOREGROUND" value="657b83" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="PERL_HASH">
+      <value>
+        <option name="FOREGROUND" value="6c71c4" />
+      </value>
+    </option>
+    <option name="PERL_HASH_BUILTIN">
+      <value>
+        <option name="FOREGROUND" value="6c71c4" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="PERL_LABEL">
+      <value>
+        <option name="FOREGROUND" value="657b83" />
+        <option name="EFFECT_COLOR" value="657b83" />
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="PERL_NUMBER" baseAttributes="DEFAULT_NUMBER" />
+    <option name="PERL_PACKAGE" baseAttributes="DEFAULT_CLASS_NAME" />
+    <option name="PERL_PACKAGE_CORE">
+      <value>
+        <option name="FOREGROUND" value="268bd2" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="PERL_PACKAGE_PRAGMA">
+      <value>
+        <option name="FOREGROUND" value="268bd2" />
+        <option name="FONT_TYPE" value="3" />
+      </value>
+    </option>
+    <option name="PERL_REGEX_TOKEN" baseAttributes="DEFAULT_STRING" />
+    <option name="PERL_SCALAR">
+      <value>
+        <option name="FOREGROUND" value="6c71c4" />
+      </value>
+    </option>
+    <option name="PERL_SCALAR_BUILTIN">
+      <value>
+        <option name="FOREGROUND" value="6c71c4" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="PERL_SQ_STRING" baseAttributes="DEFAULT_STRING" />
+    <option name="PERL_SUB">
+      <value>
+        <option name="FOREGROUND" value="a6a029" />
+      </value>
+    </option>
+    <option name="PERL_SUB_BUILTIN">
+      <value>
+        <option name="FOREGROUND" value="a6a029" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="PERL_SUB_DEFINITION" baseAttributes="DEFAULT_FUNCTION_DECLARATION" />
+    <option name="PERL_VERSION" baseAttributes="PERL_NUMBER" />
+    <option name="PERL_XSUB">
+      <value>
+        <option name="FOREGROUND" value="a6a029" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
     <option name="PHP_EXEC_COMMAND_ID">
       <value>
         <option name="FOREGROUND" value="2aa198" />
@@ -1298,6 +1383,20 @@
         <option name="FOREGROUND" value="6c71c4" />
       </value>
     </option>
+    <option name="POD_CODE">
+      <value>
+        <option name="FOREGROUND" value="268bd2" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="POD_TAG">
+      <value>
+        <option name="FOREGROUND" value="268bd2" />
+        <option name="FONT_TYPE" value="1" />
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="POD_TEXT" baseAttributes="DEFAULT_DOC_COMMENT" />
     <option name="PROPERTIES.VALID_STRING_ESCAPE">
       <value />
     </option>
