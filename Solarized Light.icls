@@ -155,6 +155,11 @@
         <option name="FOREGROUND" value="b38700" />
       </value>
     </option>
+    <option name="CMD_LABEL">
+      <value>
+        <option name="FOREGROUND" value="268bd2" />
+      </value>
+    </option>
     <option name="COFFEESCRIPT.FUNCTION_NAME">
       <value>
         <option name="FOREGROUND" value="b58900" />
