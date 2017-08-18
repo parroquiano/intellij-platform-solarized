@@ -3,7 +3,7 @@
     <option name="ADDED_LINES_COLOR" value="144c41" />
     <option name="ANNOTATIONS_COLOR" value="7899a4" />
     <option name="ANNOTATIONS_MERGED_COLOR" value="2aa198" />
-    <option name="CARET_COLOR" value="dc322f" />
+    <option name="CARET_COLOR" value="93a1a1" />
     <option name="CARET_ROW_COLOR" value="8323d" />
     <option name="CONSOLE_BACKGROUND_KEY" value="2b36" />
     <option name="DELETED_LINES_COLOR" value="496e7d" />
@@ -41,6 +41,28 @@
     <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="284641" />
   </colors>
   <attributes>
+    <option name="A3_SQF_COMMAND">
+      <value>
+        <option name="FOREGROUND" value="859900" />
+      </value>
+    </option>
+    <option name="A3_SQF_COMMENT_NOTE">
+      <value>
+        <option name="FOREGROUND" value="268bd2" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="A3_SQF_GLOBAL_VAR">
+      <value>
+        <option name="FOREGROUND" value="d13684" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="A3_SQF_MAGIC_VARIABLE">
+      <value>
+        <option name="FOREGROUND" value="6c71c4" />
+      </value>
+    </option>
     <option name="ANNOTATION_NAME_ATTRIBUTES" baseAttributes="DEFAULT_METADATA" />
     <option name="Abstract class">
       <value>
@@ -524,7 +546,6 @@
     <option name="DEFAULT_INSTANCE_METHOD">
       <value>
         <option name="FOREGROUND" value="839496" />
-        <option name="BACKGROUND" value="2b36" />
       </value>
     </option>
     <option name="DEFAULT_INTERFACE_NAME">
@@ -1278,6 +1299,11 @@
     <option name="MARKDOWN.VERBATIM">
       <value>
         <option name="BACKGROUND" value="73642" />
+      </value>
+    </option>
+    <option name="MARKDOWN_TABLE_SEPARATOR">
+      <value>
+        <option name="FOREGROUND" value="586e75" />
       </value>
     </option>
     <option name="MATCHED_BRACE_ATTRIBUTES">
@@ -2047,6 +2073,11 @@
     <option name="SASS_VARIABLE">
       <value>
         <option name="FOREGROUND" value="6c71c4" />
+      </value>
+    </option>
+    <option name="SCENARIO_HEADING">
+      <value>
+        <option name="FOREGROUND" value="b58900" />
       </value>
     </option>
     <option name="SEARCH_RESULT_ATTRIBUTES">

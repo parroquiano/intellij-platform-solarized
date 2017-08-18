@@ -3,7 +3,7 @@
     <option name="ADDED_LINES_COLOR" value="c7d7ac" />
     <option name="ANNOTATIONS_COLOR" value="22437c" />
     <option name="ANNOTATIONS_MERGED_COLOR" value="2aa198" />
-    <option name="CARET_COLOR" value="dc322f" />
+    <option name="CARET_COLOR" value="586e75" />
     <option name="CARET_ROW_COLOR" value="f5eedc" />
     <option name="CONSOLE_BACKGROUND_KEY" value="fdf6e3" />
     <option name="DELETED_LINES_COLOR" value="9e998e" />
@@ -41,6 +41,28 @@
     <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="ecd5a7" />
   </colors>
   <attributes>
+    <option name="A3_SQF_COMMAND">
+      <value>
+        <option name="FOREGROUND" value="859900" />
+      </value>
+    </option>
+    <option name="A3_SQF_COMMENT_NOTE">
+      <value>
+        <option name="FOREGROUND" value="268bd2" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="A3_SQF_GLOBAL_VAR">
+      <value>
+        <option name="FOREGROUND" value="d33682" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="A3_SQF_MAGIC_VARIABLE">
+      <value>
+        <option name="FOREGROUND" value="6c71c4" />
+      </value>
+    </option>
     <option name="ANNOTATION_NAME_ATTRIBUTES" baseAttributes="DEFAULT_METADATA" />
     <option name="Abstract class">
       <value>
@@ -1215,6 +1237,11 @@
         <option name="BACKGROUND" value="eee8d5" />
       </value>
     </option>
+    <option name="MARKDOWN_TABLE_SEPARATOR">
+      <value>
+        <option name="FOREGROUND" value="93a1a1" />
+      </value>
+    </option>
     <option name="MATCHED_BRACE_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="586e75" />
@@ -1935,6 +1962,11 @@
     <option name="SASS_VARIABLE">
       <value>
         <option name="FOREGROUND" value="6c71c4" />
+      </value>
+    </option>
+    <option name="SCENARIO_HEADING">
+      <value>
+        <option name="FOREGROUND" value="b58900" />
       </value>
     </option>
     <option name="SEARCH_RESULT_ATTRIBUTES">

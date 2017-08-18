@@ -1,15 +1,16 @@
 Solarized Color Schemes for the JetBrains IntelliJ Platform
 ===============================================
 
-Original Solarized color scheme developed by Ethan Schoonover <es@ethanschoonover.com>  
-To read more: [Solarized homepage](http://ethanschoonover.com/solarized)
+Original Solarized color scheme developed by Ethan Schoonover <es@ethanschoonover.com> 
+ 
+To read more: *[Solarized homepage](http://ethanschoonover.com/solarized)*
 
 Description
 ------------
 
 There are two schemes here: Dark and Light. Both schemes uses original Solarized colors.
 
-The syntax highlighting has been adapted for all the languages of the supported products (see the list below)
+The syntax highlighting has been adapted for all the languages of the [supported products](#sp_head)
  that are available at the current time (IntelliJ platform 2017.2).
 
 These color schemes is developed relying on JetBrains **inheritance mechanism** as 
@@ -17,19 +18,34 @@ These color schemes is developed relying on JetBrains **inheritance mechanism** 
  have the same color of their similar constructions, for instance, highlighting
  for *Kotlin* is similar to that for *Java*, the later to that for *C#*, *C++* and so on.
 
-Supported products: 
+<a name="sp_head"></a>Supported products: 
 ------------
+**IDEs**:
+**`IntelliJ IDEA`**
+**`CLion`**
+**`Rider`**
+**`Android Studio`**
+**`DataGrip`**
+**`PyCharm`**
+**`RubyMine`**
+**`PhpStorm`**
+**`WebStorm`**
+**`Gogland`**
 
-* **`IntelliJ IDEA`**
-* **`CLion`**
-* **`Rider`**
-* **`Android Studio`**
-* **`DataGrip`**
-* **`PyCharm`**
-* **`RubyMine`**
-* **`PhpStorm`**
-* **`WebStorm`**
-* **`Gogland`**
+**Plugins**:
+**`Scala`**
+**`BashSupport`**
+**`Lua`**
+**`CMD support`**
+**`Pug (ex-Jade)`**
+**`Erlang`**
+**`Rust`**
+**`Protobuf support`**
+**`Cursive`**
+**`Perl`**
+**`HaskForce`**
+**`R language support`**
+*and all the JetBrains plugins providing the languages listed in [Languages & technologies supported](#ls_head) section*
 
 Installation
 ------------
@@ -91,8 +107,8 @@ Installation
 2. Restart the program.
     
 3. Go to `Preferences | Editor | Color Scheme` and select **`Solarized Dark`** or **`Solarized Light`**.
-   
-Languages & technologies supported
+
+<a name="ls_head"></a>Languages & technologies supported
 -----------
 
 IDE settings:
@@ -104,16 +120,21 @@ IDE settings:
 `Diff & Merge`
 `VCS`
 
+`.NET (C#, F#, VB.NET)`
 `Action Script`
 `Android Logcat`
 `Apache Config`
-`.NET (C#, F#, VB.NET)`
 `ASP.NET`
+`Bash`
 `Blade`
 `Buildout config`
 `C/C++`
+`Cabal`
 `CFML`
+`Clojure`
+`CMD`
 `CoffeeScript`
+`Concept`
 `CSS`
 `Cucumber`
 `Dart`
@@ -123,6 +144,7 @@ IDE settings:
 `Drools`
 `EJS`
 `ERB`
+`Erlang`
 `FreeMarker`
 `gettext PO`
 `Go`
@@ -130,21 +152,27 @@ IDE settings:
 `Groovy`
 `Haml`
 `Handlebars/Mustache`
+`Haskell`
+`HOCON`
 `HTML`
 `Ini`
-`Java`
 `JavaScript`
+`Java`
 `JPA/HibernateQL`
 `JSON`
 `JSP`
 `Kotlin`
 `Less`
+`Lua`
 `MakoTemplate`
 `Markdown`
 `OGNL`
 `OSGi Manifest`
+`Perl5 POD`
+`Perl5`
 `PHP`
 `Properties`
+`Protobuf`
 `Pug/Jade`
 `Puppet`
 `Python`
@@ -152,9 +180,13 @@ IDE settings:
 `RegExp`
 `reStructuredText`
 `Ruby`
+`Rust`
+`R`
 `Sass/SCSS`
+`Scala`
 `Slim`
 `Smarty`
+`Specification`
 `Spring EL`
 `Spy-js`
 `SQL`
@@ -162,6 +194,7 @@ IDE settings:
 `Stylus`
 `Table Diff`
 `Tapestry`
+`Template Toolkit 2`
 `Twig`
 `TypeScript`
 `Velocity`
