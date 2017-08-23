@@ -68,42 +68,17 @@ Installation
     
     It is typically in:
     
-    **Mac OS X**
-    * `~/Library/Preferences/.IntelliJIdeaXXX/colors` (IntelliJ IDEA),
-    * `~/Library/Preferences/.CLionXXX/colors` (CLion),
-    * `~/Library/Preferences/.RiderXXX/colors` (Rider),
-    * `~/Library/Preferences/.AndroidStudioXXX/colors` (Android Studio),
-    * `~/Library/Preferences/.DataGripXXX/colors` (DataGrip),
-    * `~/Library/Preferences/.PyCharmXXX/colors` (PyCharm),
-    * `~/Library/Preferences/.RubyMineXXX/colors` (RubyMine),
-    * `~/Library/Preferences/.PhpStormXXX/colors` (PhpStorm),
-    * `~/Library/Preferences/.WebStormXXX/colors` (WebStorm),
-    * `~/Library/Preferences/.GoglandXXX/colors` (Gogland).
+    **Windows**
+    * `%USERPROFILE%\.IdeNameXXX\config\colors`
     
     **Linux**
-    * `~/.IntelliJIdeaXXX/config/colors` (IntelliJ IDEA),
-    * `~/.CLionXXX/config/colors` (CLion),
-    * `~/.RiderXXX/config/colors` (Rider),
-    * `~/.AndroidStudioXXX/config/colors` (Android Studio),
-    * `~/.DataGripXXX/config/colors` (DataGrip),
-    * `~/.PyCharmXXX/config/colors` (PyCharm),
-    * `~/.RubyMineXXX/config/colors` (RubyMine),
-    * `~/.PhpStormXXX/config/colors` (PhpStorm),
-    * `~/.WebStormXXX/config/colors` (WebStorm),
-    * `~/.GoglandXXX/config/colors` (Gogland).
+    * `~/.IdeNameXXX/config/colors`
     
-    **Windows**
-    * `%USERPROFILE%\.IntelliJIdeaXXX/config/colors` (IntelliJ IDEA),
-    * `%USERPROFILE%\.CLionXXX/config/colors` (CLion),
-    * `%USERPROFILE%\.RiderXXX/config/colors` (Rider),
-    * `%USERPROFILE%\.AndroidStudioXXX/config/colors` (Android Studio),
-    * `%USERPROFILE%\.DataGripXXX/config/colors` (DataGrip),
-    * `%USERPROFILE%\.PyCharmXXX/config/colors` (PyCharm),
-    * `%USERPROFILE%\.RubyMineXXX/config/colors` (RubyMine),
-    * `%USERPROFILE%\.PhpStormXXX/config/colors` (PhpStorm),
-    * `%USERPROFILE%\.WebStormXXX/config/colors` (WebStorm),
-    * `%USERPROFILE%\.GoglandXXX/config/colors` (Gogland).
+    **OS X**
+    * `~/Library/Preferences/.IdeNameXXX/colors`
                        
+    where `IdeName` is the IDE name (ex.: IntelliJIdea, Clion etc) and `XXX` - version number (ex.: 2017.2)
+
 2. Restart the program.
     
 3. Go to `Preferences | Editor | Color Scheme` and select **`Solarized Dark`** or **`Solarized Light`**.
