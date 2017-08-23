@@ -1908,13 +1908,12 @@
     </option>
     <option name="ReSharper.FORMAT_STRING_ITEM">
       <value>
-        <option name="FOREGROUND" value="6c71c4" />
-        <option name="FONT_TYPE" value="1" />
+        <option name="FOREGROUND" value="ba836d" />
       </value>
     </option>
     <option name="ReSharper.FORMAT_STRING_ITEM_2">
       <value>
-        <option name="FOREGROUND" value="6c71c4" />
+        <option name="FOREGROUND" value="9e6954" />
       </value>
     </option>
     <option name="ReSharper.HINT">
@@ -1992,7 +1991,7 @@
     </option>
     <option name="ReSharper.MATCHED_FORMAT_STRING_ITEM">
       <value>
-        <option name="BACKGROUND" value="70a40" />
+        <option name="BACKGROUND" value="4646" />
       </value>
     </option>
     <option name="ReSharper.MUTABLE_LOCAL_VARIABLE_IDENTIFIER">
