@@ -722,12 +722,12 @@
         <option name="FOREGROUND" value="268bd2" />
       </value>
     </option>
-    <option name="GROOVY_KEYWORD" baseAttributes="JAVA_KEYWORD" />
     <option name="GO_BUILTIN_TYPE_REFERENCE">
       <value>
         <option name="FOREGROUND" value="859900" />
       </value>
     </option>
+    <option name="GROOVY_KEYWORD" baseAttributes="JAVA_KEYWORD" />
     <option name="HAML_CLASS">
       <value>
         <option name="FOREGROUND" value="6c71c4" />
@@ -756,7 +756,7 @@
     </option>
     <option name="HTML_TAG">
       <value>
-        <option name="FOREGROUND" value="268bd2" />
+        <option name="FOREGROUND" value="93a1a1" />
       </value>
     </option>
     <option name="HTML_TAG_NAME">
@@ -833,7 +833,7 @@
     </option>
     <option name="JADE_FILE_PATH">
       <value>
-        <option name="FOREGROUND" value="2626d1" />
+        <option name="FOREGROUND" value="a56ada" />
       </value>
     </option>
     <option name="JADE_FILTER_NAME">
@@ -983,7 +983,7 @@
     </option>
     <option name="KOTLIN_MUTABLE_VARIABLE">
       <value>
-        <option name="EFFECT_COLOR" value="6c71c4" />
+        <option name="EFFECT_COLOR" value="657b83" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
@@ -2275,8 +2275,8 @@
     </option>
     <option name="TEXT_SEARCH_RESULT_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="b6dfad" />
-        <option name="EFFECT_COLOR" value="7dc38f" />
+        <option name="BACKGROUND" value="bdddb3" />
+        <option name="EFFECT_COLOR" value="91bf8d" />
         <option name="ERROR_STRIPE_COLOR" value="859900" />
       </value>
     </option>
@@ -2285,6 +2285,11 @@
         <option name="FOREGROUND" value="2aa198" />
         <option name="FONT_TYPE" value="2" />
         <option name="ERROR_STRIPE_COLOR" value="2aa198" />
+      </value>
+    </option>
+    <option name="TT2_IDENTIFIER">
+      <value>
+        <option name="FOREGROUND" value="6c71c4" />
       </value>
     </option>
     <option name="TYPEDEF">
@@ -2408,23 +2413,20 @@
         <option name="FOREGROUND" value="cb4b16" />
       </value>
     </option>
-    <option name="XML_NS_PREFIX">
-      <value>
-        <option name="FOREGROUND" value="6c71c4" />
-      </value>
-    </option>
     <option name="XML_PROLOGUE">
       <value>
-        <option name="FOREGROUND" value="268bd2" />
+        <option name="FOREGROUND" value="93a1a1" />
       </value>
     </option>
     <option name="XML_TAG">
       <value>
-        <option name="FOREGROUND" value="268bd2" />
+        <option name="FOREGROUND" value="93a1a1" />
       </value>
     </option>
     <option name="XML_TAG_DATA">
-      <value />
+      <value>
+        <option name="FOREGROUND" value="586e75" />
+      </value>
     </option>
     <option name="XML_TAG_NAME">
       <value>
