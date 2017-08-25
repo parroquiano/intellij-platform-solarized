@@ -324,6 +324,11 @@
         <option name="FOREGROUND" value="859900" />
       </value>
     </option>
+    <option name="CSS.URL">
+      <value>
+        <option name="FOREGROUND" value="6c71c4" />
+      </value>
+    </option>
     <option name="CTRL_CLICKABLE">
       <value>
         <option name="FOREGROUND" value="268bd2" />
@@ -930,18 +935,10 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
-    <option name="JS.BRACKETS">
-      <value />
-    </option>
-    <option name="JS.GLOBAL_FUNCTION">
-      <value>
-        <option name="FOREGROUND" value="657b83" />
-        <option name="FONT_TYPE" value="2" />
-      </value>
-    </option>
+    <option name="JS.GLOBAL_FUNCTION" baseAttributes="DEFAULT_FUNCTION_DECLARATION" />
     <option name="JS.GLOBAL_VARIABLE">
       <value>
-        <option name="FOREGROUND" value="d33682" />
+        <option name="FOREGROUND" value="657b83" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -951,13 +948,20 @@
       </value>
     </option>
     <option name="JS.LOCAL_VARIABLE" baseAttributes="DEFAULT_LOCAL_VARIABLE" />
-    <option name="JS.PARAMETER">
+    <option name="JS.PARAMETER" baseAttributes="DEFAULT_PARAMETER" />
+    <option name="JS.REGEXP" baseAttributes="DEFAULT_STRING" />
+    <option name="JS.STATIC_MEMBER_FUNCTION">
       <value>
-        <option name="EFFECT_COLOR" value="657b83" />
-        <option name="EFFECT_TYPE" value="1" />
+        <option name="FOREGROUND" value="b58900" />
+        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
-    <option name="JS.REGEXP" baseAttributes="DEFAULT_STRING" />
+    <option name="JSP_DIRECTIVE_NAME">
+      <value>
+        <option name="FOREGROUND" value="859900" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
     <option name="JSP_SCRIPTING_BACKGROUND">
       <value />
     </option>
@@ -2287,6 +2291,11 @@
         <option name="ERROR_STRIPE_COLOR" value="2aa198" />
       </value>
     </option>
+    <option name="TS.TYPE_PARAMETER">
+      <value>
+        <option name="FOREGROUND" value="268bd2" />
+      </value>
+    </option>
     <option name="TT2_IDENTIFIER">
       <value>
         <option name="FOREGROUND" value="6c71c4" />
@@ -2436,6 +2445,12 @@
     <option name="XPATH.XPATH_NAME">
       <value>
         <option name="FOREGROUND" value="d33682" />
+      </value>
+    </option>
+    <option name="XPATH.XPATH_VARIABLE">
+      <value>
+        <option name="FOREGROUND" value="657b83" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="bemhtml.bem.error">
