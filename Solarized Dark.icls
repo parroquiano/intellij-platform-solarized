@@ -873,7 +873,7 @@
     </option>
     <option name="JADE_FILE_PATH">
       <value>
-        <option name="FOREGROUND" value="a56ada" />
+        <option name="FOREGROUND" value="a85ba3" />
       </value>
     </option>
     <option name="JADE_FILTER_NAME">
@@ -1149,7 +1149,7 @@
       <value>
         <option name="FOREGROUND" value="839496" />
         <option name="FONT_TYPE" value="3" />
-        <option name="EFFECT_COLOR" value="839496" />
+        <option name="EFFECT_COLOR" value="586e75" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
@@ -1426,16 +1426,20 @@
       </value>
     </option>
     <option name="PERL_NUMBER" baseAttributes="DEFAULT_NUMBER" />
-    <option name="PERL_PACKAGE" baseAttributes="DEFAULT_CLASS_NAME" />
+    <option name="PERL_PACKAGE">
+      <value>
+        <option name="FOREGROUND" value="839496" />
+      </value>
+    </option>
     <option name="PERL_PACKAGE_CORE">
       <value>
-        <option name="FOREGROUND" value="268bd2" />
+        <option name="FOREGROUND" value="839496" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="PERL_PACKAGE_PRAGMA">
       <value>
-        <option name="FOREGROUND" value="268bd2" />
+        <option name="FOREGROUND" value="839496" />
         <option name="FONT_TYPE" value="3" />
       </value>
     </option>
@@ -1454,20 +1458,24 @@
     <option name="PERL_SQ_STRING" baseAttributes="DEFAULT_STRING" />
     <option name="PERL_SUB">
       <value>
-        <option name="FOREGROUND" value="a85ba3" />
+        <option name="FOREGROUND" value="268bd2" />
       </value>
     </option>
     <option name="PERL_SUB_BUILTIN">
       <value>
-        <option name="FOREGROUND" value="a6a029" />
+        <option name="FOREGROUND" value="268bd2" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
-    <option name="PERL_SUB_DEFINITION" baseAttributes="DEFAULT_FUNCTION_DECLARATION" />
+    <option name="PERL_SUB_DEFINITION">
+      <value>
+        <option name="FOREGROUND" value="268bd2" />
+      </value>
+    </option>
     <option name="PERL_VERSION" baseAttributes="PERL_NUMBER" />
     <option name="PERL_XSUB">
       <value>
-        <option name="FOREGROUND" value="a85ba3" />
+        <option name="FOREGROUND" value="268bd2" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -2638,7 +2646,7 @@
     <option name="org.rust.DOC_CODE" baseAttributes="DEFAULT_DOC_MARKUP" />
     <option name="org.rust.LIFETIME">
       <value>
-        <option name="FOREGROUND" value="52875f" />
+        <option name="FOREGROUND" value="6c9d59" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -2649,7 +2657,7 @@
     </option>
     <option name="org.rust.MUT_BINDING">
       <value>
-        <option name="EFFECT_COLOR" value="839496" />
+        <option name="EFFECT_COLOR" value="586e75" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
