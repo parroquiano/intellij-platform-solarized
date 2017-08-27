@@ -991,19 +991,19 @@
     </option>
     <option name="KOTLIN_LABEL">
       <value>
-        <option name="FOREGROUND" value="6988d8" />
+        <option name="FOREGROUND" value="5380cc" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="KOTLIN_MUTABLE_VARIABLE">
       <value>
-        <option name="EFFECT_COLOR" value="657b83" />
+        <option name="EFFECT_COLOR" value="93a1a1" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="KOTLIN_NAMED_ARGUMENT">
       <value>
-        <option name="FOREGROUND" value="6988d8" />
+        <option name="FOREGROUND" value="5380cc" />
       </value>
     </option>
     <option name="KOTLIN_NAMESPACE_PROPERTY">
@@ -1429,7 +1429,7 @@
     <option name="PERL_SQ_STRING" baseAttributes="DEFAULT_STRING" />
     <option name="PERL_SUB">
       <value>
-        <option name="FOREGROUND" value="a56ada" />
+        <option name="FOREGROUND" value="a85ba3" />
       </value>
     </option>
     <option name="PERL_SUB_BUILTIN">
@@ -1442,7 +1442,7 @@
     <option name="PERL_VERSION" baseAttributes="PERL_NUMBER" />
     <option name="PERL_XSUB">
       <value>
-        <option name="FOREGROUND" value="a56ada" />
+        <option name="FOREGROUND" value="a85ba3" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -1585,7 +1585,11 @@
         <option name="FOREGROUND" value="2aa198" />
       </value>
     </option>
-    <option name="PY.STRING.U" baseAttributes="DEFAULT_STRING" />
+    <option name="PY.STRING.U">
+      <value>
+        <option name="FOREGROUND" value="6c9d59" />
+      </value>
+    </option>
     <option name="Predefined types">
       <value>
         <option name="FOREGROUND" value="2688d1" />
@@ -2177,14 +2181,9 @@
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
-    <option name="Scala Type Alias">
+    <option name="Scala Predefined types">
       <value>
-        <option name="FOREGROUND" value="6c71c4" />
-      </value>
-    </option>
-    <option name="Scala Type parameter">
-      <value>
-        <option name="FOREGROUND" value="6c71c4" />
+        <option name="FOREGROUND" value="268bd2" />
       </value>
     </option>
     <option name="Scala XML Text">
