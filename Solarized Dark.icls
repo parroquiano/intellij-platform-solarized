@@ -657,6 +657,9 @@
         <option name="FOREGROUND" value="6c71c4" />
       </value>
     </option>
+    <option name="DROOLS_RULE">
+      <value />
+    </option>
     <option name="DUPLICATE_FROM_SERVER">
       <value>
         <option name="EFFECT_COLOR" value="586e75" />
@@ -675,6 +678,9 @@
       </value>
     </option>
     <option name="ERL_MACRO" baseAttributes="DEFAULT_STATIC_FIELD" />
+    <option name="ERL_MODULE_REF">
+      <value />
+    </option>
     <option name="ERL_RECORDS">
       <value>
         <option name="FOREGROUND" value="6c71c4" />
@@ -969,6 +975,9 @@
         <option name="FOREGROUND" value="6c71c4" />
         <option name="FONT_TYPE" value="1" />
       </value>
+    </option>
+    <option name="JS.CLASS">
+      <value />
     </option>
     <option name="JS.GLOBAL_FUNCTION" baseAttributes="DEFAULT_FUNCTION_DECLARATION" />
     <option name="JS.GLOBAL_VARIABLE">
@@ -1479,15 +1488,21 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
+    <option name="PHP_CLASS">
+      <value />
+    </option>
     <option name="PHP_EXEC_COMMAND_ID">
       <value>
         <option name="FOREGROUND" value="2aa198" />
         <option name="BACKGROUND" value="3f4c" />
       </value>
     </option>
+    <option name="PHP_INTERFACE">
+      <value />
+    </option>
     <option name="PHP_PARAMETER">
       <value>
-        <option name="FOREGROUND" value="6c71c4" />
+        <option name="FOREGROUND" value="268bd2" />
       </value>
     </option>
     <option name="PHP_SCRIPTING_BACKGROUND">
@@ -1495,7 +1510,7 @@
     </option>
     <option name="PHP_VAR">
       <value>
-        <option name="FOREGROUND" value="6c71c4" />
+        <option name="FOREGROUND" value="268bd2" />
       </value>
     </option>
     <option name="POD_CODE">
@@ -1577,15 +1592,16 @@
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
+    <option name="PUPPET_NAME">
+      <value />
+    </option>
     <option name="PY.BUILTIN_NAME">
       <value>
         <option name="FOREGROUND" value="859900" />
       </value>
     </option>
     <option name="PY.CLASS_DEFINITION">
-      <value>
-        <option name="FOREGROUND" value="268bd2" />
-      </value>
+      <value />
     </option>
     <option name="PY.DECORATOR">
       <value>
@@ -2652,7 +2668,7 @@
     </option>
     <option name="org.rust.MACRO">
       <value>
-        <option name="FOREGROUND" value="3f92bf" />
+        <option name="FOREGROUND" value="cb4b16" />
       </value>
     </option>
     <option name="org.rust.MUT_BINDING">
