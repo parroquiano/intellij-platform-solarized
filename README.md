@@ -221,8 +221,8 @@ IDE settings:
 
 ### CSS
 <p float="center">
-	<img src="https://user-images.githubusercontent.com/16573106/29761447-d6342458-8bd1-11e7-92b5-37e8af181dcb.png" width="49%" />
-	<img src="https://user-images.githubusercontent.com/16573106/29761451-d63eaf04-8bd1-11e7-97e0-5dcc1cca8773.png" width="49%" />
+	<img src="https://user-images.githubusercontent.com/16573106/29904987-82eb1686-8e14-11e7-963e-e18c240c8bd7.png" width="49%" />
+	<img src="https://user-images.githubusercontent.com/16573106/29904988-82eb1a96-8e14-11e7-9bff-2c406148ff23.png" width="49%" />
 </p>
 
 ### Go
@@ -253,8 +253,8 @@ IDE settings:
 
 ### JavaScript
 <p float="center">
-	<img src="https://user-images.githubusercontent.com/16573106/29761459-d668ffe8-8bd1-11e7-8c9f-af6308c50b69.png" width="49%" />
-	<img src="https://user-images.githubusercontent.com/16573106/29761460-d6722910-8bd1-11e7-87f2-ae4a5f2d1644.png" width="49%" />
+	<img src="https://user-images.githubusercontent.com/16573106/29904991-82efcd2a-8e14-11e7-8a8b-770957c1601e.png" width="49%" />
+	<img src="https://user-images.githubusercontent.com/16573106/29904986-82e19d7c-8e14-11e7-87c2-3e45c3e3fff1.png" width="49%" />
 </p>
 
 ### Kotlin
@@ -275,18 +275,18 @@ IDE settings:
 
 ### PHP
 <p float="center">
-	<img src="https://user-images.githubusercontent.com/16573106/29761421-d5b4a69c-8bd1-11e7-9e46-074036cc7279.png" width="49%" />
-	<img src="https://user-images.githubusercontent.com/16573106/29761417-d5b22caa-8bd1-11e7-876e-89c08bb06821.png" width="49%" />
+	<img src="https://user-images.githubusercontent.com/16573106/29904990-82eba790-8e14-11e7-87f2-1d6445943103.png" width="49%" />
+	<img src="https://user-images.githubusercontent.com/16573106/29904992-82fa63b6-8e14-11e7-87fe-3a869fcee877.png" width="49%" />
 </p>
 <p float="center">
-	<img src="https://user-images.githubusercontent.com/16573106/29761420-d5b40638-8bd1-11e7-90fa-4fec738d32ae.png" width="49%" />
-	<img src="https://user-images.githubusercontent.com/16573106/29761419-d5b3f1f2-8bd1-11e7-9dc3-a62d98eb6f92.png" width="49%" />
+	<img src="https://user-images.githubusercontent.com/16573106/29907276-1a877922-8e23-11e7-96b8-0f30cc7d3a2e.png" width="49%" />
+	<img src="https://user-images.githubusercontent.com/16573106/29907275-1a87781e-8e23-11e7-9cf0-75bb118f6886.png" width="49%" />
 </p>
 
 ### Python
 <p float="center">
-	<img src="https://user-images.githubusercontent.com/16573106/29761418-d5b3bf8e-8bd1-11e7-8e86-45be71e0bf91.png" width="49%" />
-	<img src="https://user-images.githubusercontent.com/16573106/29761422-d5cba202-8bd1-11e7-98e3-e6c703dbbb67.png" width="49%" />
+	<img src="https://user-images.githubusercontent.com/16573106/29904994-8308ec24-8e14-11e7-8f55-50cc758655ec.png" width="49%" />
+	<img src="https://user-images.githubusercontent.com/16573106/29904989-82eb9070-8e14-11e7-83a3-2cd459dd3bb5.png" width="49%" />
 </p>
 
 ### Ruby
@@ -319,10 +319,14 @@ IDE settings:
 
 ### XML
 <p float="center">
-	<img src="https://user-images.githubusercontent.com/16573106/29761432-d5ea4bee-8bd1-11e7-9cac-ccf6cd98ea74.png" width="49%" />
-	<img src="https://user-images.githubusercontent.com/16573106/29761434-d5fddd3a-8bd1-11e7-94d2-f2259e9488fe.png" width="49%" />
+	<img src="https://user-images.githubusercontent.com/16573106/29905935-27d0b818-8e1a-11e7-85f7-884ea4e72e4d.png" width="49%" />
+	<img src="https://user-images.githubusercontent.com/16573106/29905934-27cfaa90-8e1a-11e7-8532-56b28def1274.png" width="49%" />
 </p>
 <p float="center">
-	<img src="https://user-images.githubusercontent.com/16573106/29761435-d6012148-8bd1-11e7-8735-a6a31d29d8cb.png" width="49%" />
-	<img src="https://user-images.githubusercontent.com/16573106/29761436-d6031dd6-8bd1-11e7-9af1-6293f81cbf06.png" width="49%" />
+	<img src="https://user-images.githubusercontent.com/16573106/29905938-27f715e4-8e1a-11e7-83bf-13b6f2505cdb.png" width="49%" />
+	<img src="https://user-images.githubusercontent.com/16573106/29905940-27ff55c4-8e1a-11e7-8267-52bf9aee9e57.png" width="49%" />
+</p>
+<p float="center">
+	<img src="https://user-images.githubusercontent.com/16573106/29905937-27f69290-8e1a-11e7-99cc-6622c0fdd1d2.png" width="49%" />
+	<img src="https://user-images.githubusercontent.com/16573106/29905939-27f8d730-8e1a-11e7-84f1-08fd3170914b.png" width="49%" />
 </p>
