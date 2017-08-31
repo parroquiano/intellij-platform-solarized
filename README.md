@@ -7,30 +7,30 @@ To read more: *[Solarized homepage](http://ethanschoonover.com/solarized)*
 
 
 #### <u>Contents</u>:
-* [Description](#desc_head)
-* [Supported products & plugins](#sp_head)
-* [Installation](#install_head)
-    * [Method #1: *Install using "Import Settings..."*](#install_head_m1)
-    * [Method #2: *Manual installation*](#install_head_m2)
-* [Languages & technologies supported](#ls_head)
-* [Screenshots](#scrn_head)
+* [Description](#description)
+* [Supported products & plugins](#supported-products)
+* [Installation](#installation)
+    * [Method #1: *Install using "Import Settings..."*](#method-1-install-using-import-settings)
+    * [Method #2: *Manual installation*](#method-2-manual-installation)
+* [Languages & technologies supported](#languages--technologies-supported)
+* [Screenshots](#screenshots)
 
-<a name="desc_head"></a>Description
+Description
 ------------
 
 There are two schemes here: Dark and Light. Both schemes uses original Solarized colors.
 
 The syntax highlighting has been adapted for all the languages built in the 
- [supported products](#sp_head), available at the current time
+ [supported products](#supported-products), available at the current time
  (IntelliJ platform 2017.2), and the plugins listed.
 
 These color schemes is developed relying on JetBrains **inheritance mechanism** as 
  the original JetBrains schemes *`Default`* and *`Darcula`* are. It means that similar languages
  have the same color of their similar constructions, for instance, highlighting
  for *Kotlin* is similar to that for *Java*, the later to that for *C#*, *C++* and 
- so on (see [screenshots](#scrn_head)).
+ so on (see [screenshots](#screenshots)).
 
-<a name="sp_head"></a>Supported products: 
+Supported products: 
 ------------
 **IDEs**:
 **`IntelliJ IDEA`**
@@ -57,12 +57,12 @@ These color schemes is developed relying on JetBrains **inheritance mechanism** 
 **`Perl`**
 **`HaskForce`**
 **`R language support`**
-*and all the JetBrains plugins providing the languages listed in [Languages & technologies supported](#ls_head) section*
+*and all the JetBrains plugins providing the languages listed in [Languages & technologies supported](#languages--technologies-supported) section*
 
-<a name="install_head"></a>Installation
+Installation
 ------------
 
-#### <a name="install_head_m1"></a>Method #1: *Install using "Import Settings..."*
+#### Method #1: *Install using "Import Settings..."*
 
 1. Go to `File | Import Settings...` and specify the `settings.jar` file.
     Click `OK` in the dialog that appears.
@@ -71,7 +71,7 @@ These color schemes is developed relying on JetBrains **inheritance mechanism** 
 
 3. Go to `Preferences | Editor | Color Scheme` and select **`Solarized Dark`** or **`Solarized Light`**.
 
-#### <a name="install_head_m2"></a>Method #2: *Manual installation*
+#### Method #2: *Manual installation*
 
 1.  Copy `Solarized Dark.icls` and `Solarized Light.icls` to your JetBrains IDE preferences
      color directory. The directory varies, depending on which JetBrains IDE you are using.
@@ -95,7 +95,7 @@ These color schemes is developed relying on JetBrains **inheritance mechanism** 
     
 3. Go to `Preferences | Editor | Color Scheme` and select **`Solarized Dark`** or **`Solarized Light`**.
 
-<a name="ls_head"></a>Languages & technologies supported
+Languages & technologies supported
 -----------
 
 IDE settings:
@@ -191,7 +191,7 @@ IDE settings:
 `XSLT`
 `YAML`
 
-<a name="scrn_head"></a>Screenshots
+Screenshots
 ------------
 ### C++
 <p float="center">
