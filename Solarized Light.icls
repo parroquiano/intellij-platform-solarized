@@ -2383,6 +2383,7 @@
     </option>
     <option name="Unresolved reference access">
       <value>
+        <option name="FOREGROUND" value="93a1a1" />
         <option name="EFFECT_COLOR" value="93a1a1" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
