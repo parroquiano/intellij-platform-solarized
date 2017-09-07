@@ -12,6 +12,7 @@ To read more: *[Solarized homepage](http://ethanschoonover.com/solarized)*
 * [Installation](#installation)
     * [Method #1: *Install using "Import Settings..."*](#method-1-install-using-import-settings)
     * [Method #2: *Manual installation*](#method-2-manual-installation)
+    * [Method #3: *Auto installation*](#method-3-auto-installation)
 * [Languages & technologies supported](#languages--technologies-supported)
 * [Screenshots](#screenshots)
 
@@ -94,6 +95,11 @@ Installation
 2. Restart the program.
     
 3. Go to `Preferences | Editor | Color Scheme` and select **`Solarized Dark`** or **`Solarized Light`**.
+
+#### Method #3: *Auto installation*
+
+Just run `install.bat` (for Windows) or `install.sh` (for Linux) to automatically install the schemes for
+ all the available JetBrains IDEs.
 
 Languages & technologies supported
 -----------
@@ -193,6 +199,8 @@ IDE settings:
 
 Screenshots
 ------------
+*for demo, not all the languages supported by this project is shown here but some of the most popular*
+
 ### C++
 <p float="center">
 	<img src="https://user-images.githubusercontent.com/16573106/29761437-d6044436-8bd1-11e7-8043-63f44a07846c.png" width="49%" />
@@ -325,8 +333,4 @@ Screenshots
 <p float="center">
 	<img src="https://user-images.githubusercontent.com/16573106/29905938-27f715e4-8e1a-11e7-83bf-13b6f2505cdb.png" width="49%" />
 	<img src="https://user-images.githubusercontent.com/16573106/29905940-27ff55c4-8e1a-11e7-8267-52bf9aee9e57.png" width="49%" />
-</p>
-<p float="center">
-	<img src="https://user-images.githubusercontent.com/16573106/29905937-27f69290-8e1a-11e7-99cc-6622c0fdd1d2.png" width="49%" />
-	<img src="https://user-images.githubusercontent.com/16573106/29905939-27f8d730-8e1a-11e7-84f1-08fd3170914b.png" width="49%" />
 </p>
