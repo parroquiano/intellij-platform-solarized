@@ -4,7 +4,7 @@ setlocal enabledelayedexpansion
 set SCHEMES_TO_INSTALL="Solarized Dark.icls" "Solarized Light.icls"
 
 set IDE_SETTINGS_ROOT=%USERPROFILE%
-set DETECTING_PATH=config\options\project.default.xml
+set DETECTING_PATH=config\options\editor.xml
 set COLORS_DIR=config\colors
 
 for %%d in (%SCHEMES_TO_INSTALL%) do (

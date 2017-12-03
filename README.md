@@ -22,8 +22,7 @@ Description
 There are two schemes here: Dark and Light. Both schemes uses original Solarized colors.
 
 The syntax highlighting has been adapted for all the languages built in the 
- [supported products](#supported-products), available at the current time
- (IntelliJ platform 2017.2), and the plugins listed.
+ [supported products](#supported-products), available at the current time, and the plugins listed.
 
 These color schemes is developed relying on JetBrains **inheritance mechanism** as 
  the original JetBrains schemes *`Default`* and *`Darcula`* are. It means that similar languages

@@ -3,7 +3,7 @@
 SCHEMES_TO_INSTALL=("Solarized Dark.icls" "Solarized Light.icls")
 
 IDE_SETTINGS_ROOT=$HOME
-DETECTING_PATH=config/options/project.default.xml
+DETECTING_PATH=config/options/editor.xml
 COLORS_DIR=config/colors
 
 for ((i=0; i < ${#SCHEMES_TO_INSTALL[@]}; i++))
