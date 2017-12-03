@@ -16,7 +16,7 @@
     <option name="HTML_TAG_TREE_LEVEL3" value="2aa198" />
     <option name="HTML_TAG_TREE_LEVEL4" value="268bd2" />
     <option name="HTML_TAG_TREE_LEVEL5" value="d33682" />
-    <option name="INDENT_GUIDE" value="73642" />
+    <option name="INDENT_GUIDE" value="93640" />
     <option name="INFORMATION_HINT" value="2a4f5a" />
     <option name="LINE_NUMBERS_COLOR" value="586e75" />
     <option name="METHOD_SEPARATORS_COLOR" value="73642" />
@@ -25,8 +25,8 @@
     <option name="QUESTION_HINT" value="1f6c8f" />
     <option name="READONLY_FRAGMENT_BACKGROUND" value="" />
     <option name="RECURSIVE_CALL_ATTRIBUTES" value="503d00" />
-    <option name="RIGHT_MARGIN_COLOR" value="73642" />
-    <option name="SELECTED_INDENT_GUIDE" value="586e75" />
+    <option name="RIGHT_MARGIN_COLOR" value="2b4e58" />
+    <option name="SELECTED_INDENT_GUIDE" value="2d5059" />
     <option name="SELECTED_TEARLINE_COLOR" value="657b83" />
     <option name="SELECTION_BACKGROUND" value="657b83" />
     <option name="SELECTION_FOREGROUND" value="2b36" />
@@ -37,6 +37,7 @@
     <option name="VCS_ANNOTATIONS_COLOR_3" value="194352" />
     <option name="VCS_ANNOTATIONS_COLOR_4" value="234251" />
     <option name="VCS_ANNOTATIONS_COLOR_5" value="283943" />
+    <option name="VISUAL_INDENT_GUIDE" value="103a45" />
     <option name="WHITESPACES" value="586e75" />
     <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="284641" />
   </colors>
@@ -699,6 +700,16 @@
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
+    <option name="EVALUATED_EXPRESSION_ATTRIBUTES">
+      <value>
+        <option name="BACKGROUND" value="1d404a" />
+      </value>
+    </option>
+    <option name="EVALUATED_EXPRESSION_EXECUTION_LINE_ATTRIBUTES">
+      <value>
+        <option name="BACKGROUND" value="22454f" />
+      </value>
+    </option>
     <option name="EXECUTIONPOINT_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="bbb5bf" />
@@ -845,6 +856,12 @@
       <value>
         <option name="FOREGROUND" value="586e75" />
         <option name="BACKGROUND" value="133b45" />
+      </value>
+    </option>
+    <option name="INLINE_PARAMETER_HINT_HIGHLIGHTED">
+      <value>
+        <option name="FOREGROUND" value="839496" />
+        <option name="BACKGROUND" value="496870" />
       </value>
     </option>
     <option name="INSTANCE_FIELD_ATTRIBUTES" baseAttributes="DEFAULT_INSTANCE_FIELD" />
@@ -1309,6 +1326,12 @@
     <option name="MARKDOWN_TABLE_SEPARATOR">
       <value>
         <option name="FOREGROUND" value="586e75" />
+      </value>
+    </option>
+    <option name="MARKED_FOR_REMOVAL_ATTRIBUTES">
+      <value>
+        <option name="EFFECT_COLOR" value="dc322f" />
+        <option name="EFFECT_TYPE" value="3" />
       </value>
     </option>
     <option name="MATCHED_BRACE_ATTRIBUTES">

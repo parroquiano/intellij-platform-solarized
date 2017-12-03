@@ -43,7 +43,7 @@ Supported products:
 **`RubyMine`**
 **`PhpStorm`**
 **`WebStorm`**
-**`Gogland`**
+**`GoLand`**
 
 **Plugins**:
 **`Scala`**
@@ -199,7 +199,7 @@ IDE settings:
 
 Screenshots
 ------------
-*for demo, not all the languages supported by this project is shown here but some of the most popular*
+*for demo, not all the languages supported by this project are shown here but some of the most popular*
 
 ### C++
 <p float="center">
