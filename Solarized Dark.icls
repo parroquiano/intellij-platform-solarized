@@ -7,8 +7,11 @@
     <option name="CARET_ROW_COLOR" value="8323d" />
     <option name="CONSOLE_BACKGROUND_KEY" value="2b36" />
     <option name="DELETED_LINES_COLOR" value="496e7d" />
+    <option name="DIFF_SEPARATORS_BACKGROUND" value="4242a" />
+    <option name="DIFF_SEPARATORS_TOP_BORDER" value="1e26" />
     <option name="DOCUMENTATION_COLOR" value="2a4f5a" />
     <option name="ERROR_HINT" value="611738" />
+    <option name="FOLDED_TEXT_BORDER_COLOR" value="1b4652" />
     <option name="GUTTER_BACKGROUND" value="73642" />
     <option name="HTML_TAG_TREE_LEVEL0" value="dc322f" />
     <option name="HTML_TAG_TREE_LEVEL1" value="b58900" />
@@ -40,6 +43,9 @@
     <option name="VISUAL_INDENT_GUIDE" value="103a45" />
     <option name="WHITESPACES" value="586e75" />
     <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="284641" />
+    <option name="IGNORED_ADDED_LINES_BORDER_COLOR" value="2d6754" />
+    <option name="IGNORED_MODIFIED_LINES_BORDER_COLOR" value="25566b" />
+    <option name="IGNORED_DELETED_LINES_BORDER_COLOR" value="496e7d" />
   </colors>
   <attributes>
     <option name="A3_SQF_COMMAND">
@@ -858,10 +864,16 @@
         <option name="BACKGROUND" value="133b45" />
       </value>
     </option>
+    <option name="INLINE_PARAMETER_HINT_CURRENT">
+      <value>
+        <option name="FOREGROUND" value="839496" />
+        <option name="BACKGROUND" value="f597c" />
+      </value>
+    </option>
     <option name="INLINE_PARAMETER_HINT_HIGHLIGHTED">
       <value>
         <option name="FOREGROUND" value="839496" />
-        <option name="BACKGROUND" value="496870" />
+        <option name="BACKGROUND" value="2b4e58" />
       </value>
     </option>
     <option name="INSTANCE_FIELD_ATTRIBUTES" baseAttributes="DEFAULT_INSTANCE_FIELD" />
