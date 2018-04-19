@@ -19,6 +19,9 @@
     <option name="HTML_TAG_TREE_LEVEL3" value="2aa198" />
     <option name="HTML_TAG_TREE_LEVEL4" value="268bd2" />
     <option name="HTML_TAG_TREE_LEVEL5" value="d33682" />
+    <option name="IGNORED_ADDED_LINES_BORDER_COLOR" value="9fbf85" />
+    <option name="IGNORED_DELETED_LINES_BORDER_COLOR" value="9e998e" />
+    <option name="IGNORED_MODIFIED_LINES_BORDER_COLOR" value="94adbe" />
     <option name="INDENT_GUIDE" value="e2dccc" />
     <option name="INFORMATION_HINT" value="fbf6c9" />
     <option name="LINE_NUMBERS_COLOR" value="93a1a1" />
@@ -43,9 +46,6 @@
     <option name="VISUAL_INDENT_GUIDE" value="ece6d4" />
     <option name="WHITESPACES" value="93a1a1" />
     <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="ecd5a7" />
-	<option name="IGNORED_ADDED_LINES_BORDER_COLOR" value="9fbf85" />
-    <option name="IGNORED_MODIFIED_LINES_BORDER_COLOR" value="94adbe" />
-    <option name="IGNORED_DELETED_LINES_BORDER_COLOR" value="9e998e" />
   </colors>
   <attributes>
     <option name="A3_SQF_COMMAND">
@@ -802,6 +802,21 @@
         <option name="FOREGROUND" value="268bd2" />
       </value>
     </option>
+    <option name="HTTP_REQUEST_MULTIPART_BOUNDARY">
+      <value>
+        <option name="FOREGROUND" value="93a1a1" />
+      </value>
+    </option>
+    <option name="HTTP_REQUEST_PARAMETER_NAME">
+      <value>
+        <option name="FOREGROUND" value="b58900" />
+      </value>
+    </option>
+    <option name="HTTP_REQUEST_PARAMETER_VALUE">
+      <value>
+        <option name="FOREGROUND" value="2aa198" />
+      </value>
+    </option>
     <option name="HYPERLINK_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="268bd2" />
@@ -830,7 +845,7 @@
     </option>
     <option name="INJECTED_LANGUAGE_FRAGMENT">
       <value>
-        <option name="BACKGROUND" value="eee8d5" />
+        <option name="BACKGROUND" value="ebf4d3" />
       </value>
     </option>
     <option name="INLINE_PARAMETER_HINT">
@@ -1095,34 +1110,9 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
-    <option name="LOGCAT_ASSERT_OUTPUT">
-      <value>
-        <option name="FOREGROUND" value="cf357f" />
-      </value>
-    </option>
-    <option name="LOGCAT_DEBUG_OUTPUT">
-      <value>
-        <option name="FOREGROUND" value="6c71c4" />
-      </value>
-    </option>
-    <option name="LOGCAT_ERROR_OUTPUT">
-      <value>
-        <option name="FOREGROUND" value="db322f" />
-      </value>
-    </option>
-    <option name="LOGCAT_INFO_OUTPUT">
-      <value>
-        <option name="FOREGROUND" value="2aa198" />
-      </value>
-    </option>
-    <option name="LOGCAT_VERBOSE_OUTPUT">
-      <value>
-        <option name="FOREGROUND" value="cb4b16" />
-      </value>
-    </option>
     <option name="LOGCAT_WARNING_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="b38700" />
+        <option name="FOREGROUND" value="b58900" />
       </value>
     </option>
     <option name="LOG_ERROR_OUTPUT">

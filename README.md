@@ -147,6 +147,7 @@ IDE settings:
 `Haskell`
 `HOCON`
 `HTML`
+`HTTP Request`
 `Ini`
 `JavaScript`
 `Java`

@@ -19,6 +19,9 @@
     <option name="HTML_TAG_TREE_LEVEL3" value="2aa198" />
     <option name="HTML_TAG_TREE_LEVEL4" value="268bd2" />
     <option name="HTML_TAG_TREE_LEVEL5" value="d33682" />
+    <option name="IGNORED_ADDED_LINES_BORDER_COLOR" value="2d6754" />
+    <option name="IGNORED_DELETED_LINES_BORDER_COLOR" value="496e7d" />
+    <option name="IGNORED_MODIFIED_LINES_BORDER_COLOR" value="25566b" />
     <option name="INDENT_GUIDE" value="93640" />
     <option name="INFORMATION_HINT" value="2a4f5a" />
     <option name="LINE_NUMBERS_COLOR" value="586e75" />
@@ -43,9 +46,6 @@
     <option name="VISUAL_INDENT_GUIDE" value="103a45" />
     <option name="WHITESPACES" value="586e75" />
     <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="284641" />
-    <option name="IGNORED_ADDED_LINES_BORDER_COLOR" value="2d6754" />
-    <option name="IGNORED_MODIFIED_LINES_BORDER_COLOR" value="25566b" />
-    <option name="IGNORED_DELETED_LINES_BORDER_COLOR" value="496e7d" />
   </colors>
   <attributes>
     <option name="A3_SQF_COMMAND">
@@ -649,7 +649,7 @@
     </option>
     <option name="DIFF_INSERTED">
       <value>
-        <option name="BACKGROUND" value="3f3b" />
+        <option name="BACKGROUND" value="4132" />
         <option name="ERROR_STRIPE_COLOR" value="237058" />
       </value>
     </option>
@@ -827,6 +827,21 @@
         <option name="FOREGROUND" value="268bd2" />
       </value>
     </option>
+    <option name="HTTP_REQUEST_MULTIPART_BOUNDARY">
+      <value>
+        <option name="FOREGROUND" value="586e75" />
+      </value>
+    </option>
+    <option name="HTTP_REQUEST_PARAMETER_NAME">
+      <value>
+        <option name="FOREGROUND" value="b58900" />
+      </value>
+    </option>
+    <option name="HTTP_REQUEST_PARAMETER_VALUE">
+      <value>
+        <option name="FOREGROUND" value="2aa198" />
+      </value>
+    </option>
     <option name="HYPERLINK_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="268bd2" />
@@ -855,7 +870,7 @@
     </option>
     <option name="INJECTED_LANGUAGE_FRAGMENT">
       <value>
-        <option name="BACKGROUND" value="73642" />
+        <option name="BACKGROUND" value="43e3e" />
       </value>
     </option>
     <option name="INLINE_PARAMETER_HINT">
@@ -1120,34 +1135,9 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
-    <option name="LOGCAT_ASSERT_OUTPUT">
-      <value>
-        <option name="FOREGROUND" value="cf357f" />
-      </value>
-    </option>
-    <option name="LOGCAT_DEBUG_OUTPUT">
-      <value>
-        <option name="FOREGROUND" value="6c71c4" />
-      </value>
-    </option>
-    <option name="LOGCAT_ERROR_OUTPUT">
-      <value>
-        <option name="FOREGROUND" value="db322f" />
-      </value>
-    </option>
-    <option name="LOGCAT_INFO_OUTPUT">
-      <value>
-        <option name="FOREGROUND" value="2aa198" />
-      </value>
-    </option>
-    <option name="LOGCAT_VERBOSE_OUTPUT">
-      <value>
-        <option name="FOREGROUND" value="cb4b16" />
-      </value>
-    </option>
     <option name="LOGCAT_WARNING_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="b38700" />
+        <option name="FOREGROUND" value="b58900" />
       </value>
     </option>
     <option name="LOG_ERROR_OUTPUT">
@@ -1727,7 +1717,7 @@
     </option>
     <option name="REST.FIXED">
       <value>
-        <option name="BACKGROUND" value="3506" />
+        <option name="BACKGROUND" value="1d415f" />
       </value>
     </option>
     <option name="REST.INLINE">
