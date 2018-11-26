@@ -7,7 +7,7 @@
     <option name="CARET_ROW_COLOR" value="8323d" />
     <option name="CONSOLE_BACKGROUND_KEY" value="2b36" />
     <option name="DELETED_LINES_COLOR" value="496e7d" />
-    <option name="DIFF_SEPARATORS_BACKGROUND" value="4242a" />
+    <option name="DIFF_SEPARATORS_BACKGROUND" value="2129" />
     <option name="DIFF_SEPARATORS_TOP_BORDER" value="1e26" />
     <option name="DOCUMENTATION_COLOR" value="2a4f5a" />
     <option name="ERROR_HINT" value="611738" />
@@ -25,9 +25,10 @@
     <option name="INDENT_GUIDE" value="93640" />
     <option name="INFORMATION_HINT" value="2a4f5a" />
     <option name="LINE_NUMBERS_COLOR" value="586e75" />
+    <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="74878c" />
     <option name="METHOD_SEPARATORS_COLOR" value="73642" />
     <option name="MODIFIED_LINES_COLOR" value="c4357" />
-    <option name="NOTIFICATION_BACKGROUND" value="3d5e4d" />
+    <option name="NOTIFICATION_BACKGROUND" value="3359" />
     <option name="QUESTION_HINT" value="1f6c8f" />
     <option name="READONLY_FRAGMENT_BACKGROUND" value="" />
     <option name="RECURSIVE_CALL_ATTRIBUTES" value="503d00" />
@@ -472,13 +473,13 @@
     </option>
     <option name="DEBUGGER_INLINED_VALUES">
       <value>
-        <option name="FOREGROUND" value="1f7e69" />
+        <option name="FOREGROUND" value="4a6d7c" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="DEBUGGER_INLINED_VALUES_EXECUTION_LINE">
       <value>
-        <option name="FOREGROUND" value="ffeb09" />
+        <option name="FOREGROUND" value="6c94b7" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -713,6 +714,13 @@
       </value>
     </option>
     <option name="ERRORS_ATTRIBUTES">
+      <value>
+        <option name="EFFECT_COLOR" value="dc322f" />
+        <option name="ERROR_STRIPE_COLOR" value="dc322f" />
+        <option name="EFFECT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="FILESTATUS_ERRORS">
       <value>
         <option name="EFFECT_COLOR" value="dc322f" />
         <option name="ERROR_STRIPE_COLOR" value="dc322f" />
