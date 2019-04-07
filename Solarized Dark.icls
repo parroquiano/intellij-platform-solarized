@@ -882,6 +882,12 @@
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
+    <option name="INACTIVE_HYPERLINK_ATTRIBUTES">
+      <value>
+        <option name="EFFECT_COLOR" value="586e75" />
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
     <option name="INFO_ATTRIBUTES">
       <value>
         <option name="EFFECT_COLOR" value="586e75" />
@@ -1697,7 +1703,7 @@
     </option>
     <option name="PY.STRING.U">
       <value>
-        <option name="FOREGROUND" value="6c9d59" />
+        <option name="FOREGROUND" value="268bd2" />
       </value>
     </option>
     <option name="Predefined types">
@@ -2630,6 +2636,11 @@
       <value>
         <option name="FOREGROUND" value="839496" />
         <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="YAML_ANCHOR">
+      <value>
+        <option name="FOREGROUND" value="b58900" />
       </value>
     </option>
     <option name="bemhtml.bem.error">
