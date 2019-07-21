@@ -9,7 +9,7 @@
     <option name="DELETED_LINES_COLOR" value="9e998e" />
     <option name="DIFF_SEPARATORS_BACKGROUND" value="d7d1c1" />
     <option name="DIFF_SEPARATORS_TOP_BORDER" value="c8c3b5" />
-    <option name="DOCUMENTATION_COLOR" value="f4eddb" />
+    <option name="DOCUMENTATION_COLOR" value="f5eedc" />
     <option name="ERROR_HINT" value="fdd4c4" />
     <option name="FOLDED_TEXT_BORDER_COLOR" value="acd3b4" />
     <option name="GUTTER_BACKGROUND" value="eee8d5" />
@@ -23,7 +23,7 @@
     <option name="IGNORED_DELETED_LINES_BORDER_COLOR" value="9e998e" />
     <option name="IGNORED_MODIFIED_LINES_BORDER_COLOR" value="94adbe" />
     <option name="INDENT_GUIDE" value="e2dccc" />
-    <option name="INFORMATION_HINT" value="fbf6c9" />
+    <option name="INFORMATION_HINT" value="f5eedc" />
     <option name="LINE_NUMBERS_COLOR" value="93a1a1" />
     <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="74878c" />
     <option name="METHOD_SEPARATORS_COLOR" value="eee8d5" />
@@ -31,6 +31,7 @@
     <option name="NOTIFICATION_BACKGROUND" value="faeeb7" />
     <option name="QUESTION_HINT" value="b6cce9" />
     <option name="READONLY_FRAGMENT_BACKGROUND" value="" />
+    <option name="RECENT_LOCATIONS_SELECTION" value="e7e6db" />
     <option name="RECURSIVE_CALL_ATTRIBUTES" value="fcf5bd" />
     <option name="RIGHT_MARGIN_COLOR" value="ded8c7" />
     <option name="SELECTED_INDENT_GUIDE" value="c8c3b5" />
@@ -38,6 +39,9 @@
     <option name="SELECTION_BACKGROUND" value="839496" />
     <option name="SELECTION_FOREGROUND" value="fdf6e3" />
     <option name="SEPARATOR_BELOW_COLOR" value="e2dccb" />
+    <option name="SOFT_WRAP_SIGN_COLOR" value="" />
+    <option name="ScrollBar.hoverThumbColor" value="726f6647" />
+    <option name="ScrollBar.thumbColor" value="726f6633" />
     <option name="TEARLINE_COLOR" value="93a1a1" />
     <option name="VCS_ANNOTATIONS_COLOR_1" value="e8f7c9" />
     <option name="VCS_ANNOTATIONS_COLOR_2" value="cfcaba" />
@@ -189,6 +193,11 @@
     <option name="CMD_LABEL">
       <value>
         <option name="FOREGROUND" value="268bd2" />
+      </value>
+    </option>
+    <option name="CODE_LENS_BORDER_COLOR">
+      <value>
+        <option name="EFFECT_COLOR" value="657b83" />
       </value>
     </option>
     <option name="COFFEESCRIPT.FUNCTION_NAME">
@@ -482,6 +491,17 @@
       <value>
         <option name="FOREGROUND" value="c67c19" />
         <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="DEBUGGER_SMART_STEP_INTO_SELECTION">
+      <value>
+        <option name="BACKGROUND" value="f1adeb" />
+        <option name="EFFECT_COLOR" value="ca21c5" />
+      </value>
+    </option>
+    <option name="DEBUGGER_SMART_STEP_INTO_TARGET">
+      <value>
+        <option name="BACKGROUND" value="ddc9d7" />
       </value>
     </option>
     <option name="DEFAULT_ATTRIBUTE" baseAttributes="DEFAULT_IDENTIFIER" />
@@ -1368,8 +1388,6 @@
     <option name="NOT_USED_ELEMENT_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="93a1a1" />
-        <option name="EFFECT_COLOR" value="93a1a1" />
-        <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
     <option name="OC.CONDITIONALLY_NOT_COMPILED">
