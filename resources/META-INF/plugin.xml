@@ -1,0 +1,50 @@
+<idea-plugin>
+  <name>Solarized Themes</name>
+  <id>com.4lex4.intellij.solarized</id>
+  <version>2.0.0</version>
+  <vendor email="4lex49@zoho.com">4lex4</vendor>
+  <category>Editor Color Schemes</category>
+  <category>UI</category>
+
+  <description>
+    <![CDATA[
+Adds Solarized Dark and Light color themes.
+<br/><br/>
+
+Notable features:
+<ul>
+<li>High quality and consistent both the UI and editor schemes with an adaptation of every minor color (for the supported IDE version) completelly avoiding any usage of Default or Darcula colors</li>
+<li>Clean editor schemes with regular font styles avoiding bolds</li>
+<li>Usage of inheritance mechanism to achieve unified look and feel between various languages (so, for example, syntax highlighting for such static typed languages as Java, Kotlin, C#, Go or C++ and so on is as similar as possible and the same for the other kinds of languages)</li>
+</ul>
+<br/><br/><br/>
+
+To install:
+<ol>
+<li>Go to <b>Settings | Plugins</b>, find the theme plugin and install it</li>
+<li>Restart the IDE</li>
+<li>Go to <b>Settings | Appearance & Behavior | Appearance</b> and select <b>Solarized Dark</b> or <b>Solarized Light</b> in the Theme dropdown</li>
+<li>Or to select only an editor scheme go to <b>Settings | Editor | Color Scheme</b> and select <b>Solarized Dark (4lex4)</b> or <b>Solarized Light (4lex4)</b> in the Scheme dropdown</li>
+</ol>
+    ]]>
+  </description>
+
+  <change-notes>
+    <![CDATA[
+    ]]>
+  </change-notes>
+
+  <idea-version since-build="191.0"/>
+
+  <depends>com.intellij.modules.lang</depends>
+
+  <extensions defaultExtensionNs="com.intellij">
+    <themeProvider id="6a41f0b6-ad89-4fc0-a326-ff52958b07b7" path="/SolarizedDark.theme.json"/>
+    <themeProvider id="987fea89-a3e4-45f6-9898-7dbace4d7bd3" path="/SolarizedLight.theme.json"/>
+  </extensions>
+
+  <actions>
+    <!-- Add your actions here -->
+  </actions>
+
+</idea-plugin>

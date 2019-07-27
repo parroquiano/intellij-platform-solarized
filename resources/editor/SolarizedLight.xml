@@ -1,56 +1,105 @@
-<scheme name="Solarized Dark" version="142" parent_scheme="Default">
+<scheme name="Solarized Light (4lex4)" version="142" parent_scheme="Default">
   <colors>
-    <option name="ADDED_LINES_COLOR" value="10483e" />
-    <option name="ANNOTATIONS_COLOR" value="7899a4" />
+    <option name="ADDED_LINES_COLOR" value="c4d4aa" />
+    <option name="ANNOTATIONS_COLOR" value="7a54e0" />
     <option name="ANNOTATIONS_MERGED_COLOR" value="2aa198" />
-    <option name="CARET_COLOR" value="93a1a1" />
-    <option name="CARET_ROW_COLOR" value="8323d" />
-    <option name="CONSOLE_BACKGROUND_KEY" value="2b36" />
-    <option name="DELETED_LINES_COLOR" value="496e7d" />
-    <option name="DIFF_SEPARATORS_BACKGROUND" value="2129" />
-    <option name="DIFF_SEPARATORS_TOP_BORDER" value="1e26" />
-    <option name="DOCUMENTATION_COLOR" value="1d4650" />
-    <option name="ERROR_HINT" value="671c3c" />
-    <option name="FOLDED_TEXT_BORDER_COLOR" value="1b4652" />
-    <option name="GUTTER_BACKGROUND" value="73642" />
+    <option name="CARET_COLOR" value="586e75" />
+    <option name="CARET_ROW_COLOR" value="f5eedc" />
+    <option name="CONSOLE_BACKGROUND_KEY" value="fdf6e3" />
+    <option name="DELETED_LINES_COLOR" value="9e998e" />
+    <option name="DIFF_SEPARATORS_BACKGROUND" value="d7d1c1" />
+    <option name="DIFF_SEPARATORS_TOP_BORDER" value="c8c3b5" />
+    <option name="DOCUMENTATION_COLOR" value="f5eedc" />
+    <option name="ERROR_HINT" value="fdd4c4" />
+    <option name="FOLDED_TEXT_BORDER_COLOR" value="acd3b4" />
+    <option name="GUTTER_BACKGROUND" value="eee8d5" />
     <option name="HTML_TAG_TREE_LEVEL0" value="dc322f" />
     <option name="HTML_TAG_TREE_LEVEL1" value="b58900" />
     <option name="HTML_TAG_TREE_LEVEL2" value="859900" />
     <option name="HTML_TAG_TREE_LEVEL3" value="2aa198" />
     <option name="HTML_TAG_TREE_LEVEL4" value="268bd2" />
     <option name="HTML_TAG_TREE_LEVEL5" value="d33682" />
-    <option name="IGNORED_ADDED_LINES_BORDER_COLOR" value="2d6754" />
-    <option name="IGNORED_DELETED_LINES_BORDER_COLOR" value="496e7d" />
-    <option name="IGNORED_MODIFIED_LINES_BORDER_COLOR" value="25566b" />
-    <option name="INDENT_GUIDE" value="93640" />
-    <option name="INFORMATION_HINT" value="284f58" />
-    <option name="LINE_NUMBERS_COLOR" value="586e75" />
+    <option name="IGNORED_ADDED_LINES_BORDER_COLOR" value="9fbf85" />
+    <option name="IGNORED_DELETED_LINES_BORDER_COLOR" value="9e998e" />
+    <option name="IGNORED_MODIFIED_LINES_BORDER_COLOR" value="94adbe" />
+    <option name="INDENT_GUIDE" value="e2dccc" />
+    <option name="INFORMATION_HINT" value="f5eedc" />
+    <option name="LINE_NUMBERS_COLOR" value="93a1a1" />
     <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="74878c" />
-    <option name="METHOD_SEPARATORS_COLOR" value="73642" />
-    <option name="MODIFIED_LINES_COLOR" value="c4357" />
-    <option name="NOTIFICATION_BACKGROUND" value="3359" />
-    <option name="QUESTION_HINT" value="1c698b" />
+    <option name="METHOD_SEPARATORS_COLOR" value="eee8d5" />
+    <option name="MODIFIED_LINES_COLOR" value="c1cfd3" />
+    <option name="NOTIFICATION_BACKGROUND" value="faeeb7" />
+    <option name="QUESTION_HINT" value="b6cce9" />
     <option name="READONLY_FRAGMENT_BACKGROUND" value="" />
-    <option name="RECENT_LOCATIONS_SELECTION" value="103842" />
-    <option name="RECURSIVE_CALL_ATTRIBUTES" value="503d00" />
-    <option name="RIGHT_MARGIN_COLOR" value="2b4e58" />
-    <option name="SELECTED_INDENT_GUIDE" value="2d5059" />
-    <option name="SELECTED_TEARLINE_COLOR" value="657b83" />
-    <option name="SELECTION_BACKGROUND" value="657b83" />
-    <option name="SELECTION_FOREGROUND" value="2b36" />
-    <option name="SEPARATOR_BELOW_COLOR" value="113a46" />
+    <option name="RECENT_LOCATIONS_SELECTION" value="e7e6db" />
+    <option name="RECURSIVE_CALL_ATTRIBUTES" value="fcf5bd" />
+    <option name="RIGHT_MARGIN_COLOR" value="ded8c7" />
+    <option name="SELECTED_INDENT_GUIDE" value="c8c3b5" />
+    <option name="SELECTED_TEARLINE_COLOR" value="839496" />
+    <option name="SELECTION_BACKGROUND" value="839496" />
+    <option name="SELECTION_FOREGROUND" value="fdf6e3" />
+    <option name="SEPARATOR_BELOW_COLOR" value="e2dccb" />
     <option name="SOFT_WRAP_SIGN_COLOR" value="" />
-    <option name="ScrollBar.hoverThumbColor" value="94a6ab47" />
-    <option name="ScrollBar.thumbColor" value="94a6ab33" />
-    <option name="TEARLINE_COLOR" value="586e75" />
-    <option name="VCS_ANNOTATIONS_COLOR_1" value="244d4e" />
-    <option name="VCS_ANNOTATIONS_COLOR_2" value="1a414a" />
-    <option name="VCS_ANNOTATIONS_COLOR_3" value="194352" />
-    <option name="VCS_ANNOTATIONS_COLOR_4" value="234251" />
-    <option name="VCS_ANNOTATIONS_COLOR_5" value="283943" />
-    <option name="VISUAL_INDENT_GUIDE" value="103a45" />
-    <option name="WHITESPACES" value="586e75" />
-    <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="284641" />
+    <option name="ScrollBar.hoverThumbColor" value="726f6647" />
+    <option name="ScrollBar.thumbColor" value="726f6633" />
+    <option name="TEARLINE_COLOR" value="93a1a1" />
+    <option name="VCS_ANNOTATIONS_COLOR_1" value="e8f7c9" />
+    <option name="VCS_ANNOTATIONS_COLOR_2" value="cfcaba" />
+    <option name="VCS_ANNOTATIONS_COLOR_3" value="d7dce1" />
+    <option name="VCS_ANNOTATIONS_COLOR_4" value="faf2b6" />
+    <option name="VCS_ANNOTATIONS_COLOR_5" value="feb8ae" />
+    <option name="VISUAL_INDENT_GUIDE" value="ece6d4" />
+    <option name="WHITESPACES" value="93a1a1" />
+    <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="ecd5a7" />
+
+    <option name="FILESTATUS_ADDED" value="047400"/>
+    <option name="FILESTATUS_COPIED" value="047400"/>
+    <option name="FILESTATUS_DELETED" value="615E56"/>
+    <option name="FILESTATUS_IDEA_FILESTATUS_DELETED_FROM_FILE_SYSTEM" value="76368E"/>
+    <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="717032"/>
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_BOTH_CONFLICTS" value="F80000"/>
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_CONFLICTS" value="F80000"/>
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_PROPERTY_CONFLICTS" value="F80000"/>
+    <option name="FILESTATUS_MERGED" value="7300D9"/>
+    <option name="FILESTATUS_MODIFIED" value="00309D"/>
+    <option name="FILESTATUS_RENAMED" value="007B7B"/>
+    <option name="FILESTATUS_NOT_CHANGED" value=""/>
+    <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="3162AE"/>
+    <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="889FB7"/>
+    <option name="FILESTATUS_UNKNOWN" value="963100"/>
+    <option name="FILESTATUS_addedOutside" value="00A500"/>
+    <option name="FILESTATUS_changelistConflict" value="F80000"/>
+    <option name="FILESTATUS_modifiedOutside" value="0044DF"/>
+    <option name="FILESTATUS_HIJACKED" value="AD8800"/>
+    <option name="FILESTATUS_OBSOLETE" value="787800"/>
+    <option name="FILESTATUS_SWITCHED" value="009288"/>
+    <option name="FILESTATUS_SUPPRESSED" value=""/>
+
+    <option name="ScrollBar.background" value="F5F0E3"/>
+    <option name="ScrollBar.trackColor" value="80808000"/>
+    <option name="ScrollBar.thumbColor" value="73737333"/>
+    <option name="ScrollBar.thumbBorderColor" value="59595933"/>
+    <option name="ScrollBar.hoverTrackColor" value="80808000"/>
+    <option name="ScrollBar.hoverThumbColor" value="73737347"/>
+    <option name="ScrollBar.hoverThumbBorderColor" value="59595947"/>
+    <option name="ScrollBar.Transparent.trackColor" value="80808000"/>
+    <option name="ScrollBar.Transparent.thumbColor" value="73737333"/>
+    <option name="ScrollBar.Transparent.thumbBorderColor" value="59595933"/>
+    <option name="ScrollBar.Transparent.hoverTrackColor" value="8080801A"/>
+    <option name="ScrollBar.Transparent.hoverThumbColor" value="73737347"/>
+    <option name="ScrollBar.Transparent.hoverThumbBorderColor" value="59595947"/>
+    <option name="ScrollBar.Mac.trackColor" value="80808000"/>
+    <option name="ScrollBar.Mac.thumbColor" value="00000033"/>
+    <option name="ScrollBar.Mac.thumbBorderColor" value="00000033"/>
+    <option name="ScrollBar.Mac.hoverTrackColor" value="80808000"/>
+    <option name="ScrollBar.Mac.hoverThumbColor" value="00000080"/>
+    <option name="ScrollBar.Mac.hoverThumbBorderColor" value="00000080"/>
+    <option name="ScrollBar.Mac.Transparent.trackColor" value="80808000"/>
+    <option name="ScrollBar.Mac.Transparent.thumbColor" value="00000000"/>
+    <option name="ScrollBar.Mac.Transparent.thumbBorderColor" value="00000000"/>
+    <option name="ScrollBar.Mac.Transparent.hoverTrackColor" value="8080801A"/>
+    <option name="ScrollBar.Mac.Transparent.hoverThumbColor" value="00000080"/>
+    <option name="ScrollBar.Mac.Transparent.hoverThumbBorderColor" value="00000080"/>
   </colors>
   <attributes>
     <option name="A3_SQF_COMMAND">
@@ -66,7 +115,7 @@
     </option>
     <option name="A3_SQF_GLOBAL_VAR">
       <value>
-        <option name="FOREGROUND" value="d13684" />
+        <option name="FOREGROUND" value="d33682" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -110,7 +159,7 @@
     </option>
     <option name="BASH.BINARY_DATA">
       <value>
-        <option name="BACKGROUND" value="43d5f" />
+        <option name="BACKGROUND" value="cbdde5" />
       </value>
     </option>
     <option name="BASH.EXTERNAL_COMMAND">
@@ -132,7 +181,7 @@
     </option>
     <option name="BASH.HERE_DOC">
       <value>
-        <option name="BACKGROUND" value="73642" />
+        <option name="BACKGROUND" value="eee8d5" />
       </value>
     </option>
     <option name="BASH.INTERNAL_COMMAND">
@@ -148,41 +197,41 @@
     </option>
     <option name="BASH.SHEBANG">
       <value>
-        <option name="FOREGROUND" value="839496" />
+        <option name="FOREGROUND" value="657b83" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="BOOKMARKS_ATTRIBUTES">
       <value>
-        <option name="ERROR_STRIPE_COLOR" value="d4b7b0" />
+        <option name="ERROR_STRIPE_COLOR" value="73642" />
       </value>
     </option>
     <option name="BREADCRUMBS_CURRENT">
       <value>
-        <option name="FOREGROUND" value="93a1a1" />
-        <option name="BACKGROUND" value="22454f" />
+        <option name="FOREGROUND" value="586e75" />
+        <option name="BACKGROUND" value="d4cebf" />
       </value>
     </option>
     <option name="BREADCRUMBS_DEFAULT">
       <value>
-        <option name="FOREGROUND" value="93a1a1" />
+        <option name="FOREGROUND" value="586e75" />
       </value>
     </option>
     <option name="BREADCRUMBS_HOVERED">
       <value>
-        <option name="FOREGROUND" value="93a1a1" />
-        <option name="BACKGROUND" value="173f48" />
+        <option name="FOREGROUND" value="586e75" />
+        <option name="BACKGROUND" value="ded8c7" />
       </value>
     </option>
     <option name="BREADCRUMBS_INACTIVE">
       <value>
-        <option name="FOREGROUND" value="93a1a1" />
+        <option name="FOREGROUND" value="586e75" />
       </value>
     </option>
     <option name="BREAKPOINT_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="19252f" />
-        <option name="ERROR_STRIPE_COLOR" value="4b463f" />
+        <option name="BACKGROUND" value="f8e2cd" />
+        <option name="ERROR_STRIPE_COLOR" value="fdc1b2" />
       </value>
     </option>
     <option name="CLASS_REFERENCE">
@@ -197,7 +246,7 @@
     </option>
     <option name="CODE_LENS_BORDER_COLOR">
       <value>
-        <option name="EFFECT_COLOR" value="839496" />
+        <option name="EFFECT_COLOR" value="657b83" />
       </value>
     </option>
     <option name="COFFEESCRIPT.FUNCTION_NAME">
@@ -207,7 +256,7 @@
     </option>
     <option name="COFFEESCRIPT.IDENTIFIER">
       <value>
-        <option name="FOREGROUND" value="839496" />
+        <option name="FOREGROUND" value="657b83" />
       </value>
     </option>
     <option name="COFFEESCRIPT.STRING">
@@ -217,12 +266,12 @@
     </option>
     <option name="CONDITIONALLY_NOT_COMPILED">
       <value>
-        <option name="FOREGROUND" value="657b83" />
+        <option name="FOREGROUND" value="839496" />
       </value>
     </option>
     <option name="CONSOLE_BLACK_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="93a1a1" />
+        <option name="FOREGROUND" value="586e75" />
       </value>
     </option>
     <option name="CONSOLE_BLUE_BRIGHT_OUTPUT">
@@ -249,7 +298,7 @@
     </option>
     <option name="CONSOLE_DARKGRAY_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="586e75" />
+        <option name="FOREGROUND" value="93a1a1" />
       </value>
     </option>
     <option name="CONSOLE_ERROR_OUTPUT">
@@ -259,7 +308,7 @@
     </option>
     <option name="CONSOLE_GRAY_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="657b83" />
+        <option name="FOREGROUND" value="839496" />
       </value>
     </option>
     <option name="CONSOLE_GREEN_BRIGHT_OUTPUT">
@@ -286,12 +335,12 @@
     </option>
     <option name="CONSOLE_NORMAL_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="839496" />
+        <option name="FOREGROUND" value="657b83" />
       </value>
     </option>
     <option name="CONSOLE_RANGE_TO_EXECUTE">
       <value>
-        <option name="EFFECT_COLOR" value="295a7d" />
+        <option name="EFFECT_COLOR" value="bba3ea" />
       </value>
     </option>
     <option name="CONSOLE_RED_BRIGHT_OUTPUT">
@@ -307,18 +356,13 @@
     </option>
     <option name="CONSOLE_SYSTEM_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="839496" />
+        <option name="FOREGROUND" value="657b83" />
       </value>
     </option>
     <option name="CONSOLE_USER_INPUT">
       <value>
         <option name="FOREGROUND" value="859900" />
         <option name="FONT_TYPE" value="2" />
-      </value>
-    </option>
-    <option name="CONSOLE_WHITE_OUTPUT">
-      <value>
-        <option name="FOREGROUND" value="0" />
       </value>
     </option>
     <option name="CONSOLE_YELLOW_BRIGHT_OUTPUT">
@@ -395,7 +439,7 @@
     <option name="CUSTOM_VALID_STRING_ESCAPE_ATTRIBUTES" baseAttributes="DEFAULT_VALID_STRING_ESCAPE" />
     <option name="Cmd.COMMENT">
       <value>
-        <option name="FOREGROUND" value="586e75" />
+        <option name="FOREGROUND" value="93a1a1" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -441,7 +485,7 @@
     </option>
     <option name="DART.BADCHARACTER">
       <value>
-        <option name="FOREGROUND" value="2b36" />
+        <option name="FOREGROUND" value="fdf6e3" />
         <option name="BACKGROUND" value="d33682" />
       </value>
     </option>
@@ -453,7 +497,7 @@
     </option>
     <option name="DART.COMMENT">
       <value>
-        <option name="FOREGROUND" value="586e75" />
+        <option name="FOREGROUND" value="93a1a1" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -482,37 +526,37 @@
     </option>
     <option name="DEBUGGER_INLINED_VALUES">
       <value>
-        <option name="FOREGROUND" value="4a6d7c" />
+        <option name="FOREGROUND" value="858177" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="DEBUGGER_INLINED_VALUES_EXECUTION_LINE">
       <value>
-        <option name="FOREGROUND" value="6c94b7" />
+        <option name="FOREGROUND" value="a8b1c3" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="DEBUGGER_INLINED_VALUES_MODIFIED">
       <value>
-        <option name="FOREGROUND" value="c67c00" />
+        <option name="FOREGROUND" value="c67c19" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="DEBUGGER_SMART_STEP_INTO_SELECTION">
       <value>
-        <option name="BACKGROUND" value="6c4997" />
-        <option name="EFFECT_COLOR" value="bc6dca" />
+        <option name="BACKGROUND" value="f1adeb" />
+        <option name="EFFECT_COLOR" value="ca21c5" />
       </value>
     </option>
     <option name="DEBUGGER_SMART_STEP_INTO_TARGET">
       <value>
-        <option name="BACKGROUND" value="323866" />
+        <option name="BACKGROUND" value="ddc9d7" />
       </value>
     </option>
     <option name="DEFAULT_ATTRIBUTE" baseAttributes="DEFAULT_IDENTIFIER" />
     <option name="DEFAULT_BLOCK_COMMENT">
       <value>
-        <option name="FOREGROUND" value="586e75" />
+        <option name="FOREGROUND" value="93a1a1" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -534,31 +578,31 @@
     </option>
     <option name="DEFAULT_DOC_COMMENT">
       <value>
-        <option name="FOREGROUND" value="586e75" />
+        <option name="FOREGROUND" value="93a1a1" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="DEFAULT_DOC_COMMENT_TAG">
       <value>
         <option name="FONT_TYPE" value="3" />
-        <option name="EFFECT_COLOR" value="586e75" />
+        <option name="EFFECT_COLOR" value="93a1a1" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="DEFAULT_DOC_COMMENT_TAG_VALUE">
       <value>
-        <option name="FOREGROUND" value="839496" />
+        <option name="FOREGROUND" value="657b83" />
       </value>
     </option>
     <option name="DEFAULT_DOC_MARKUP">
       <value>
-        <option name="BACKGROUND" value="73642" />
+        <option name="BACKGROUND" value="eee8d5" />
       </value>
     </option>
     <option name="DEFAULT_ENTITY" baseAttributes="DEFAULT_IDENTIFIER" />
     <option name="DEFAULT_IDENTIFIER">
       <value>
-        <option name="FOREGROUND" value="839496" />
+        <option name="FOREGROUND" value="657b83" />
       </value>
     </option>
     <option name="DEFAULT_INSTANCE_FIELD">
@@ -568,7 +612,7 @@
     </option>
     <option name="DEFAULT_INSTANCE_METHOD">
       <value>
-        <option name="FOREGROUND" value="839496" />
+        <option name="FOREGROUND" value="657b83" />
       </value>
     </option>
     <option name="DEFAULT_INTERFACE_NAME">
@@ -595,13 +639,13 @@
     </option>
     <option name="DEFAULT_LINE_COMMENT">
       <value>
-        <option name="FOREGROUND" value="586e75" />
+        <option name="FOREGROUND" value="93a1a1" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="DEFAULT_LOCAL_VARIABLE">
       <value>
-        <option name="FOREGROUND" value="839496" />
+        <option name="FOREGROUND" value="657b83" />
       </value>
     </option>
     <option name="DEFAULT_METADATA">
@@ -617,13 +661,13 @@
     <option name="DEFAULT_PREDEFINED_SYMBOL" baseAttributes="DEFAULT_IDENTIFIER" />
     <option name="DEFAULT_REASSIGNED_LOCAL_VARIABLE">
       <value>
-        <option name="EFFECT_COLOR" value="586e75" />
+        <option name="EFFECT_COLOR" value="93a1a1" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="DEFAULT_REASSIGNED_PARAMETER">
       <value>
-        <option name="EFFECT_COLOR" value="586e75" />
+        <option name="EFFECT_COLOR" value="93a1a1" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
@@ -635,7 +679,7 @@
     </option>
     <option name="DEFAULT_STATIC_METHOD">
       <value>
-        <option name="FOREGROUND" value="839496" />
+        <option name="FOREGROUND" value="657b83" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -647,7 +691,7 @@
     <option name="DEFAULT_TAG" baseAttributes="TEXT" />
     <option name="DEFAULT_TEMPLATE_LANGUAGE_COLOR">
       <value>
-        <option name="BACKGROUND" value="73642" />
+        <option name="BACKGROUND" value="eee8d5" />
       </value>
     </option>
     <option name="DEFAULT_VALID_STRING_ESCAPE">
@@ -657,40 +701,40 @@
     </option>
     <option name="DELETED_TEXT_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="586e75" />
-        <option name="BACKGROUND" value="73642" />
-        <option name="EFFECT_COLOR" value="586e75" />
+        <option name="FOREGROUND" value="93a1a1" />
+        <option name="BACKGROUND" value="eee8d5" />
+        <option name="EFFECT_COLOR" value="93a1a1" />
         <option name="EFFECT_TYPE" value="3" />
       </value>
     </option>
     <option name="DEPRECATED_ATTRIBUTES">
       <value>
-        <option name="EFFECT_COLOR" value="586e75" />
+        <option name="EFFECT_COLOR" value="93a1a1" />
         <option name="EFFECT_TYPE" value="3" />
       </value>
     </option>
     <option name="DIFF_CONFLICT">
       <value>
-        <option name="BACKGROUND" value="3b3333" />
-        <option name="ERROR_STRIPE_COLOR" value="7b544f" />
+        <option name="BACKGROUND" value="fdceb6" />
+        <option name="ERROR_STRIPE_COLOR" value="fabea4" />
       </value>
     </option>
     <option name="DIFF_DELETED">
       <value>
-        <option name="BACKGROUND" value="214851" />
-        <option name="ERROR_STRIPE_COLOR" value="496e7d" />
+        <option name="BACKGROUND" value="d4cebf" />
+        <option name="ERROR_STRIPE_COLOR" value="c8c3b5" />
       </value>
     </option>
     <option name="DIFF_INSERTED">
       <value>
-        <option name="BACKGROUND" value="4132" />
-        <option name="ERROR_STRIPE_COLOR" value="237058" />
+        <option name="BACKGROUND" value="bddfa9" />
+        <option name="ERROR_STRIPE_COLOR" value="a6d695" />
       </value>
     </option>
     <option name="DIFF_MODIFIED">
       <value>
-        <option name="BACKGROUND" value="175375" />
-        <option name="ERROR_STRIPE_COLOR" value="2b6790" />
+        <option name="BACKGROUND" value="c6d0e1" />
+        <option name="ERROR_STRIPE_COLOR" value="b7c4e1" />
       </value>
     </option>
     <option name="DJANGO_ID">
@@ -703,19 +747,13 @@
     </option>
     <option name="DUPLICATE_FROM_SERVER">
       <value>
-        <option name="EFFECT_COLOR" value="586e75" />
+        <option name="EFFECT_COLOR" value="93a1a1" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
     <option name="ENUM_CONST">
       <value>
         <option name="FOREGROUND" value="859900" />
-      </value>
-    </option>
-    <option name="ERL_ATOM">
-      <value>
-        <option name="FOREGROUND" value="839496" />
-        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="ERL_MACRO" baseAttributes="DEFAULT_STATIC_FIELD" />
@@ -749,24 +787,24 @@
     </option>
     <option name="EVALUATED_EXPRESSION_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="1d404a" />
+        <option name="BACKGROUND" value="e3ddcc" />
       </value>
     </option>
     <option name="EVALUATED_EXPRESSION_EXECUTION_LINE_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="22454f" />
+        <option name="BACKGROUND" value="beb8aa" />
       </value>
     </option>
     <option name="EXECUTIONPOINT_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="bbb5bf" />
-        <option name="BACKGROUND" value="165b98" />
+        <option name="FOREGROUND" value="fdf6e3" />
+        <option name="BACKGROUND" value="2052a2" />
       </value>
     </option>
     <option name="FOLDED_TEXT_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="586e75" />
-        <option name="BACKGROUND" value="73642" />
+        <option name="FOREGROUND" value="93a1a1" />
+        <option name="BACKGROUND" value="eee8d5" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
@@ -817,20 +855,6 @@
         <option name="FOREGROUND" value="b58900" />
       </value>
     </option>
-    <option name="GRID_ERROR_VALUE">
-      <value>
-        <option name="EFFECT_COLOR" value="dc322f" />
-        <option name="ERROR_STRIPE_COLOR" value="dc322f" />
-        <option name="EFFECT_TYPE" value="2" />
-      </value>
-    </option>
-    <option name="GRID_IMAGE_VALUE">
-      <value>
-        <option name="FOREGROUND" value="586e75" />
-        <option name="BACKGROUND" value="73642" />
-        <option name="EFFECT_TYPE" value="1" />
-      </value>
-    </option>
     <option name="GROOVY_KEYWORD" baseAttributes="JAVA_KEYWORD" />
     <option name="HAML_CLASS">
       <value>
@@ -850,7 +874,7 @@
     </option>
     <option name="HTML_ATTRIBUTE_NAME">
       <value>
-        <option name="FOREGROUND" value="839496" />
+        <option name="FOREGROUND" value="657b83" />
       </value>
     </option>
     <option name="HTML_ENTITY_REFERENCE">
@@ -860,7 +884,7 @@
     </option>
     <option name="HTML_TAG">
       <value>
-        <option name="FOREGROUND" value="586e75" />
+        <option name="FOREGROUND" value="93a1a1" />
       </value>
     </option>
     <option name="HTML_TAG_NAME">
@@ -870,7 +894,7 @@
     </option>
     <option name="HTTP_REQUEST_MULTIPART_BOUNDARY">
       <value>
-        <option name="FOREGROUND" value="586e75" />
+        <option name="FOREGROUND" value="93a1a1" />
       </value>
     </option>
     <option name="HTTP_REQUEST_PARAMETER_NAME">
@@ -892,50 +916,50 @@
     </option>
     <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="11407e" />
+        <option name="BACKGROUND" value="cac5e9" />
         <option name="ERROR_STRIPE_COLOR" value="268bd2" />
       </value>
     </option>
     <option name="IMPLICIT_ANONYMOUS_CLASS_PARAMETER_ATTRIBUTES">
       <value>
-        <option name="EFFECT_COLOR" value="586e75" />
+        <option name="EFFECT_COLOR" value="93a1a1" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="INACTIVE_HYPERLINK_ATTRIBUTES">
       <value>
-        <option name="EFFECT_COLOR" value="586e75" />
+        <option name="EFFECT_COLOR" value="93a1a1" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="INFO_ATTRIBUTES">
       <value>
-        <option name="EFFECT_COLOR" value="586e75" />
+        <option name="EFFECT_COLOR" value="93a1a1" />
         <option name="ERROR_STRIPE_COLOR" value="b58900" />
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
     <option name="INJECTED_LANGUAGE_FRAGMENT">
       <value>
-        <option name="BACKGROUND" value="43e3e" />
+        <option name="BACKGROUND" value="ebf4d3" />
       </value>
     </option>
     <option name="INLINE_PARAMETER_HINT">
       <value>
-        <option name="FOREGROUND" value="586e75" />
-        <option name="BACKGROUND" value="133b45" />
+        <option name="FOREGROUND" value="93a1a1" />
+        <option name="BACKGROUND" value="ebe5d3" />
       </value>
     </option>
     <option name="INLINE_PARAMETER_HINT_CURRENT">
       <value>
-        <option name="FOREGROUND" value="839496" />
-        <option name="BACKGROUND" value="f597c" />
+        <option name="FOREGROUND" value="657b83" />
+        <option name="BACKGROUND" value="bbd3e2" />
       </value>
     </option>
     <option name="INLINE_PARAMETER_HINT_HIGHLIGHTED">
       <value>
-        <option name="FOREGROUND" value="839496" />
-        <option name="BACKGROUND" value="2b4e58" />
+        <option name="FOREGROUND" value="657b83" />
+        <option name="BACKGROUND" value="cac5b6" />
       </value>
     </option>
     <option name="INSTANCE_FIELD_ATTRIBUTES" baseAttributes="DEFAULT_INSTANCE_FIELD" />
@@ -946,7 +970,7 @@
     </option>
     <option name="Implicit conversion">
       <value>
-        <option name="EFFECT_COLOR" value="586e75" />
+        <option name="EFFECT_COLOR" value="93a1a1" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
@@ -957,7 +981,7 @@
     </option>
     <option name="Interpolated String Injection">
       <value>
-        <option name="FOREGROUND" value="52875f" />
+        <option name="FOREGROUND" value="66a34d" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
@@ -986,7 +1010,7 @@
     </option>
     <option name="JADE_STATEMENTS">
       <value>
-        <option name="FOREGROUND" value="8d745d" />
+        <option name="FOREGROUND" value="803c10" />
       </value>
     </option>
     <option name="JFLEX.COMMENT">
@@ -1073,7 +1097,7 @@
     <option name="JS.GLOBAL_FUNCTION" baseAttributes="DEFAULT_FUNCTION_DECLARATION" />
     <option name="JS.GLOBAL_VARIABLE">
       <value>
-        <option name="FOREGROUND" value="839496" />
+        <option name="FOREGROUND" value="657b83" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -1122,7 +1146,7 @@
     </option>
     <option name="KOTLIN_MUTABLE_VARIABLE">
       <value>
-        <option name="EFFECT_COLOR" value="586e75" />
+        <option name="EFFECT_COLOR" value="93a1a1" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
@@ -1145,17 +1169,17 @@
     </option>
     <option name="KOTLIN_SMART_CAST_RECEIVER">
       <value>
-        <option name="BACKGROUND" value="3828" />
+        <option name="BACKGROUND" value="d9f7c3" />
       </value>
     </option>
     <option name="KOTLIN_SMART_CAST_VALUE">
       <value>
-        <option name="BACKGROUND" value="3828" />
+        <option name="BACKGROUND" value="d9f7c3" />
       </value>
     </option>
     <option name="KOTLIN_SMART_CONSTANT">
       <value>
-        <option name="BACKGROUND" value="3828" />
+        <option name="BACKGROUND" value="d9f7c3" />
       </value>
     </option>
     <option name="LABEL">
@@ -1166,19 +1190,19 @@
     </option>
     <option name="LINE_FULL_COVERAGE">
       <value>
-        <option name="FOREGROUND" value="2f584e" />
+        <option name="FOREGROUND" value="c9f8b9" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="LINE_NONE_COVERAGE">
       <value>
-        <option name="FOREGROUND" value="544548" />
+        <option name="FOREGROUND" value="fdc6bb" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="LINE_PARTIAL_COVERAGE">
       <value>
-        <option name="FOREGROUND" value="666f4b" />
+        <option name="FOREGROUND" value="fcf8b9" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
@@ -1199,7 +1223,7 @@
     </option>
     <option name="LOG_EXPIRED_ENTRY">
       <value>
-        <option name="FOREGROUND" value="586e75" />
+        <option name="FOREGROUND" value="93a1a1" />
       </value>
     </option>
     <option name="LOG_INFO_OUTPUT">
@@ -1225,21 +1249,21 @@
     </option>
     <option name="LUA_GLOBAL_VAR">
       <value>
-        <option name="FOREGROUND" value="268bd2" />
+        <option name="FOREGROUND" value="288dd1" />
       </value>
     </option>
     <option name="LUA_LOCAL_VAR" baseAttributes="DEFAULT_LOCAL_VARIABLE" />
     <option name="LUA_LUADOC" baseAttributes="DEFAULT_DOC_COMMENT" />
     <option name="LUA_PARAMETER">
       <value>
-        <option name="FOREGROUND" value="839496" />
+        <option name="FOREGROUND" value="657b83" />
       </value>
     </option>
     <option name="LUA_UPVAL">
       <value>
-        <option name="FOREGROUND" value="839496" />
+        <option name="FOREGROUND" value="657b83" />
         <option name="FONT_TYPE" value="3" />
-        <option name="EFFECT_COLOR" value="586e75" />
+        <option name="EFFECT_COLOR" value="93a1a1" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
@@ -1277,7 +1301,7 @@
     </option>
     <option name="MAKO.SUBSTITUTION">
       <value>
-        <option name="BACKGROUND" value="1e66" />
+        <option name="BACKGROUND" value="e4dee1" />
       </value>
     </option>
     <option name="MARKDOWN.AUTO_LINK">
@@ -1287,7 +1311,7 @@
     </option>
     <option name="MARKDOWN.BLOCK_QUOTE">
       <value>
-        <option name="BACKGROUND" value="73642" />
+        <option name="BACKGROUND" value="eee8d5" />
       </value>
     </option>
     <option name="MARKDOWN.BOLD_TEXT">
@@ -1343,7 +1367,7 @@
     </option>
     <option name="MARKDOWN.HRULE">
       <value>
-        <option name="BACKGROUND" value="73642" />
+        <option name="BACKGROUND" value="eee8d5" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
@@ -1369,7 +1393,7 @@
     </option>
     <option name="MARKDOWN.QUOTE">
       <value>
-        <option name="BACKGROUND" value="73642" />
+        <option name="BACKGROUND" value="eee8d5" />
       </value>
     </option>
     <option name="MARKDOWN.REFERENCE_LINK">
@@ -1379,17 +1403,17 @@
     </option>
     <option name="MARKDOWN.TABLE">
       <value>
-        <option name="BACKGROUND" value="73642" />
+        <option name="BACKGROUND" value="eee8d5" />
       </value>
     </option>
     <option name="MARKDOWN.VERBATIM">
       <value>
-        <option name="BACKGROUND" value="73642" />
+        <option name="BACKGROUND" value="eee8d5" />
       </value>
     </option>
     <option name="MARKDOWN_TABLE_SEPARATOR">
       <value>
-        <option name="FOREGROUND" value="586e75" />
+        <option name="FOREGROUND" value="93a1a1" />
       </value>
     </option>
     <option name="MARKED_FOR_REMOVAL_ATTRIBUTES">
@@ -1400,24 +1424,24 @@
     </option>
     <option name="MATCHED_BRACE_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="93a1a1" />
-        <option name="BACKGROUND" value="185156" />
+        <option name="FOREGROUND" value="586e75" />
+        <option name="BACKGROUND" value="98c7ee" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="NOT_TOP_FRAME_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="f4068" />
+        <option name="BACKGROUND" value="bec9db" />
       </value>
     </option>
     <option name="NOT_USED_ELEMENT_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="586e75" />
+        <option name="FOREGROUND" value="93a1a1" />
       </value>
     </option>
     <option name="OC.CONDITIONALLY_NOT_COMPILED">
       <value>
-        <option name="FOREGROUND" value="586e75" />
+        <option name="FOREGROUND" value="93a1a1" />
       </value>
     </option>
     <option name="OC.CPP_KEYWORD">
@@ -1497,43 +1521,43 @@
     <option name="PERL_GLOB" baseAttributes="DEFAULT_IDENTIFIER" />
     <option name="PERL_GLOB_BUILTIN">
       <value>
-        <option name="FOREGROUND" value="839496" />
+        <option name="FOREGROUND" value="657b83" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="PERL_HASH">
       <value>
-        <option name="FOREGROUND" value="6d72c2" />
+        <option name="FOREGROUND" value="6c71c4" />
       </value>
     </option>
     <option name="PERL_HASH_BUILTIN">
       <value>
-        <option name="FOREGROUND" value="6d72c2" />
+        <option name="FOREGROUND" value="6c71c4" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="PERL_LABEL">
       <value>
-        <option name="FOREGROUND" value="839496" />
-        <option name="EFFECT_COLOR" value="839496" />
+        <option name="FOREGROUND" value="657b83" />
+        <option name="EFFECT_COLOR" value="657b83" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="PERL_NUMBER" baseAttributes="DEFAULT_NUMBER" />
     <option name="PERL_PACKAGE">
       <value>
-        <option name="FOREGROUND" value="839496" />
+        <option name="FOREGROUND" value="657a82" />
       </value>
     </option>
     <option name="PERL_PACKAGE_CORE">
       <value>
-        <option name="FOREGROUND" value="839496" />
+        <option name="FOREGROUND" value="657b83" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="PERL_PACKAGE_PRAGMA">
       <value>
-        <option name="FOREGROUND" value="839496" />
+        <option name="FOREGROUND" value="657b83" />
         <option name="FONT_TYPE" value="3" />
       </value>
     </option>
@@ -1552,7 +1576,7 @@
     <option name="PERL_SQ_STRING" baseAttributes="DEFAULT_STRING" />
     <option name="PERL_SUB">
       <value>
-        <option name="FOREGROUND" value="268bd2" />
+        <option name="FOREGROUND" value="288dd1" />
       </value>
     </option>
     <option name="PERL_SUB_BUILTIN">
@@ -1563,7 +1587,7 @@
     </option>
     <option name="PERL_SUB_DEFINITION">
       <value>
-        <option name="FOREGROUND" value="268bd2" />
+        <option name="FOREGROUND" value="288dd1" />
       </value>
     </option>
     <option name="PERL_VERSION" baseAttributes="PERL_NUMBER" />
@@ -1579,7 +1603,7 @@
     <option name="PHP_EXEC_COMMAND_ID">
       <value>
         <option name="FOREGROUND" value="2aa198" />
-        <option name="BACKGROUND" value="3f4c" />
+        <option name="BACKGROUND" value="e1f4e6" />
       </value>
     </option>
     <option name="PHP_INTERFACE">
@@ -1629,7 +1653,7 @@
     </option>
     <option name="PROPS.LINE_COMMENT">
       <value>
-        <option name="FOREGROUND" value="586e75" />
+        <option name="FOREGROUND" value="93a1a1" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -1671,9 +1695,9 @@
     </option>
     <option name="PUPPET_HEREDOC_TAGS">
       <value>
-        <option name="FOREGROUND" value="839496" />
+        <option name="FOREGROUND" value="657b83" />
         <option name="FONT_TYPE" value="1" />
-        <option name="EFFECT_COLOR" value="839496" />
+        <option name="EFFECT_COLOR" value="657b83" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
@@ -1777,17 +1801,17 @@
     </option>
     <option name="REST.FIXED">
       <value>
-        <option name="BACKGROUND" value="1d415f" />
+        <option name="BACKGROUND" value="d7d1d8" />
       </value>
     </option>
     <option name="REST.INLINE">
       <value>
-        <option name="BACKGROUND" value="2f3600" />
+        <option name="BACKGROUND" value="e1e6c3" />
       </value>
     </option>
     <option name="REST.INTERPRETED">
       <value>
-        <option name="BACKGROUND" value="3f3b" />
+        <option name="BACKGROUND" value="c7d0a4" />
       </value>
     </option>
     <option name="RHTML_EXPRESSION_END_ID">
@@ -1801,7 +1825,7 @@
     </option>
     <option name="RHTML_SCRIPTING_BACKGROUND_ID">
       <value>
-        <option name="BACKGROUND" value="73642" />
+        <option name="BACKGROUND" value="eee8d5" />
       </value>
     </option>
     <option name="RHTML_SCRIPTLET_END_ID">
@@ -1824,12 +1848,12 @@
     </option>
     <option name="RUBY_EXPR_IN_STRING">
       <value>
-        <option name="BACKGROUND" value="73642" />
+        <option name="BACKGROUND" value="eee8d5" />
       </value>
     </option>
     <option name="RUBY_GVAR">
       <value>
-        <option name="FOREGROUND" value="93a1a1" />
+        <option name="FOREGROUND" value="586e75" />
       </value>
     </option>
     <option name="RUBY_HASH_ASSOC">
@@ -1844,14 +1868,14 @@
     </option>
     <option name="RUBY_HEREDOC_ID">
       <value>
-        <option name="FOREGROUND" value="2ba197" />
-        <option name="EFFECT_COLOR" value="2ba197" />
+        <option name="FOREGROUND" value="2aa198" />
+        <option name="EFFECT_COLOR" value="2aa198" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="RUBY_LINE_CONTINUATION">
       <value>
-        <option name="BACKGROUND" value="73642" />
+        <option name="BACKGROUND" value="eee8d5" />
       </value>
     </option>
     <option name="RUBY_LOCAL_VAR_ID">
@@ -1867,7 +1891,7 @@
     </option>
     <option name="RUBY_NTH_REF">
       <value>
-        <option name="FOREGROUND" value="93a1a1" />
+        <option name="FOREGROUND" value="586e75" />
       </value>
     </option>
     <option name="RUBY_OPERATION_SIGN">
@@ -1896,11 +1920,6 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
-    <option name="RUBY_SYMBOL">
-      <value>
-        <option name="FOREGROUND" value="6c71c4" />
-      </value>
-    </option>
     <option name="RUNTIME_ERROR">
       <value>
         <option name="EFFECT_COLOR" value="cb4b16" />
@@ -1910,7 +1929,7 @@
     </option>
     <option name="Rainbow Parens Level 1 (outermost)">
       <value>
-        <option name="FOREGROUND" value="657b83" />
+        <option name="FOREGROUND" value="839496" />
       </value>
     </option>
     <option name="Rainbow Parens Level 2">
@@ -1955,7 +1974,7 @@
     </option>
     <option name="ReSharper.ASP_NET_ATTRIBUTE_NAME">
       <value>
-        <option name="FOREGROUND" value="839496" />
+        <option name="FOREGROUND" value="657b83" />
       </value>
     </option>
     <option name="ReSharper.ASP_NET_ATTRIBUTE_VALUE">
@@ -1965,13 +1984,13 @@
     </option>
     <option name="ReSharper.ASP_NET_BLOCK_TAG">
       <value>
-        <option name="FOREGROUND" value="eee8d5" />
-        <option name="BACKGROUND" value="b58900" />
+        <option name="FOREGROUND" value="73642" />
+        <option name="BACKGROUND" value="fadb7d" />
       </value>
     </option>
     <option name="ReSharper.ASP_NET_COMMENT">
       <value>
-        <option name="FOREGROUND" value="586e75" />
+        <option name="FOREGROUND" value="93a1a1" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -1980,22 +1999,16 @@
         <option name="FOREGROUND" value="cb4b16" />
       </value>
     </option>
-    <option name="ReSharper.ASP_NET_MVC_ACTION">
-      <value>
-        <option name="EFFECT_COLOR" value="a32a2a" />
-        <option name="EFFECT_TYPE" value="1" />
-      </value>
-    </option>
     <option name="ReSharper.ASP_NET_RAZOR_CODE_BLOCK">
       <value>
-        <option name="FOREGROUND" value="eee8d5" />
-        <option name="BACKGROUND" value="dc322f" />
+        <option name="FOREGROUND" value="73642" />
+        <option name="BACKGROUND" value="fa9a98" />
       </value>
     </option>
     <option name="ReSharper.ASP_NET_RAZOR_CODE_BLOCK_TAG">
       <value>
-        <option name="FOREGROUND" value="eee8d5" />
-        <option name="BACKGROUND" value="b58900" />
+        <option name="FOREGROUND" value="73642" />
+        <option name="BACKGROUND" value="fadb7d" />
       </value>
     </option>
     <option name="ReSharper.ASP_NET_TAG_NAME">
@@ -2005,7 +2018,13 @@
     </option>
     <option name="ReSharper.BRACE_OUTLINE">
       <value>
-        <option name="EFFECT_COLOR" value="586e75" />
+        <option name="EFFECT_COLOR" value="93a1a1" />
+      </value>
+    </option>
+    <option name="ReSharper.CONTEXT_EXIT">
+      <value>
+        <option name="BACKGROUND" value="ccccff" />
+        <option name="ERROR_STRIPE_COLOR" value="268bd2" />
       </value>
     </option>
     <option name="ReSharper.DELEGATE_IDENTIFIER">
@@ -2020,12 +2039,12 @@
     </option>
     <option name="ReSharper.FORMAT_STRING_ITEM">
       <value>
-        <option name="FOREGROUND" value="ba836d" />
+        <option name="FOREGROUND" value="9e5b3c" />
       </value>
     </option>
     <option name="ReSharper.FORMAT_STRING_ITEM_2">
       <value>
-        <option name="FOREGROUND" value="9e6954" />
+        <option name="FOREGROUND" value="c17856" />
       </value>
     </option>
     <option name="ReSharper.HINT">
@@ -2041,12 +2060,12 @@
     </option>
     <option name="ReSharper.JSDOC_PARAMETER_OR_PROPERTY_IDENTIFIER">
       <value>
-        <option name="FOREGROUND" value="93a1a1" />
+        <option name="FOREGROUND" value="586e75" />
       </value>
     </option>
     <option name="ReSharper.JSDOC_TYPE_ANNOTATION">
       <value>
-        <option name="FOREGROUND" value="93a1a1" />
+        <option name="FOREGROUND" value="586e75" />
       </value>
     </option>
     <option name="ReSharper.JSDOC_TYPE_ANNOTATION_KEYWORD">
@@ -2059,34 +2078,9 @@
         <option name="FOREGROUND" value="b58900" />
       </value>
     </option>
-    <option name="ReSharper.JS_BLOCK_LOCAL_CONSTANT_IDENTIFIER">
-      <value>
-        <option name="FOREGROUND" value="d33682" />
-        <option name="FONT_TYPE" value="2" />
-      </value>
-    </option>
     <option name="ReSharper.JS_BLOCK_LOCAL_VARIABLE_IDENTIFIER">
       <value>
         <option name="FOREGROUND" value="cb4b16" />
-      </value>
-    </option>
-    <option name="ReSharper.JS_FUNCTION_IDENTIFIER">
-      <value>
-        <option name="FOREGROUND" value="839496" />
-        <option name="BACKGROUND" value="2b36" />
-      </value>
-    </option>
-    <option name="ReSharper.JS_LOCAL_VARIABLE_IDENTIFIER">
-      <value>
-        <option name="FOREGROUND" value="839496" />
-      </value>
-    </option>
-    <option name="ReSharper.JS_PARAMETER_IDENTIFIER">
-      <value />
-    </option>
-    <option name="ReSharper.JS_PROPERTY_IDENTIFIER">
-      <value>
-        <option name="FOREGROUND" value="6c71c4" />
       </value>
     </option>
     <option name="ReSharper.JS_UNKNOWN_PROPERTY_IDENTIFIER">
@@ -2097,18 +2091,18 @@
     <option name="ReSharper.JS_XML_DOCUMENTATION_COMMENT">
       <value>
         <option name="FONT_TYPE" value="3" />
-        <option name="EFFECT_COLOR" value="586e75" />
+        <option name="EFFECT_COLOR" value="93a1a1" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="ReSharper.MATCHED_FORMAT_STRING_ITEM">
       <value>
-        <option name="BACKGROUND" value="4646" />
+        <option name="BACKGROUND" value="d5e8cd" />
       </value>
     </option>
     <option name="ReSharper.MUTABLE_LOCAL_VARIABLE_IDENTIFIER">
       <value>
-        <option name="FOREGROUND" value="839496" />
+        <option name="FOREGROUND" value="657b83" />
       </value>
     </option>
     <option name="ReSharper.NAMESPACE_IDENTIFIER">
@@ -2118,12 +2112,12 @@
     </option>
     <option name="ReSharper.REARRANGE_LEFT_RIGHT_CODE_HINT">
       <value>
-        <option name="BACKGROUND" value="585700" />
+        <option name="BACKGROUND" value="f5ef66" />
       </value>
     </option>
     <option name="ReSharper.REARRANGE_UP_DOWN_CODE_HINT">
       <value>
-        <option name="BACKGROUND" value="4368" />
+        <option name="BACKGROUND" value="add3de" />
       </value>
     </option>
     <option name="ReSharper.STATIC_CLASS_IDENTIFIER">
@@ -2150,18 +2144,6 @@
     <option name="SASS_ATTRIBUTE">
       <value>
         <option name="FOREGROUND" value="859900" />
-      </value>
-    </option>
-    <option name="SASS_COLON">
-      <value>
-        <option name="FOREGROUND" value="839496" />
-        <option name="BACKGROUND" value="2b36" />
-      </value>
-    </option>
-    <option name="SASS_COMMENT">
-      <value>
-        <option name="FOREGROUND" value="586e75" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="SASS_CONSTANT">
@@ -2197,7 +2179,7 @@
     </option>
     <option name="SEARCH_RESULT_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="11407e" />
+        <option name="BACKGROUND" value="cac5e9" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
@@ -2209,12 +2191,17 @@
     </option>
     <option name="SLIM_FILTER_CONTENT">
       <value>
-        <option name="BACKGROUND" value="1e2b35" />
+        <option name="BACKGROUND" value="f3f6e4" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="SLIM_ID" baseAttributes="CSS.HASH" />
     <option name="SLIM_RUBY_CODE" baseAttributes="DEFAULT_TEMPLATE_LANGUAGE_COLOR" />
+    <option name="SMARTY_IDENTIFIER">
+      <value>
+        <option name="BACKGROUND" value="eee8d5" />
+      </value>
+    </option>
     <option name="SOY.BAD">
       <value>
         <option name="FOREGROUND" value="dc322f" />
@@ -2228,7 +2215,7 @@
     </option>
     <option name="SOY.DOC_COMMENT">
       <value>
-        <option name="FOREGROUND" value="586e75" />
+        <option name="FOREGROUND" value="93a1a1" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -2240,7 +2227,7 @@
     </option>
     <option name="SOY.IGNORE">
       <value>
-        <option name="FOREGROUND" value="73642" />
+        <option name="FOREGROUND" value="eee8d5" />
         <option name="BACKGROUND" value="d33682" />
       </value>
     </option>
@@ -2252,7 +2239,7 @@
     </option>
     <option name="SOY.NAMESPACE_ID">
       <value>
-        <option name="EFFECT_COLOR" value="fdf6e3" />
+        <option name="EFFECT_COLOR" value="2b36" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
@@ -2275,7 +2262,7 @@
     </option>
     <option name="SOY.TEMPLATE_ID">
       <value>
-        <option name="EFFECT_COLOR" value="fdf6e3" />
+        <option name="EFFECT_COLOR" value="2b36" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
@@ -2287,60 +2274,50 @@
     </option>
     <option name="SPY-JS.EXCEPTION">
       <value>
-        <option name="BACKGROUND" value="342e3b" />
+        <option name="BACKGROUND" value="fdc5b6" />
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
     <option name="SPY-JS.EXECUTION_TIME">
       <value>
-        <option name="FOREGROUND" value="657b83" />
+        <option name="FOREGROUND" value="839496" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="SPY-JS.FUNCTION_SCOPE">
       <value>
-        <option name="BACKGROUND" value="d3842" />
+        <option name="BACKGROUND" value="fcf5bd" />
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
     <option name="SPY-JS.PATH_LEVEL_ONE">
       <value>
-        <option name="FOREGROUND" value="93a1a1" />
-        <option name="BACKGROUND" value="215c49" />
+        <option name="FOREGROUND" value="586e75" />
+        <option name="BACKGROUND" value="def5c6" />
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
     <option name="SPY-JS.PATH_LEVEL_TWO">
       <value>
-        <option name="EFFECT_COLOR" value="839496" />
+        <option name="EFFECT_COLOR" value="657b83" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="SPY-JS.PROGRAM_SCOPE">
       <value>
-        <option name="FOREGROUND" value="93a1a1" />
-        <option name="BACKGROUND" value="d3842" />
+        <option name="FOREGROUND" value="586e75" />
+        <option name="BACKGROUND" value="fcf5bd" />
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
     <option name="SPY-JS.VALUE_HINT">
       <value>
-        <option name="EFFECT_COLOR" value="839496" />
-      </value>
-    </option>
-    <option name="SQL_SCHEMA">
-      <value>
-        <option name="FOREGROUND" value="268bd2" />
+        <option name="EFFECT_COLOR" value="657b83" />
       </value>
     </option>
     <option name="SQL_SYNTHETIC_ENTITY">
       <value>
         <option name="FOREGROUND" value="b58900" />
-      </value>
-    </option>
-    <option name="SQL_TABLE">
-      <value>
-        <option name="FOREGROUND" value="268bd2" />
       </value>
     </option>
     <option name="STATIC_FIELD_ATTRIBUTES" baseAttributes="DEFAULT_STATIC_FIELD" />
@@ -2359,13 +2336,13 @@
     </option>
     <option name="Scala Immutable Collection">
       <value>
-        <option name="EFFECT_COLOR" value="275b12" />
+        <option name="EFFECT_COLOR" value="a8c56a" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
     <option name="Scala Mutable Collection">
       <value>
-        <option name="EFFECT_COLOR" value="754b76" />
+        <option name="EFFECT_COLOR" value="e199b1" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
@@ -2394,7 +2371,7 @@
     </option>
     <option name="TAPESTRY_COMPONENT_PARAMATER">
       <value>
-        <option name="FOREGROUND" value="839496" />
+        <option name="FOREGROUND" value="657b83" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
@@ -2441,7 +2418,7 @@
     </option>
     <option name="TEA.SCRIPTING_BACKGROUND">
       <value>
-        <option name="BACKGROUND" value="73642" />
+        <option name="BACKGROUND" value="eee8d5" />
       </value>
     </option>
     <option name="TEA.SCRIPTING_FOREGROUND">
@@ -2470,14 +2447,14 @@
     </option>
     <option name="TEXT">
       <value>
-        <option name="FOREGROUND" value="839496" />
-        <option name="BACKGROUND" value="2b36" />
+        <option name="FOREGROUND" value="657b83" />
+        <option name="BACKGROUND" value="fdf6e3" />
       </value>
     </option>
     <option name="TEXT_SEARCH_RESULT_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="4a37" />
-        <option name="EFFECT_COLOR" value="c6447" />
+        <option name="BACKGROUND" value="bdddb3" />
+        <option name="EFFECT_COLOR" value="91bf8d" />
         <option name="ERROR_STRIPE_COLOR" value="859900" />
       </value>
     </option>
@@ -2547,8 +2524,8 @@
     </option>
     <option name="Unresolved reference access">
       <value>
-        <option name="FOREGROUND" value="586e75" />
-        <option name="EFFECT_COLOR" value="586e75" />
+        <option name="FOREGROUND" value="93a1a1" />
+        <option name="EFFECT_COLOR" value="93a1a1" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
@@ -2560,7 +2537,7 @@
     </option>
     <option name="VELOCITY_SCRIPTING_BACKGROUND">
       <value>
-        <option name="BACKGROUND" value="73642" />
+        <option name="BACKGROUND" value="eee8d5" />
       </value>
     </option>
     <option name="Valid escape in string">
@@ -2578,13 +2555,13 @@
     </option>
     <option name="WRITE_IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="462638" />
+        <option name="BACKGROUND" value="fbc4e6" />
         <option name="ERROR_STRIPE_COLOR" value="d33682" />
       </value>
     </option>
     <option name="WRITE_SEARCH_RESULT_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="462638" />
+        <option name="BACKGROUND" value="fbc4e6" />
       </value>
     </option>
     <option name="WRONG_REFERENCES_ATTRIBUTES">
@@ -2612,12 +2589,7 @@
     </option>
     <option name="XML_ATTRIBUTE_NAME">
       <value>
-        <option name="FOREGROUND" value="839496" />
-      </value>
-    </option>
-    <option name="XML_ATTRIBUTE_VALUE">
-      <value>
-        <option name="FOREGROUND" value="2aa198" />
+        <option name="FOREGROUND" value="657b83" />
       </value>
     </option>
     <option name="XML_ENTITY_REFERENCE">
@@ -2627,17 +2599,17 @@
     </option>
     <option name="XML_PROLOGUE">
       <value>
-        <option name="FOREGROUND" value="586e75" />
+        <option name="FOREGROUND" value="93a1a1" />
       </value>
     </option>
     <option name="XML_TAG">
       <value>
-        <option name="FOREGROUND" value="586e75" />
+        <option name="FOREGROUND" value="93a1a1" />
       </value>
     </option>
     <option name="XML_TAG_DATA">
       <value>
-        <option name="FOREGROUND" value="93a1a1" />
+        <option name="FOREGROUND" value="586e75" />
       </value>
     </option>
     <option name="XML_TAG_NAME">
@@ -2652,7 +2624,7 @@
     </option>
     <option name="XPATH.XPATH_VARIABLE">
       <value>
-        <option name="FOREGROUND" value="839496" />
+        <option name="FOREGROUND" value="657b83" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
@@ -2669,13 +2641,13 @@
     </option>
     <option name="bemhtml.bem.mlcomment">
       <value>
-        <option name="FOREGROUND" value="586e75" />
+        <option name="FOREGROUND" value="93a1a1" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="bemhtml.bem.slcomment">
       <value>
-        <option name="FOREGROUND" value="586e75" />
+        <option name="FOREGROUND" value="93a1a1" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -2727,7 +2699,7 @@
     </option>
     <option name="go.block.comment">
       <value>
-        <option name="FOREGROUND" value="586e75" />
+        <option name="FOREGROUND" value="93a1a1" />
       </value>
     </option>
     <option name="go.keyword">
@@ -2737,7 +2709,7 @@
     </option>
     <option name="go.line.comment">
       <value>
-        <option name="FOREGROUND" value="586e75" />
+        <option name="FOREGROUND" value="93a1a1" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -2771,7 +2743,7 @@
     </option>
     <option name="org.rust.MUT_BINDING">
       <value>
-        <option name="EFFECT_COLOR" value="586e75" />
+        <option name="EFFECT_COLOR" value="93a1a1" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>

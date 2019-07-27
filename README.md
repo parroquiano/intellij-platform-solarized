@@ -1,34 +1,44 @@
-Solarized Color Schemes for the JetBrains IntelliJ Platform
+Solarized Themes for the JetBrains IntelliJ Platform
 ===============================================
 
-Original Solarized color scheme developed by Ethan Schoonover <es@ethanschoonover.com>
-
-To read more: *[Solarized homepage](http://ethanschoonover.com/solarized)*
-
+High quality Solarized Dark and Light color themes for IntelliJ platform.
 
 #### <u>Contents</u>:
 * [Description](#description)
-* [Supported products & plugins](#supported-products)
 * [Installation](#installation)
-    * [Method #1: *Install using "Import Settings..."*](#method-1-install-using-import-settings)
-    * [Method #2: *Manual installation*](#method-2-manual-installation)
-    * [Method #3: *Auto installation*](#method-3-auto-installation)
+* [Supported products & plugins](#supported-products)
 * [Languages & technologies supported](#languages--technologies-supported)
 * [Screenshots](#screenshots)
 
 Description
 ------------
 
-There are two schemes here: Dark and Light. Both schemes uses original Solarized colors.
+These are complete themes for both the UI and editor.
 
-The syntax highlighting has been adapted for all the languages built in the 
- [supported products](#supported-products), available at the current time, and the plugins listed.
+Notable features:
 
-These color schemes is developed relying on JetBrains **inheritance mechanism** as 
- the original JetBrains schemes *`Default`* and *`Darcula`* are. It means that similar languages
- have the same color of their similar constructions, for instance, highlighting
- for *Kotlin* is similar to that for *Java*, the later to that for *C#*, *C++* and 
- so on (see [screenshots](#screenshots)).
+  * High quality and consistent both the UI and editor schemes with an adaptation of every minor color (for the supported IDE version) completelly
+    avoiding any usage of Default or Darcula colors
+
+  * Clean editor schemes with regular font styles avoiding bolds
+
+  * Usage of inheritance mechanism to achieve unified look and feel between various languages (so, for example, syntax highlighting for such static
+    typed languages as Java, Kotlin, C#, Go or C++ and so on is as similar as possible and the same for the other kinds of languages)
+
+Installation
+------------
+
+1. Go to `Settings | Plugins | Configure Icon | Install Plugin from Disk...` and specify the `solarized.jar` file.
+   Click `OK` in the dialog that appears
+
+2. Restart the IDE
+
+3. Go to `Settings | Appearance & Behavior | Appearance` and select **`Solarized Dark`** or **`Solarized Light`**
+   in the Theme dropdown
+
+*  Or to select only an editor scheme go to `Settings | Editor | Color Scheme` and select 
+   **`Solarized Dark (4lex4)`** or **`Solarized Light (4lex4)`**
+   in the Scheme dropdown
 
 Supported products: 
 ------------
@@ -58,47 +68,6 @@ Supported products:
 **`HaskForce`**
 **`R language support`**
 *and all the JetBrains plugins providing the languages listed in [Languages & technologies supported](#languages--technologies-supported) section*
-
-Installation
-------------
-
-#### Method #1: *Install using "Import Settings..."*
-
-1. Go to `File | Import Settings...` and specify the `settings.jar` file.
-    Click `OK` in the dialog that appears.
-
-2. Restart your JetBrains IDE.
-
-3. Go to `Preferences | Editor | Color Scheme` and select **`Solarized Dark`** or **`Solarized Light`**.
-
-#### Method #2: *Manual installation*
-
-1.  Copy `Solarized Dark.icls` and `Solarized Light.icls` to your JetBrains IDE preferences
-     color directory. The directory varies, depending on which JetBrains IDE you are using.
-    
-    *The colors directory may need to be created.*
-    
-    It is typically in:
-    
-    **Windows**
-    * `%USERPROFILE%\.IdeNameXXX\config\colors`
-    
-    **Linux**
-    * `~/.IdeNameXXX/config/colors`
-    
-    **OS X**
-    * `~/Library/Preferences/.IdeNameXXX/colors`
-                       
-    where `IdeName` is the IDE name (ex.: IntelliJIdea, Clion etc) and `XXX` - version number (ex.: 2017.2)
-
-2. Restart the program.
-    
-3. Go to `Preferences | Editor | Color Scheme` and select **`Solarized Dark`** or **`Solarized Light`**.
-
-#### Method #3: *Auto installation*
-
-Just run `install.bat` (for Windows) or `install.sh` (for Linux) to automatically install the schemes for
- all the available JetBrains IDEs.
 
 Languages & technologies supported
 -----------
@@ -199,7 +168,12 @@ IDE settings:
 
 Screenshots
 ------------
-*for demo, not all the languages supported by this project are shown here but some of the most popular*
+
+### UI
+<p float="center">
+	<img src="https://user-images.githubusercontent.com/16573106/61997144-ffd8c700-b0a5-11e9-8b19-b696d5092de9.png" width="49%" />
+  <img src="https://user-images.githubusercontent.com/16573106/61997143-ff403080-b0a5-11e9-9a3c-77aefad8615e.png" width="49%" />
+</p>
 
 ### C++
 <p float="center">
