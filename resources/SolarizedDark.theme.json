@@ -393,7 +393,8 @@
       "Toolbar": {
         "background": "colorBackground",
         "borderColor": "#204D5C"
-      }
+      },
+      "Popup.Advertiser.borderColor": "#6B858D"
     },
 
     "PopupMenu": {
@@ -609,8 +610,9 @@
 
     "ToolWindow": {
       "Button": {
-        "selectedBackground": "#0D2E36",
-        "selectedForeground": "colorHighlight"
+        "hoverBackground": "#00101A28",
+        "selectedBackground": "#00101A55",
+        "selectedForeground": "#EEE8D5"
       },
       "Header": {
         "background": "#11435A",

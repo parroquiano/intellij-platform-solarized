@@ -11,16 +11,16 @@
     "colorAlternativeForeground": "#657b83",
     "colorInactiveForeground": "#657b83",
     "colorSelectionBackground": "#1478BC",
-    "colorSelectionBackgroundInactive": "#D0CBBB",
+    "colorSelectionBackgroundInactive": "#D2CBB9",
     "colorSelectionForeground": "#FFFFFF",
     "colorSelectionForegroundInactive": "#073642",
     "colorHoverBackground": "#DBD6C4",
-    "colorBorder" : "#C6C1B1",
+    "colorBorder": "#C6C1B1",
     "colorAlternativeBorder": "#BDB8AA",
     "colorDisabledForeground": "#969387",
     "colorFocusedBorder" : "#A5C7E2",
     "colorDisabledText": "#839496",
-    "colorAlternativeBackground": "#FAF8F2",
+    "colorAlternativeBackground": "#FDF6E3",
     "colorSeparator": "#C9C3B3",
     "colorAcceleratorForeground": "#617EB3",
     "colorAlternativeAcceleratorSelectionForeground": "#FFFFFF",
@@ -191,17 +191,17 @@
       "borderColor": "colorBorder",
       "inactiveUnderlineColor": "#99A1A5",
       "underlineColor": "#3D7EC0",
-      "underlinedTabBackground": "#FBFAF5",
+      "underlinedTabBackground": "colorAlternativeBackground",
       "underlinedTabForeground": "colorForeground"
     },
 
     "FileColor" : {
-      "Blue": "#E5F0F3",
-      "Green": "#EAF4DB",
-      "Orange": "#F2E3D1",
-      "Rose": "#F0D7D0",
-      "Violet": "#E2DAE6",
-      "Yellow": "#FBF9D8"
+      "Blue": "#E8EEE5",
+      "Green": "#EDF2CE",
+      "Orange": "#F2E0C2",
+      "Rose": "#F0D4C2",
+      "Violet": "#E4D8D8",
+      "Yellow": "#FBF4C9"
     },
 
     "FlameGraph": {
@@ -392,7 +392,8 @@
       "Toolbar": {
         "background": "colorBackground",
         "borderColor": "#F5F1E5"
-      }
+      },
+      "Popup.Advertiser.borderColor": "#858177"
     },
 
     "PopupMenu": {
@@ -465,7 +466,7 @@
       }
     },
 
-    "SearchField.errorBackground": "#FBC6C2",
+    "SearchField.errorBackground": "#FCC4B3",
 
     "SearchMatch": {
       "startBackground": "#ffeaa2",
@@ -525,14 +526,14 @@
       "focusCellBackground": "colorHighlight",
       "focusCellForeground": "colorAlternativeAcceleratorSelectionForeground",
       "foreground": "colorForeground",
-      "gridColor": "#F2F0EA",
+      "gridColor": "#F5EEDC",
       "selectionBackground": "colorSelectionBackground",
       "selectionForeground": "colorSelectionForeground",
       "sortIconColor": "colorShadow",
-      "stripeColor": "#EDEEED",
-      "lightSelectionBackground": "#E4E8E9",
+      "stripeColor": "#F0EBDB",
+      "lightSelectionBackground": "#E7E6DA",
       "lightSelectionForeground": "colorForeground",
-      "lightSelectionInactiveBackground": "#F3F0EB",
+      "lightSelectionInactiveBackground": "#F4EDDA",
       "lightSelectionInactiveForeground": "colorForeground"
     },
 
@@ -607,7 +608,8 @@
 
     "ToolWindow": {
       "Button": {
-        "selectedBackground": "#BDB8AA",
+        "hoverBackground": "#57524228",
+        "selectedBackground": "#57524255",
         "selectedForeground": "colorForeground"
       },
       "Header": {
@@ -625,7 +627,7 @@
     "Tree": {
       "background": "colorAlternativeBackground",
       "foreground": "colorForeground",
-      "hash": "#E1E0DA",
+      "hash": "#E2DCCC",
       "selectionBackground": "colorSelectionBackground",
       "selectionForeground": "colorSelectionForeground"
     },
@@ -638,16 +640,16 @@
     },
 
     "VersionControl": {
-      "FileHistory.Commit.selectedBranchBackground": "#ECE6BB",
+      "FileHistory.Commit.selectedBranchBackground": "#FBF4C7",
       "GitLog": {
         "headIconColor": "#EABE00",
         "localBranchIconColor": "#2DA54A",
-        "otherIconColor": "#726F66",
+        "otherIconColor": "#77746C",
         "remoteBranchIconColor": "#976EA1",
-        "tagIconColor": "#726F66"
+        "tagIconColor": "#77746C"
       },
       "HgLog": {
-        "tagIconColor": "#726F66",
+        "tagIconColor": "#77746C",
         "headIconColor": "#832460",
         "bookmarkIconColor": "#976EA1",
         "branchIconColor": "#2DA54A",
@@ -657,12 +659,12 @@
         "tipIconColor": "#EABE00"
       },
       "Log.Commit": {
-        "currentBranchBackground": "#D5E5D9",
-        "unmatchedForeground": "#7E7B71"
+        "currentBranchBackground": "#E3F2E4",
+        "unmatchedForeground": "#7F7B72"
       },
       "RefLabel": {
         "backgroundBase": "#000000",
-        "foreground": "#78756B"
+        "foreground": "#77746C"
       }
     },
 
@@ -684,9 +686,9 @@
       "Projects": {
         "background": "colorAlternativeBackground",
         "selectionBackground": "colorSelectionBackground",
-        "selectionInactiveBackground": "#D9D7D2"
+        "selectionInactiveBackground": "#DAD4C1"
       },
-      "separatorColor": "#E8E2D0"
+      "separatorColor": "#E9E2CF"
     },
 
     "window": "colorBackground",
