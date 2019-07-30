@@ -28,14 +28,23 @@ To install:
 <li>Restart the IDE</li>
 <li>Go to <b>Settings | Appearance & Behavior | Appearance</b> and select
     <b>Solarized Dark</b> or <b>Solarized Light</b> in the Theme dropdown</li>
+<ul type="disc">
 <li>Or to select only an editor scheme go to <b>Settings | Editor | Color Scheme</b> and
     select <b>Solarized Dark (4lex4)</b> or <b>Solarized Light (4lex4)</b> in the Scheme dropdown</li>
+</ul>
 </ol>
     ]]>
   </description>
 
   <change-notes>
     <![CDATA[
+<b>2.0.2</b>
+<br/>
+<ul>
+<li>Fixed plugin section colors</li>
+<li>Other minor fixes</li>
+</ul>
+<br/>
 <b>2.0.1</b>
 <br/>
 <ul>
