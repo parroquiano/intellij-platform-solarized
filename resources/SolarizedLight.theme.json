@@ -233,7 +233,7 @@
 
     "HelpTooltip": {
       "background": "#F5F1E5",
-      "borderColor": "#ADADAD",
+      "borderColor": "#ADA89A",
       "foreground": "colorForeground",
       "shortcutForeground": "#757269"
     },
@@ -344,34 +344,6 @@
       "lineSeparatorColor": "#DCD7C5"
     },
 
-    "Plugins": {
-      "background": "colorBackground",
-      "disabledForeground": "#A5A194",
-      "eapTagBackground": "#E4BFAD",
-      "lightSelectionBackground": "#E5E3D7",
-      "Button": {
-        "installBackground": "colorBackground",
-        "installBorderColor": "#518D33",
-        "installFillBackground": "#518D33",
-        "installFillForeground": "#EEE8D5",
-        "installFocusedBackground": "#D0E0B3",
-        "installForeground": "#518D33",
-        "updateBackground": "#006AB4",
-        "updateBorderColor": "#006AB4",
-        "updateForeground": "#EEE8D5"
-      },
-      "SearchField": {
-        "background": "colorBackground",
-        "borderColor": "#BBB6A7"
-      },
-      "SectionHeader": {
-        "background": "#E6DFCC",
-        "foreground": "#706D64"
-      },
-      "tagBackground": "#DDD7C6",
-      "tagForeground": "#706D64"
-    },
-
     "PasswordField": {
       "background": "colorAlternativeBackground",
       "caretForeground": "colorForeground",
@@ -379,6 +351,34 @@
       "inactiveForeground": "colorInactiveForeground",
       "selectionBackground": "colorSelectionBackground",
       "selectionForeground": "colorSelectionForeground"
+    },
+
+    "Plugins": {
+      "background": "colorAlternativeBackground",
+      "disabledForeground": "#B0AB9E",
+      "eapTagBackground": "#EECAB6",
+      "lightSelectionBackground": "#F3F1E3",
+      "Button": {
+        "installBackground": "colorAlternativeBackground",
+        "installBorderColor": "#58953D",
+        "installFillBackground": "#58953D",
+        "installFillForeground": "#FDF6E3",
+        "installFocusedBackground": "#DFEEC2",
+        "installForeground": "#58953D",
+        "updateBackground": "#1D72BC",
+        "updateBorderColor": "#1D72BC",
+        "updateForeground": "#FDF6E3"
+      },
+      "SearchField": {
+        "background": "colorAlternativeBackground",
+        "borderColor": "#C6C0B2"
+      },
+      "SectionHeader": {
+        "background": "#F5EEDC",
+        "foreground": "#77746B"
+      },
+      "tagBackground": "#E8E2D2",
+      "tagForeground": "#77746B"
     },
 
     "Popup": {

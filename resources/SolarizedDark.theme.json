@@ -345,34 +345,6 @@
       "lineSeparatorColor": "#3A5F6C"
     },
 
-    "Plugins": {
-      "background": "colorBackground",
-      "disabledForeground": "#476971",
-      "eapTagBackground": "#EDD0CE",
-      "lightSelectionBackground": "#0F3844",
-      "Button": {
-        "installBackground": "colorBackground",
-        "installBorderColor": "#0A7754",
-        "installFillBackground": "#0A7754",
-        "installFillForeground": "#ACBCC0",
-        "installFocusedBackground": "#DFF6DA",
-        "installForeground": "#0A7754",
-        "updateBackground": "#00467B",
-        "updateBorderColor": "#00467B",
-        "updateForeground": "#ACBCC0"
-      },
-      "SearchField": {
-        "background": "colorBackground",
-        "borderColor": "#284E59"
-      },
-      "SectionHeader": {
-        "background": "#0E3C4A",
-        "foreground": "#849AA0"
-      },
-      "tagBackground": "#254C57",
-      "tagForeground": "#849AA0"
-    },
-
     "PasswordField": {
       "background": "colorAlternativeBackground",
       "caretForeground": "colorForeground",
@@ -380,6 +352,34 @@
       "inactiveForeground": "colorShadow",
       "selectionBackground": "colorSelectionBackground",
       "selectionForeground": "colorSelectionForeground"
+    },
+
+    "Plugins": {
+      "background": "#013441",
+      "disabledForeground": "#476C74",
+      "eapTagBackground": "#EFD2CF",
+      "lightSelectionBackground": "#0B3A48",
+      "Button": {
+        "installBackground": "#013441",
+        "installBorderColor": "#057A56",
+        "installFillBackground": "#057A56",
+        "installFillForeground": "#ABBBBF",
+        "installFocusedBackground": "#DFF6DB",
+        "installForeground": "#057A56",
+        "updateBackground": "#004880",
+        "updateBorderColor": "#004880",
+        "updateForeground": "#ABBBBF"
+      },
+      "SearchField": {
+        "background": "#013441",
+        "borderColor": "#28525B"
+      },
+      "SectionHeader": {
+        "background": "#0C3D45",
+        "foreground": "#81999F"
+      },
+      "tagBackground": "#264F58",
+      "tagForeground": "#81999F"
     },
 
     "Popup": {
