@@ -119,6 +119,8 @@
 
     "ComboBoxButton.background": "colorBackground",
 
+    "ComboPopup.border": "1,1,1,1,11333C",
+
     "CompletionPopup": {
       "foreground": "#colorForeground",
       "matchForeground": "#519AF2",
@@ -154,6 +156,8 @@
         "errorMessageForeground": "#FA6060"
       }
     },
+
+    "DebuggerPopup.borderColor": "colorBorder",
 
     "DefaultTabs": {
       "background": "colorBackground",
@@ -238,6 +242,10 @@
       "foreground": "#B0BEC2",
       "shortcutForeground": "#6B858D"
     },
+
+    "InformationHint.borderColor": "colorBorder",
+
+    "InplaceRefactoringPopup.borderColor": "colorBorder",
 
     "Label": {
       "background": "colorBackground",
@@ -394,7 +402,7 @@
         "background": "colorBackground",
         "borderColor": "#204D5C"
       },
-      "Popup.Advertiser.borderColor": "#6B858D"
+      "Advertiser.borderColor": "#6B858D"
     },
 
     "PopupMenu": {

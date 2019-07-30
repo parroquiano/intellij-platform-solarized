@@ -15,7 +15,7 @@
     "colorSelectionForeground": "#FFFFFF",
     "colorSelectionForegroundInactive": "#073642",
     "colorHoverBackground": "#DBD6C4",
-    "colorBorder": "#C6C1B1",
+    "colorBorder": "#C0BBAD",
     "colorAlternativeBorder": "#BDB8AA",
     "colorDisabledForeground": "#969387",
     "colorFocusedBorder" : "#A5C7E2",
@@ -54,7 +54,7 @@
 
     "Borders": {
       "color": "colorBorder",
-      "ContrastBorderColor": "colorBorder"
+      "ContrastBorderColor": "#C6C1B1"
     },
 
     "Button": {
@@ -118,6 +118,8 @@
 
     "ComboBoxButton.background": "colorAlternativeBackground",
 
+    "ComboPopup.border": "1,1,1,1,C0BBAD",
+
     "CompletionPopup": {
       "foreground": "#colorForeground",
       "matchForeground": "#4975B9",
@@ -153,6 +155,8 @@
         "errorMessageForeground": "#EC0010"
       }
     },
+
+    "DebuggerPopup.borderColor": "colorBorder",
 
     "DefaultTabs": {
       "background": "colorBackground",
@@ -237,6 +241,10 @@
       "foreground": "colorForeground",
       "shortcutForeground": "#757269"
     },
+
+    "InformationHint.borderColor": "colorBorder",
+
+    "InplaceRefactoringPopup.borderColor": "colorBorder",
 
     "Label": {
       "background": "colorBackground",
@@ -393,7 +401,7 @@
         "background": "colorBackground",
         "borderColor": "#F5F1E5"
       },
-      "Popup.Advertiser.borderColor": "#858177"
+      "Advertiser.borderColor": "#858177"
     },
 
     "PopupMenu": {
@@ -469,8 +477,8 @@
     "SearchField.errorBackground": "#FCC4B3",
 
     "SearchMatch": {
-      "startBackground": "#ffeaa2",
-      "endBackground": "#ffd042"
+      "startBackground": "#FAE08D",
+      "endBackground": "#F8C734"
     },
 
     "Separator.separatorColor": "colorSeparator",
@@ -610,7 +618,7 @@
       "Button": {
         "hoverBackground": "#57524228",
         "selectedBackground": "#57524255",
-        "selectedForeground": "colorForeground"
+        "selectedForeground": "#002B36"
       },
       "Header": {
         "background": "#DEDDD1",
