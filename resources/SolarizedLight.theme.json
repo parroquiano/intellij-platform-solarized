@@ -18,7 +18,7 @@
     "colorBorder": "#C0BBAD",
     "colorAlternativeBorder": "#BDB8AA",
     "colorDisabledForeground": "#969387",
-    "colorFocusedBorder" : "#A5C7E2",
+    "colorFocusedBorder" : "#86ABCB",
     "colorDisabledText": "#839496",
     "colorAlternativeBackground": "#FDF6E3",
     "colorSeparator": "#C9C3B3",
@@ -128,8 +128,8 @@
     },
 
     "Component": {
-      "borderColor": "colorAlternativeBorder",
-      "disabledBorderColor": "colorAlternativeBorder",
+      "borderColor": "#C3BEAF",
+      "disabledBorderColor": "#CCC6B6",
       "errorFocusColor": "#DE3641",
       "focusColor": "#95BDE1",
       "focusedBorderColor": "colorFocusedBorder",
@@ -685,7 +685,7 @@
       "background": "#F5F1E5",
       "headerBackground": "#D8D3C2",
       "headerForeground": "#4F4D46",
-      "borderColor": "#BDB8AA",
+      "borderColor": "colorAlternativeBorder",
       "groupIconBorderColor": "#BDB8AA",
       "footerBackground": "#CFC9B9",
       "footerForeground": "colorForeground",
@@ -723,7 +723,19 @@
       "Objects.Red": "#dc322f",
       "Objects.RedStatus": "#dc322f",
       "Objects.BlackText": "#002b36ff",
-      "Objects.GreenAndroid": "#859900"
+      "Objects.GreenAndroid": "#859900",
+
+      "Checkbox.Background.Default": "#FDF6E3",
+      "Checkbox.Border.Default": "#BDB8AA",
+      "Checkbox.Background.Selected": "#4984BE",
+      "Checkbox.Border.Selected": "#4984BE",
+      "Checkbox.Foreground.Selected": "#FDF6E3",
+      "Checkbox.Background.Disabled": "#EEE8D5",
+      "Checkbox.Border.Disabled": "#CCC6B6",
+      "Checkbox.Foreground.Disabled": "#969387",
+      "Checkbox.Focus.Thin.Default": "#86ABCB",
+      "Checkbox.Focus.Thin.Selected": "#86ABCB",
+      "Checkbox.Focus.Wide": "#86ABCB"
     }
   }
 }
