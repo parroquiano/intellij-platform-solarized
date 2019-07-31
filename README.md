@@ -11,7 +11,6 @@
 * [Description](#description)
 * [Installation](#installation)
 * [Supported products & plugins](#supported-products)
-* [Languages & technologies supported](#languages--technologies-supported)
 * [Screenshots](#screenshots)
 
 Description
@@ -61,115 +60,15 @@ Supported products:
 
 **Plugins**:
 **`Scala`**
-**`BashSupport`**
-**`Lua`**
-**`CMD support`**
-**`Pug (ex-Jade)`**
-**`Erlang`**
 **`Rust`**
-**`Protobuf support`**
 **`Cursive`**
 **`Perl`**
-**`HaskForce`**
+**`Protobuf support`**
 **`R language support`**
-*and all the JetBrains plugins providing the languages listed in [Languages & technologies supported](#languages--technologies-supported) section*
-
-Languages & technologies supported
------------
-
-IDE settings:
-`General`
-`Language Defaults `
-`Console Colors`
-`Custom`
-`Debugger`
-`Diff & Merge`
-`VCS`
-
-`.NET (C#, F#, VB.NET)`
-`Action Script`
-`Android Logcat`
-`Apache Config`
-`ASP.NET`
-`Bash`
-`Blade`
-`Buildout config`
-`C/C++`
-`Cabal`
-`CFML`
-`Clojure`
-`CMD`
-`CoffeeScript`
-`Concept`
-`CSS`
-`Cucumber`
-`Dart`
-`Database`
-`Django/Jinja2 Template`
-`Dockerfile`
-`Drools`
-`EJS`
-`ERB`
-`Erlang`
-`FreeMarker`
-`gettext PO`
-`Go`
-`GQL`
-`Groovy`
-`Haml`
-`Handlebars/Mustache`
-`Haskell`
-`HOCON`
-`HTML`
-`HTTP Request`
-`Ini`
-`JavaScript`
-`Java`
-`JPA/HibernateQL`
-`JSON`
-`JSP`
-`Kotlin`
-`Less`
-`Lua`
-`MakoTemplate`
-`Markdown`
-`OGNL`
-`OSGi Manifest`
-`Perl5 POD`
-`Perl5`
-`PHP`
-`Properties`
-`Protobuf`
-`Pug/Jade`
-`Puppet`
-`Python`
-`RDoc`
-`RegExp`
-`reStructuredText`
-`Ruby`
-`Rust`
-`R`
-`Sass/SCSS`
-`Scala`
-`Slim`
-`Smarty`
-`Specification`
-`Spring EL`
-`Spy-js`
-`SQL`
-`Stack Traces`
-`Stylus`
-`Table Diff`
-`Tapestry`
-`Template Toolkit 2`
-`Twig`
-`TypeScript`
-`Velocity`
-`x86 Assembler`
-`XML`
-`XPath`
-`XSLT`
-`YAML`
+**`Erlang`**
+**`BashSupport`**
+**`CMD support`**
+*and the JetBrains' plugins bundled into the supported IDEs*
 
 Screenshots
 ------------
