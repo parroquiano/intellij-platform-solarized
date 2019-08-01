@@ -47,11 +47,11 @@
     <option name="SELECTED_TEARLINE_COLOR" value="657b83" />
     <option name="SELECTION_BACKGROUND" value="657b83" />
     <option name="SELECTION_FOREGROUND" value="2b36" />
-    <option name="SEPARATOR_BELOW_COLOR" value="113a46" />
+    <option name="SEPARATOR_BELOW_COLOR" value="f3844" />
     <option name="SOFT_WRAP_SIGN_COLOR" value="" />
     <option name="ScrollBar.hoverThumbColor" value="94a6ab47" />
     <option name="ScrollBar.thumbColor" value="94a6ab33" />
-    <option name="TEARLINE_COLOR" value="586e75" />
+    <option name="TEARLINE_COLOR" value="3d5963" />
     <option name="VCS_ANNOTATIONS_COLOR_1" value="244d4e" />
     <option name="VCS_ANNOTATIONS_COLOR_2" value="1a414a" />
     <option name="VCS_ANNOTATIONS_COLOR_3" value="194352" />
@@ -213,7 +213,7 @@
     <option name="BREADCRUMBS_CURRENT">
       <value>
         <option name="FOREGROUND" value="93a1a1" />
-        <option name="BACKGROUND" value="22454f" />
+        <option name="BACKGROUND" value="1f4753" />
       </value>
     </option>
     <option name="BREADCRUMBS_DEFAULT">
@@ -224,7 +224,7 @@
     <option name="BREADCRUMBS_HOVERED">
       <value>
         <option name="FOREGROUND" value="93a1a1" />
-        <option name="BACKGROUND" value="173f48" />
+        <option name="BACKGROUND" value="133f4b" />
       </value>
     </option>
     <option name="BREADCRUMBS_INACTIVE">
