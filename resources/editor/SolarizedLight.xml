@@ -542,7 +542,7 @@
     </option>
     <option name="DEBUGGER_INLINED_VALUES">
       <value>
-        <option name="FOREGROUND" value="858177" />
+        <option name="FOREGROUND" value="708589" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -560,12 +560,14 @@
     </option>
     <option name="DEBUGGER_SMART_STEP_INTO_SELECTION">
       <value>
+        <option name="FOREGROUND" value="283c43" />
         <option name="BACKGROUND" value="f1adeb" />
         <option name="EFFECT_COLOR" value="ca21c5" />
       </value>
     </option>
     <option name="DEBUGGER_SMART_STEP_INTO_TARGET">
       <value>
+        <option name="FOREGROUND" value="33484f" />
         <option name="BACKGROUND" value="ddc9d7" />
       </value>
     </option>

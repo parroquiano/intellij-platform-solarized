@@ -232,8 +232,8 @@
     </option>
     <option name="BREAKPOINT_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="19252f" />
-        <option name="ERROR_STRIPE_COLOR" value="4b463f" />
+        <option name="BACKGROUND" value="20242c" />
+        <option name="ERROR_STRIPE_COLOR" value="4f443f" />
       </value>
     </option>
     <option name="CLASS_REFERENCE">
@@ -543,7 +543,7 @@
     </option>
     <option name="DEBUGGER_INLINED_VALUES">
       <value>
-        <option name="FOREGROUND" value="4a6d7c" />
+        <option name="FOREGROUND" value="566c73" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -561,12 +561,14 @@
     </option>
     <option name="DEBUGGER_SMART_STEP_INTO_SELECTION">
       <value>
+        <option name="FOREGROUND" value="b6c7c9" />
         <option name="BACKGROUND" value="6c4997" />
         <option name="EFFECT_COLOR" value="bc6dca" />
       </value>
     </option>
     <option name="DEBUGGER_SMART_STEP_INTO_TARGET">
       <value>
+        <option name="FOREGROUND" value="abbcbe" />
         <option name="BACKGROUND" value="323866" />
       </value>
     </option>

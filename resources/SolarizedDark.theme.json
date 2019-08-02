@@ -143,13 +143,13 @@
 
     "Debugger": {
       "Variables": {
-        "collectingDataForeground": "#133F4B",
-        "evaluatingExpressionForeground": "#133F4B",
-        "modifyingValueForeground": "#519AF2",
-        "changedValueForeground": "#519AF2",
-        "exceptionForeground": "#FA6060",
-        "valueForeground": "#F92A2D",
-        "errorMessageForeground": "#FA6060"
+        "collectingDataForeground": "#93a1a1",
+        "evaluatingExpressionForeground": "#93a1a1",
+        "modifyingValueForeground": "#0062FF",
+        "changedValueForeground": "#0062FF",
+        "exceptionForeground": "#D53E28",
+        "valueForeground": "#fa898a",
+        "errorMessageForeground": "#D53E28"
       }
     },
 
