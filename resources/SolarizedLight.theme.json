@@ -7,12 +7,12 @@
 
   "colors": {
     "colorBackground": "#EEE8D5",
-    "colorForeground":  "#073642",
+    "colorForeground": "#2E4E58",
     "colorInactiveForeground": "#657b83",
     "colorSelectionBackground": "#3570CD",
     "colorSelectionBackgroundInactive": "#D2CBB9",
     "colorSelectionForeground": "#FFFFFF",
-    "colorSelectionForegroundInactive": "#073642",
+    "colorSelectionForegroundInactive": "#2E4E58",
     "colorHoverBackground": "#DBD6C4",
     "colorBorder": "#C0BBAD",
     "colorDisabledForeground": "#839496",
@@ -144,11 +144,11 @@
       "Variables": {
         "collectingDataForeground": "#586e75",
         "evaluatingExpressionForeground": "#586e75",
-        "modifyingValueForeground": "#5400D9",
-        "changedValueForeground": "#5400D9",
-        "exceptionForeground": "#DE0000",
+        "modifyingValueForeground": "#0049FD",
+        "changedValueForeground": "#0049FD",
+        "exceptionForeground": "#FA4F2C",
         "valueForeground": "#7C0000",
-        "errorMessageForeground": "#DE0000"
+        "errorMessageForeground": "#FA4F2C"
       }
     },
 
@@ -379,10 +379,10 @@
       },
       "SectionHeader": {
         "background": "#F5EEDC",
-        "foreground": "#77746B"
+        "foreground": "#627880"
       },
       "tagBackground": "#E8E2D2",
-      "tagForeground": "#77746B"
+      "tagForeground": "#627880"
     },
 
     "Popup": {
@@ -582,7 +582,7 @@
 
     "TitlePane": {
       "background": "colorBackground",
-      "inactiveInfoForeground": "#AEAA9C",
+      "inactiveInfoForeground": "#839496",
       "infoForeground": "#586e75"
     },
 
@@ -649,12 +649,12 @@
       "GitLog": {
         "headIconColor": "#EABE00",
         "localBranchIconColor": "#2DA54A",
-        "otherIconColor": "#77746C",
+        "otherIconColor": "#627880",
         "remoteBranchIconColor": "#976EA1",
-        "tagIconColor": "#77746C"
+        "tagIconColor": "#627880"
       },
       "HgLog": {
-        "tagIconColor": "#77746C",
+        "tagIconColor": "#627880",
         "headIconColor": "#832460",
         "bookmarkIconColor": "#976EA1",
         "branchIconColor": "#2DA54A",
@@ -665,11 +665,11 @@
       },
       "Log.Commit": {
         "currentBranchBackground": "#E3F2E4",
-        "unmatchedForeground": "#7F7B72"
+        "unmatchedForeground": "#6b8086"
       },
       "RefLabel": {
         "backgroundBase": "#000000",
-        "foreground": "#77746C"
+        "foreground": "#627880"
       }
     },
 
@@ -710,7 +710,7 @@
       "Actions.Grey": "#586e75",
       "Actions.GreyInline": "#586e75",
 
-      "Objects.Grey": "#586e75",
+      "Objects.Grey": "#657b83",
       "Objects.Blue": "#268bd2",
       "Objects.Green": "#859900",
       "Objects.Yellow": "#b58900",
@@ -729,7 +729,7 @@
       "Checkbox.Foreground.Selected": "#FDF6E3",
       "Checkbox.Background.Disabled": "#EEE8D5",
       "Checkbox.Border.Disabled": "#CCC6B6",
-      "Checkbox.Foreground.Disabled": "#969387",
+      "Checkbox.Foreground.Disabled": "#839496",
       "Checkbox.Focus.Thin.Default": "#86ABCB",
       "Checkbox.Focus.Thin.Selected": "#86ABCB",
       "Checkbox.Focus.Wide": "#86ABCB"

@@ -145,11 +145,11 @@
       "Variables": {
         "collectingDataForeground": "#93a1a1",
         "evaluatingExpressionForeground": "#93a1a1",
-        "modifyingValueForeground": "#0062FF",
-        "changedValueForeground": "#0062FF",
-        "exceptionForeground": "#D53E28",
+        "modifyingValueForeground": "#0097FF",
+        "changedValueForeground": "#0097FF",
+        "exceptionForeground": "#D55048",
         "valueForeground": "#fa898a",
-        "errorMessageForeground": "#D53E28"
+        "errorMessageForeground": "#D55048"
       }
     },
 
@@ -380,10 +380,10 @@
       },
       "SectionHeader": {
         "background": "#0C3D45",
-        "foreground": "#81999F"
+        "foreground": "#88999b"
       },
       "tagBackground": "#264F58",
-      "tagForeground": "#81999F"
+      "tagForeground": "#88999b"
     },
 
     "Popup": {
@@ -584,7 +584,7 @@
 
     "TitlePane": {
       "background": "colorBackground",
-      "inactiveInfoForeground": "#54727A",
+      "inactiveInfoForeground": "#586e75",
       "infoForeground": "#839496"
     },
 
@@ -651,12 +651,12 @@
       "GitLog": {
         "headIconColor": "#DAC732",
         "localBranchIconColor": "#2AB15E",
-        "otherIconColor": "#839496",
+        "otherIconColor": "#7D8F92",
         "remoteBranchIconColor": "#8D78B9",
-        "tagIconColor": "#839496"
+        "tagIconColor": "#7D8F92"
       },
       "HgLog": {
-        "tagIconColor": "#839496",
+        "tagIconColor": "#7D8F92",
         "headIconColor": "#B51D8F",
         "bookmarkIconColor": "#8D78B9",
         "branchIconColor": "#2AB15E",
@@ -667,11 +667,11 @@
       },
       "Log.Commit": {
         "currentBranchBackground": "#134452",
-        "unmatchedForeground": "#3F626A"
+        "unmatchedForeground": "#476069"
       },
       "RefLabel": {
         "backgroundBase": "#FFFFFF",
-        "foreground": "#779097"
+        "foreground": "#7D8F92"
       }
     },
 
@@ -731,7 +731,7 @@
       "Checkbox.Foreground.Selected.Dark": "#ACBCC0",
       "Checkbox.Background.Disabled.Dark": "#0E3C4A",
       "Checkbox.Border.Disabled.Dark": "#3C626C",
-      "Checkbox.Foreground.Disabled.Dark": "#59777F",
+      "Checkbox.Foreground.Disabled.Dark": "#60767d",
       "Checkbox.Focus.Thin.Default.Dark": "#296996",
       "Checkbox.Focus.Thin.Selected.Dark": "#296996",
       "Checkbox.Focus.Wide.Dark": "#296996"
