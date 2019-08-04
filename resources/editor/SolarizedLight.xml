@@ -4,7 +4,7 @@
     <option name="ANNOTATIONS_COLOR" value="7a54e0" />
     <option name="ANNOTATIONS_MERGED_COLOR" value="2aa198" />
     <option name="CARET_COLOR" value="586e75" />
-    <option name="CARET_ROW_COLOR" value="f5eedc" />
+    <option name="CARET_ROW_COLOR" value="f3eddc" />
     <option name="CONSOLE_BACKGROUND_KEY" value="fdf6e3" />
     <option name="DELETED_LINES_COLOR" value="9e998e" />
     <option name="DIAGRAM_ANNOTATION_EDGE" value="949500" />
@@ -31,19 +31,19 @@
     <option name="IGNORED_ADDED_LINES_BORDER_COLOR" value="9fbf85" />
     <option name="IGNORED_DELETED_LINES_BORDER_COLOR" value="9e998e" />
     <option name="IGNORED_MODIFIED_LINES_BORDER_COLOR" value="94adbe" />
-    <option name="INDENT_GUIDE" value="e2dccc" />
+    <option name="INDENT_GUIDE" value="ebe5d2" />
     <option name="INFORMATION_HINT" value="f5eedc" />
     <option name="LINE_NUMBERS_COLOR" value="93a1a1" />
     <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="74878c" />
-    <option name="METHOD_SEPARATORS_COLOR" value="eee8d5" />
+    <option name="METHOD_SEPARATORS_COLOR" value="c8cac0" />
     <option name="MODIFIED_LINES_COLOR" value="c1cfd3" />
     <option name="NOTIFICATION_BACKGROUND" value="faeeb7" />
     <option name="QUESTION_HINT" value="b6cce9" />
     <option name="READONLY_FRAGMENT_BACKGROUND" value="" />
     <option name="RECENT_LOCATIONS_SELECTION" value="e7e6db" />
     <option name="RECURSIVE_CALL_ATTRIBUTES" value="fcf5bd" />
-    <option name="RIGHT_MARGIN_COLOR" value="ded8c7" />
-    <option name="SELECTED_INDENT_GUIDE" value="c8c3b5" />
+    <option name="RIGHT_MARGIN_COLOR" value="c8cac0" />
+    <option name="SELECTED_INDENT_GUIDE" value="c0c5bc" />
     <option name="SELECTED_TEARLINE_COLOR" value="839496" />
     <option name="SELECTION_BACKGROUND" value="839496" />
     <option name="SELECTION_FOREGROUND" value="fdf6e3" />
@@ -55,7 +55,7 @@
     <option name="VCS_ANNOTATIONS_COLOR_3" value="d7dce1" />
     <option name="VCS_ANNOTATIONS_COLOR_4" value="faf2b6" />
     <option name="VCS_ANNOTATIONS_COLOR_5" value="feb8ae" />
-    <option name="VISUAL_INDENT_GUIDE" value="ece6d4" />
+    <option name="VISUAL_INDENT_GUIDE" value="e4e0cc" />
     <option name="WHITESPACES" value="93a1a1" />
     <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="ecd5a7" />
 
