@@ -73,6 +73,8 @@ Supported products:
 Screenshots
 ------------
 
+*Note: the screenshots below were made for some older versions of the project so the current look and feel can be somewhat different.*
+
 ### UI
 <p align="center">
   <img src="https://user-images.githubusercontent.com/16573106/62012485-9cc35f00-b18f-11e9-9a3d-61dc7d9a41f2.png" width="49%" alt="screenshot" />
