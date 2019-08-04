@@ -1,12 +1,12 @@
 <scheme name="Solarized Light (4lex4)" version="142" parent_scheme="Default">
   <colors>
     <option name="ADDED_LINES_COLOR" value="c4d4aa" />
-    <option name="ANNOTATIONS_COLOR" value="7a54e0" />
+    <option name="ANNOTATIONS_COLOR" value="586e76" />
     <option name="ANNOTATIONS_MERGED_COLOR" value="2aa198" />
     <option name="CARET_COLOR" value="586e75" />
     <option name="CARET_ROW_COLOR" value="f3eddc" />
     <option name="CONSOLE_BACKGROUND_KEY" value="fdf6e3" />
-    <option name="DELETED_LINES_COLOR" value="9e998e" />
+    <option name="DELETED_LINES_COLOR" value="93a1a1" />
     <option name="DIAGRAM_ANNOTATION_EDGE" value="949500" />
     <option name="DIAGRAM_DEFAULT_EDGE" value="58564f" />
     <option name="DIAGRAM_GENERALIZATION_EDGE" value="250074" />
