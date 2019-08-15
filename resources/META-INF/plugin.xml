@@ -72,7 +72,7 @@ To install:
     ]]>
   </change-notes>
 
-  <idea-version since-build="191.0"/>
+  <idea-version since-build="192"/>
 
   <depends>com.intellij.modules.lang</depends>
 
