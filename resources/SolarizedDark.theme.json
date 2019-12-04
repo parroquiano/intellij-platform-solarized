@@ -586,10 +586,10 @@
     "ToggleButton": {
       "borderColor": "#2A4E5A",
       "buttonColor": "#42646D",
-      "offBackground": "#2B6955",
-      "offForeground": "colorForeground",
-      "onBackground": "colorBackground",
-      "onForeground": "#6B8086",
+      "onBackground": "#2B6955",
+      "onForeground": "colorForeground",
+      "offBackground": "colorBackground",
+      "offForeground": "#6B8086",
       "disabledText": "colorDisabledForeground"
     },
 
