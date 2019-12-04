@@ -232,10 +232,7 @@
     "Group.separatorColor": "colorSeparator",
 
     "HelpTooltip": {
-      "background": "#F5F1E5",
-      "borderColor": "#ADA89A",
-      "foreground": "colorForeground",
-      "shortcutForeground": "#757269"
+      "borderColor": "#ADA89A"
     },
 
     "InformationHint.borderColor": "colorBorder",
@@ -482,12 +479,10 @@
     "SidePanel.background": "#E2E2D4",
 
     "Slider": {
-      "background": "colorBackground",
-      "focus": "#A2B4BB",
-      "foreground": "colorForeground",
-      "highlight": "colorHighlight",
-      "shadow": "colorShadow",
-      "tickColor": "#000000"
+      "buttonColor": "colorAlternativeBackground",
+      "buttonBorderColor": "#A5A094",
+      "trackColor": "#bec2b9",
+      "tickColor": "#869798"
     },
 
     "SpeedSearch": {
@@ -608,7 +603,10 @@
 
     "ToolTip": {
       "background": "#F5F1E5",
-      "foreground": "colorForeground"
+      "foreground": "colorForeground",
+      "infoForeground": "#657b83",
+      "shortcutForeground": "#566c73",
+      "borderColor": "#ADA89A"
     },
 
     "ToolWindow": {
@@ -624,7 +622,6 @@
       },
       "HeaderCloseButton.background": "#B8B3A5",
       "HeaderTab": {
-        "selectedBackground": "#CDCBBF",
         "selectedInactiveBackground": "#D5D0BF"
       }
     },
