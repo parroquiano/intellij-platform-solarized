@@ -1,4 +1,4 @@
-<scheme name="Solarized Light (4lex4)" version="142" parent_scheme="Default">
+<scheme name="Solarized Light (4lex4)" version="1" parent_scheme="Default">
   <colors>
     <option name="ADDED_LINES_COLOR" value="c4d4aa" />
     <option name="ANNOTATIONS_COLOR" value="586e76" />
@@ -49,6 +49,7 @@
     <option name="SELECTION_FOREGROUND" value="fdf6e3" />
     <option name="SEPARATOR_BELOW_COLOR" value="e2dccb" />
     <option name="SOFT_WRAP_SIGN_COLOR" value="" />
+    <option name="STRING_CONTENT_INDENT_GUIDE" value="aecfa2" />
     <option name="TEARLINE_COLOR" value="b5bab3" />
     <option name="VCS_ANNOTATIONS_COLOR_1" value="e8f7c9" />
     <option name="VCS_ANNOTATIONS_COLOR_2" value="cfcaba" />
@@ -990,7 +991,7 @@
     <option name="INFO_ATTRIBUTES">
       <value>
         <option name="EFFECT_COLOR" value="93a1a1" />
-        <option name="ERROR_STRIPE_COLOR" value="b58900" />
+        <option name="ERROR_STRIPE_COLOR" value="d9bf71" />
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
