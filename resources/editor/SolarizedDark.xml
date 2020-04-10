@@ -19,6 +19,8 @@
     <option name="DIFF_SEPARATORS_BACKGROUND" value="2129" />
     <option name="DIFF_SEPARATORS_TOP_BORDER" value="1e26" />
     <option name="DOCUMENTATION_COLOR" value="1d4650" />
+    <option name="DOC_COMMENT_GUIDE" value="14483e" />
+    <option name="DOC_COMMENT_LINK" value="4183cc" />
     <option name="ERROR_HINT" value="671c3c" />
     <option name="FOLDED_TEXT_BORDER_COLOR" value="73642" />
     <option name="GUTTER_BACKGROUND" value="73642" />
@@ -79,55 +81,33 @@
     <option name="FILESTATUS_changelistConflict" value="C8736C" />
     <option name="FILESTATUS_modifiedOutside" value="5693BA" />
 
-    <option name="ScrollBar.background" value="14414F"/>
-    <option name="ScrollBar.trackColor" value="80808000"/>
-    <option name="ScrollBar.thumbColor" value="A6A6A647"/>
-    <option name="ScrollBar.thumbBorderColor" value="38383847"/>
-    <option name="ScrollBar.hoverTrackColor" value="80808000"/>
-    <option name="ScrollBar.hoverThumbColor" value="A6A6A659"/>
-    <option name="ScrollBar.hoverThumbBorderColor" value="38383859"/>
-    <option name="ScrollBar.Transparent.trackColor" value="80808000"/>
-    <option name="ScrollBar.Transparent.thumbColor" value="A6A6A647"/>
-    <option name="ScrollBar.Transparent.thumbBorderColor" value="38383847"/>
-    <option name="ScrollBar.Transparent.hoverTrackColor" value="8080801A"/>
-    <option name="ScrollBar.Transparent.hoverThumbColor" value="A6A6A659"/>
-    <option name="ScrollBar.Transparent.hoverThumbBorderColor" value="38383859"/>
-    <option name="ScrollBar.Mac.trackColor" value="80808000"/>
-    <option name="ScrollBar.Mac.thumbColor" value="80808059"/>
-    <option name="ScrollBar.Mac.thumbBorderColor" value="26262659"/>
-    <option name="ScrollBar.Mac.hoverTrackColor" value="80808000"/>
-    <option name="ScrollBar.Mac.hoverThumbColor" value="8080808C"/>
-    <option name="ScrollBar.Mac.hoverThumbBorderColor" value="2626268C"/>
-    <option name="ScrollBar.Mac.Transparent.trackColor" value="80808000"/>
-    <option name="ScrollBar.Mac.Transparent.thumbColor" value="80808000"/>
-    <option name="ScrollBar.Mac.Transparent.thumbBorderColor" value="26262600"/>
-    <option name="ScrollBar.Mac.Transparent.hoverTrackColor" value="8080801A"/>
-    <option name="ScrollBar.Mac.Transparent.hoverThumbColor" value="8080808C"/>
-    <option name="ScrollBar.Mac.Transparent.hoverThumbBorderColor" value="2626268C"/>
+    <option name="ScrollBar.background" value="16414D"/>
+    <option name="ScrollBar.trackColor" value="65818900"/>
+    <option name="ScrollBar.thumbColor" value="94A7AC47"/>
+    <option name="ScrollBar.thumbBorderColor" value="15374147"/>
+    <option name="ScrollBar.hoverTrackColor" value="65818900"/>
+    <option name="ScrollBar.hoverThumbColor" value="94A7AC59"/>
+    <option name="ScrollBar.hoverThumbBorderColor" value="15374159"/>
+    <option name="ScrollBar.Transparent.trackColor" value="65818900"/>
+    <option name="ScrollBar.Transparent.thumbColor" value="94A7AC47"/>
+    <option name="ScrollBar.Transparent.thumbBorderColor" value="15374147"/>
+    <option name="ScrollBar.Transparent.hoverTrackColor" value="6581891A"/>
+    <option name="ScrollBar.Transparent.hoverThumbColor" value="94A7AC59"/>
+    <option name="ScrollBar.Transparent.hoverThumbBorderColor" value="15374159"/>
+    <option name="ScrollBar.Mac.trackColor" value="65818900"/>
+    <option name="ScrollBar.Mac.thumbColor" value="65818959"/>
+    <option name="ScrollBar.Mac.thumbBorderColor" value="0E252C59"/>
+    <option name="ScrollBar.Mac.hoverTrackColor" value="65818900"/>
+    <option name="ScrollBar.Mac.hoverThumbColor" value="6581898C"/>
+    <option name="ScrollBar.Mac.hoverThumbBorderColor" value="0E252C8C"/>
+    <option name="ScrollBar.Mac.Transparent.trackColor" value="65818900"/>
+    <option name="ScrollBar.Mac.Transparent.thumbColor" value="65818900"/>
+    <option name="ScrollBar.Mac.Transparent.thumbBorderColor" value="0E252C00"/>
+    <option name="ScrollBar.Mac.Transparent.hoverTrackColor" value="6581891A"/>
+    <option name="ScrollBar.Mac.Transparent.hoverThumbColor" value="6581898C"/>
+    <option name="ScrollBar.Mac.Transparent.hoverThumbBorderColor" value="0E252C8C"/>
   </colors>
   <attributes>
-    <option name="A3_SQF_COMMAND">
-      <value>
-        <option name="FOREGROUND" value="859900" />
-      </value>
-    </option>
-    <option name="A3_SQF_COMMENT_NOTE">
-      <value>
-        <option name="FOREGROUND" value="268bd2" />
-        <option name="FONT_TYPE" value="2" />
-      </value>
-    </option>
-    <option name="A3_SQF_GLOBAL_VAR">
-      <value>
-        <option name="FOREGROUND" value="d13684" />
-        <option name="FONT_TYPE" value="2" />
-      </value>
-    </option>
-    <option name="A3_SQF_MAGIC_VARIABLE">
-      <value>
-        <option name="FOREGROUND" value="6c71c4" />
-      </value>
-    </option>
     <option name="ANNOTATION_NAME_ATTRIBUTES" baseAttributes="DEFAULT_METADATA" />
     <option name="Abstract class">
       <value>
@@ -2806,14 +2786,19 @@
         <option name="FOREGROUND" value="268bd2" />
       </value>
     </option>
-    <option name="XPATH.XPATH_NAME">
+    <option name="XPATH.FUNCTION">
       <value>
-        <option name="FOREGROUND" value="d33682" />
+        <option name="FOREGROUND" value="b58900" />
       </value>
     </option>
-    <option name="XPATH.XPATH_VARIABLE">
+    <option name="XPATH.KEYWORD">
       <value>
-        <option name="FOREGROUND" value="839496" />
+        <option name="FOREGROUND" value="b58900" />
+      </value>
+    </option>
+    <option name="XPATH.XPATH_NAME">
+      <value>
+        <option name="FOREGROUND" value="859900" />
       </value>
     </option>
     <option name="YAML_ANCHOR">

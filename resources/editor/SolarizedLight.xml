@@ -19,6 +19,8 @@
     <option name="DIFF_SEPARATORS_BACKGROUND" value="d7d1c1" />
     <option name="DIFF_SEPARATORS_TOP_BORDER" value="c8c3b5" />
     <option name="DOCUMENTATION_COLOR" value="f5eedc" />
+    <option name="DOC_COMMENT_GUIDE" value="e6e0cf" />
+    <option name="DOC_COMMENT_LINK" value="3e80b3" />
     <option name="ERROR_HINT" value="fdd4c4" />
     <option name="FOLDED_TEXT_BORDER_COLOR" value="eee8d5" />
     <option name="GUTTER_BACKGROUND" value="eee8d5" />
@@ -83,55 +85,33 @@
     <option name="FILESTATUS_SWITCHED" value="00B7B7" />
     <option name="FILESTATUS_SUPPRESSED" value=""/>
 
-    <option name="ScrollBar.background" value="F5F0E3"/>
-    <option name="ScrollBar.trackColor" value="80808000"/>
-    <option name="ScrollBar.thumbColor" value="73737333"/>
-    <option name="ScrollBar.thumbBorderColor" value="59595933"/>
-    <option name="ScrollBar.hoverTrackColor" value="80808000"/>
-    <option name="ScrollBar.hoverThumbColor" value="73737347"/>
-    <option name="ScrollBar.hoverThumbBorderColor" value="59595947"/>
-    <option name="ScrollBar.Transparent.trackColor" value="80808000"/>
-    <option name="ScrollBar.Transparent.thumbColor" value="73737333"/>
-    <option name="ScrollBar.Transparent.thumbBorderColor" value="59595933"/>
-    <option name="ScrollBar.Transparent.hoverTrackColor" value="8080801A"/>
-    <option name="ScrollBar.Transparent.hoverThumbColor" value="73737347"/>
-    <option name="ScrollBar.Transparent.hoverThumbBorderColor" value="59595947"/>
-    <option name="ScrollBar.Mac.trackColor" value="80808000"/>
+    <option name="ScrollBar.background" value="F3ECDA"/>
+    <option name="ScrollBar.trackColor" value="807D7700"/>
+    <option name="ScrollBar.thumbColor" value="726F6933"/>
+    <option name="ScrollBar.thumbBorderColor" value="59575233"/>
+    <option name="ScrollBar.hoverTrackColor" value="807D7700"/>
+    <option name="ScrollBar.hoverThumbColor" value="726F6947"/>
+    <option name="ScrollBar.hoverThumbBorderColor" value="59575247"/>
+    <option name="ScrollBar.Transparent.trackColor" value="807D7700"/>
+    <option name="ScrollBar.Transparent.thumbColor" value="726F6933"/>
+    <option name="ScrollBar.Transparent.thumbBorderColor" value="59575233"/>
+    <option name="ScrollBar.Transparent.hoverTrackColor" value="807D771A"/>
+    <option name="ScrollBar.Transparent.hoverThumbColor" value="726F6947"/>
+    <option name="ScrollBar.Transparent.hoverThumbBorderColor" value="59575247"/>
+    <option name="ScrollBar.Mac.trackColor" value="807D7700"/>
     <option name="ScrollBar.Mac.thumbColor" value="00000033"/>
     <option name="ScrollBar.Mac.thumbBorderColor" value="00000033"/>
-    <option name="ScrollBar.Mac.hoverTrackColor" value="80808000"/>
+    <option name="ScrollBar.Mac.hoverTrackColor" value="807D7700"/>
     <option name="ScrollBar.Mac.hoverThumbColor" value="00000080"/>
     <option name="ScrollBar.Mac.hoverThumbBorderColor" value="00000080"/>
-    <option name="ScrollBar.Mac.Transparent.trackColor" value="80808000"/>
+    <option name="ScrollBar.Mac.Transparent.trackColor" value="807D7700"/>
     <option name="ScrollBar.Mac.Transparent.thumbColor" value="00000000"/>
     <option name="ScrollBar.Mac.Transparent.thumbBorderColor" value="00000000"/>
-    <option name="ScrollBar.Mac.Transparent.hoverTrackColor" value="8080801A"/>
+    <option name="ScrollBar.Mac.Transparent.hoverTrackColor" value="807D771A"/>
     <option name="ScrollBar.Mac.Transparent.hoverThumbColor" value="00000080"/>
     <option name="ScrollBar.Mac.Transparent.hoverThumbBorderColor" value="00000080"/>
   </colors>
   <attributes>
-    <option name="A3_SQF_COMMAND">
-      <value>
-        <option name="FOREGROUND" value="859900" />
-      </value>
-    </option>
-    <option name="A3_SQF_COMMENT_NOTE">
-      <value>
-        <option name="FOREGROUND" value="268bd2" />
-        <option name="FONT_TYPE" value="2" />
-      </value>
-    </option>
-    <option name="A3_SQF_GLOBAL_VAR">
-      <value>
-        <option name="FOREGROUND" value="d33682" />
-        <option name="FONT_TYPE" value="2" />
-      </value>
-    </option>
-    <option name="A3_SQF_MAGIC_VARIABLE">
-      <value>
-        <option name="FOREGROUND" value="6c71c4" />
-      </value>
-    </option>
     <option name="ANNOTATION_NAME_ATTRIBUTES" baseAttributes="DEFAULT_METADATA" />
     <option name="Abstract class">
       <value>
@@ -2749,14 +2729,19 @@
         <option name="FOREGROUND" value="268bd2" />
       </value>
     </option>
-    <option name="XPATH.XPATH_NAME">
+    <option name="XPATH.FUNCTION">
       <value>
-        <option name="FOREGROUND" value="d33682" />
+        <option name="FOREGROUND" value="b58900" />
       </value>
     </option>
-    <option name="XPATH.XPATH_VARIABLE">
+    <option name="XPATH.KEYWORD">
       <value>
-        <option name="FOREGROUND" value="657b83" />
+        <option name="FOREGROUND" value="b58900" />
+      </value>
+    </option>
+    <option name="XPATH.XPATH_NAME">
+      <value>
+        <option name="FOREGROUND" value="859900" />
       </value>
     </option>
     <option name="YAML_ANCHOR">
