@@ -63,12 +63,9 @@ Supported products:
 **`Rust`**
 **`Cursive`**
 **`Perl`**
-**`Protobuf support`**
-**`R language support`**
 **`Erlang`**
-**`BashSupport`**
 **`CMD support`**
-*and the JetBrains' plugins bundled into the supported IDEs*
+and the JetBrains' plugins bundled into the supported IDEs
 
 Screenshots
 ------------
