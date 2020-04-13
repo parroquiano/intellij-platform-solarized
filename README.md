@@ -63,8 +63,10 @@ Supported products:
 **`Rust`**
 **`Cursive`**
 **`Perl`**
+**`Intellij-Haskell`**
 **`Erlang`**
 **`CMD support`**
+**`Rainbow Brackets`**
 and the JetBrains' plugins bundled into the supported IDEs
 
 Screenshots
