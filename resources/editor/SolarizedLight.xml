@@ -402,17 +402,17 @@
     </option>
     <option name="CUSTOM_KEYWORD2_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="6c71c4" />
+        <option name="FOREGROUND" value="a85ba3" />
       </value>
     </option>
     <option name="CUSTOM_KEYWORD3_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="b58900" />
+        <option name="FOREGROUND" value="d9335a" />
       </value>
     </option>
     <option name="CUSTOM_KEYWORD4_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="268bd2" />
+        <option name="FOREGROUND" value="5380cc" />
       </value>
     </option>
     <option name="CUSTOM_LINE_COMMENT_ATTRIBUTES" baseAttributes="DEFAULT_LINE_COMMENT" />
@@ -653,13 +653,13 @@
     <option name="DEFAULT_PREDEFINED_SYMBOL" baseAttributes="DEFAULT_IDENTIFIER" />
     <option name="DEFAULT_REASSIGNED_LOCAL_VARIABLE">
       <value>
-        <option name="EFFECT_COLOR" value="93a1a1" />
+        <option name="EFFECT_COLOR" value="b1b8b2" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="DEFAULT_REASSIGNED_PARAMETER">
       <value>
-        <option name="EFFECT_COLOR" value="93a1a1" />
+        <option name="EFFECT_COLOR" value="b1b8b2" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
@@ -956,7 +956,8 @@
     </option>
     <option name="IMPLICIT_ANONYMOUS_CLASS_PARAMETER_ATTRIBUTES">
       <value>
-        <option name="EFFECT_COLOR" value="93a1a1" />
+        <option name="FOREGROUND" value="6c71c4" />
+        <option name="EFFECT_COLOR" value="b1b8b2" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
@@ -1004,7 +1005,7 @@
     </option>
     <option name="Implicit conversion">
       <value>
-        <option name="EFFECT_COLOR" value="93a1a1" />
+        <option name="EFFECT_COLOR" value="b1b8b2" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
@@ -1216,7 +1217,7 @@
     </option>
     <option name="KOTLIN_MUTABLE_VARIABLE">
       <value>
-        <option name="EFFECT_COLOR" value="93a1a1" />
+        <option name="EFFECT_COLOR" value="b1b8b2" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
@@ -1532,14 +1533,12 @@
         <option name="FOREGROUND" value="cb4b16" />
       </value>
     </option>
+    <option name="OC.MACRO_PARAMETER">
+      <value />
+    </option>
     <option name="OC.OVERLOADED_OPERATOR">
       <value>
         <option name="FOREGROUND" value="268bd2" />
-      </value>
-    </option>
-    <option name="OC.PARAMETER">
-      <value>
-        <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
     <option name="OC.PROPERTY">
@@ -1901,7 +1900,7 @@
     </option>
     <option name="REST.INTERPRETED">
       <value>
-        <option name="BACKGROUND" value="c7d0a4" />
+        <option name="BACKGROUND" value="d1e2c3" />
       </value>
     </option>
     <option name="RHTML_EXPRESSION_END_ID">
@@ -2153,7 +2152,7 @@
     </option>
     <option name="ReSharper.IL_VIEWER_SYNCHRONIZATION">
       <value>
-        <option name="BACKGROUND" value="f1e0ff" />
+        <option name="BACKGROUND" value="e6e8e6" />
       </value>
     </option>
     <option name="ReSharper.JSDOC_KEYWORD">
@@ -2779,11 +2778,6 @@
         <option name="FOREGROUND" value="93a1a1" />
       </value>
     </option>
-    <option name="XML_TAG_DATA">
-      <value>
-        <option name="FOREGROUND" value="586e75" />
-      </value>
-    </option>
     <option name="XML_TAG_NAME">
       <value>
         <option name="FOREGROUND" value="268bd2" />
@@ -2933,13 +2927,13 @@
     </option>
     <option name="org.rust.MUT_BINDING">
       <value>
-        <option name="EFFECT_COLOR" value="93a1a1" />
+        <option name="EFFECT_COLOR" value="b1b8b2" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="org.rust.MUT_PARAMETER">
       <value>
-        <option name="EFFECT_COLOR" value="93a1a1" />
+        <option name="EFFECT_COLOR" value="b1b8b2" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
