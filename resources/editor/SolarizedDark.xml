@@ -2643,8 +2643,8 @@
     </option>
     <option name="TEXT_SEARCH_RESULT_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="3b37" />
-        <option name="EFFECT_COLOR" value="c6447" />
+        <option name="BACKGROUND" value="14403d" />
+        <option name="EFFECT_COLOR" value="6a9d59" />
         <option name="ERROR_STRIPE_COLOR" value="859900" />
       </value>
     </option>
@@ -2779,13 +2779,13 @@
     </option>
     <option name="WRITE_IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="2e2d47" />
+        <option name="BACKGROUND" value="412e4e" />
         <option name="ERROR_STRIPE_COLOR" value="d33682" />
       </value>
     </option>
     <option name="WRITE_SEARCH_RESULT_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="3d2e4c" />
+        <option name="BACKGROUND" value="522f54" />
       </value>
     </option>
     <option name="WRONG_REFERENCES_ATTRIBUTES">

@@ -2591,8 +2591,8 @@
     </option>
     <option name="TEXT_SEARCH_RESULT_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="dde9cb" />
-        <option name="EFFECT_COLOR" value="91bf8d" />
+        <option name="BACKGROUND" value="e0e4c7" />
+        <option name="EFFECT_COLOR" value="6a9d59" />
         <option name="ERROR_STRIPE_COLOR" value="859900" />
       </value>
     </option>
@@ -2727,7 +2727,7 @@
     </option>
     <option name="WRITE_IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="f8ddd6" />
+        <option name="BACKGROUND" value="f6d7d3" />
         <option name="ERROR_STRIPE_COLOR" value="d33682" />
       </value>
     </option>
