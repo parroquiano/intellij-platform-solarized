@@ -375,7 +375,7 @@
     </option>
     <option name="CONSOLE_WHITE_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="0" />
+        <option name="FOREGROUND" value="2b36" />
       </value>
     </option>
     <option name="CONSOLE_YELLOW_BRIGHT_OUTPUT">
@@ -768,12 +768,6 @@
         <option name="FOREGROUND" value="859900" />
       </value>
     </option>
-    <option name="ERL_ATOM">
-      <value>
-        <option name="FOREGROUND" value="839496" />
-        <option name="FONT_TYPE" value="1" />
-      </value>
-    </option>
     <option name="ERL_MACRO" baseAttributes="DEFAULT_STATIC_FIELD" />
     <option name="ERL_RECORDS">
       <value>
@@ -912,20 +906,6 @@
     <option name="GO_TYPE_REFERENCE">
       <value>
         <option name="FOREGROUND" value="268bd2" />
-      </value>
-    </option>
-    <option name="GRID_ERROR_VALUE">
-      <value>
-        <option name="EFFECT_COLOR" value="dc322f" />
-        <option name="ERROR_STRIPE_COLOR" value="dc322f" />
-        <option name="EFFECT_TYPE" value="2" />
-      </value>
-    </option>
-    <option name="GRID_IMAGE_VALUE">
-      <value>
-        <option name="FOREGROUND" value="586e75" />
-        <option name="BACKGROUND" value="73642" />
-        <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="GROOVY_KEYWORD" baseAttributes="JAVA_KEYWORD" />
@@ -2069,11 +2049,6 @@
         <option name="FOREGROUND" value="b58900" />
       </value>
     </option>
-    <option name="RUBY_SYMBOL">
-      <value>
-        <option name="FOREGROUND" value="6c71c4" />
-      </value>
-    </option>
     <option name="RUNTIME_ERROR">
       <value>
         <option name="EFFECT_COLOR" value="cb4b16" />
@@ -2225,73 +2200,6 @@
         <option name="BACKGROUND" value="62b54" />
       </value>
     </option>
-    <option name="ReSharper.JSDOC_KEYWORD">
-      <value>
-        <option name="FOREGROUND" value="859900" />
-      </value>
-    </option>
-    <option name="ReSharper.JSDOC_PARAMETER_OR_PROPERTY_IDENTIFIER">
-      <value>
-        <option name="FOREGROUND" value="93a1a1" />
-      </value>
-    </option>
-    <option name="ReSharper.JSDOC_TYPE_ANNOTATION">
-      <value>
-        <option name="FOREGROUND" value="93a1a1" />
-      </value>
-    </option>
-    <option name="ReSharper.JSDOC_TYPE_ANNOTATION_KEYWORD">
-      <value>
-        <option name="FOREGROUND" value="268bd2" />
-      </value>
-    </option>
-    <option name="ReSharper.JSDOC_TYPE_DEFINITION">
-      <value>
-        <option name="FOREGROUND" value="b58900" />
-      </value>
-    </option>
-    <option name="ReSharper.JS_BLOCK_LOCAL_CONSTANT_IDENTIFIER">
-      <value>
-        <option name="FOREGROUND" value="d33682" />
-        <option name="FONT_TYPE" value="2" />
-      </value>
-    </option>
-    <option name="ReSharper.JS_BLOCK_LOCAL_VARIABLE_IDENTIFIER">
-      <value>
-        <option name="FOREGROUND" value="cb4b16" />
-      </value>
-    </option>
-    <option name="ReSharper.JS_FUNCTION_IDENTIFIER">
-      <value>
-        <option name="FOREGROUND" value="839496" />
-        <option name="BACKGROUND" value="2b36" />
-      </value>
-    </option>
-    <option name="ReSharper.JS_LOCAL_VARIABLE_IDENTIFIER">
-      <value>
-        <option name="FOREGROUND" value="839496" />
-      </value>
-    </option>
-    <option name="ReSharper.JS_PARAMETER_IDENTIFIER">
-      <value />
-    </option>
-    <option name="ReSharper.JS_PROPERTY_IDENTIFIER">
-      <value>
-        <option name="FOREGROUND" value="6c71c4" />
-      </value>
-    </option>
-    <option name="ReSharper.JS_UNKNOWN_PROPERTY_IDENTIFIER">
-      <value>
-        <option name="FOREGROUND" value="6c71c4" />
-      </value>
-    </option>
-    <option name="ReSharper.JS_XML_DOCUMENTATION_COMMENT">
-      <value>
-        <option name="FONT_TYPE" value="3" />
-        <option name="EFFECT_COLOR" value="586e75" />
-        <option name="EFFECT_TYPE" value="1" />
-      </value>
-    </option>
     <option name="ReSharper.MATCHED_FORMAT_STRING_ITEM">
       <value>
         <option name="BACKGROUND" value="4646" />
@@ -2363,18 +2271,6 @@
     <option name="SASS_ATTRIBUTE">
       <value>
         <option name="FOREGROUND" value="859900" />
-      </value>
-    </option>
-    <option name="SASS_COLON">
-      <value>
-        <option name="FOREGROUND" value="839496" />
-        <option name="BACKGROUND" value="2b36" />
-      </value>
-    </option>
-    <option name="SASS_COMMENT">
-      <value>
-        <option name="FOREGROUND" value="586e75" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="SASS_CONSTANT">
@@ -2913,11 +2809,6 @@
     <option name="XML_ATTRIBUTE_NAME">
       <value>
         <option name="FOREGROUND" value="839496" />
-      </value>
-    </option>
-    <option name="XML_ATTRIBUTE_VALUE">
-      <value>
-        <option name="FOREGROUND" value="2aa198" />
       </value>
     </option>
     <option name="XML_ENTITY_REFERENCE">

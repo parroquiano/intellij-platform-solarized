@@ -377,6 +377,11 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
+    <option name="CONSOLE_WHITE_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="fdf6e3" />
+      </value>
+    </option>
     <option name="CONSOLE_YELLOW_BRIGHT_OUTPUT">
       <value>
         <option name="FOREGROUND" value="b58900" />
@@ -2142,12 +2147,6 @@
         <option name="EFFECT_COLOR" value="93a1a1" />
       </value>
     </option>
-    <option name="ReSharper.CONTEXT_EXIT">
-      <value>
-        <option name="BACKGROUND" value="ccccff" />
-        <option name="ERROR_STRIPE_COLOR" value="268bd2" />
-      </value>
-    </option>
     <option name="ReSharper.DEBUGGER_EDIT_CONTINUE_UNABLE_TO_APPLY_CHANGES">
       <value>
         <option name="EFFECT_COLOR" value="c200fb" />
@@ -2203,48 +2202,6 @@
     <option name="ReSharper.IL_VIEWER_SYNCHRONIZATION">
       <value>
         <option name="BACKGROUND" value="e6e8e6" />
-      </value>
-    </option>
-    <option name="ReSharper.JSDOC_KEYWORD">
-      <value>
-        <option name="FOREGROUND" value="859900" />
-      </value>
-    </option>
-    <option name="ReSharper.JSDOC_PARAMETER_OR_PROPERTY_IDENTIFIER">
-      <value>
-        <option name="FOREGROUND" value="586e75" />
-      </value>
-    </option>
-    <option name="ReSharper.JSDOC_TYPE_ANNOTATION">
-      <value>
-        <option name="FOREGROUND" value="586e75" />
-      </value>
-    </option>
-    <option name="ReSharper.JSDOC_TYPE_ANNOTATION_KEYWORD">
-      <value>
-        <option name="FOREGROUND" value="268bd2" />
-      </value>
-    </option>
-    <option name="ReSharper.JSDOC_TYPE_DEFINITION">
-      <value>
-        <option name="FOREGROUND" value="b58900" />
-      </value>
-    </option>
-    <option name="ReSharper.JS_BLOCK_LOCAL_VARIABLE_IDENTIFIER">
-      <value>
-        <option name="FOREGROUND" value="cb4b16" />
-      </value>
-    </option>
-    <option name="ReSharper.JS_UNKNOWN_PROPERTY_IDENTIFIER">
-      <value>
-        <option name="FOREGROUND" value="6c71c4" />
-      </value>
-    </option>
-    <option name="ReSharper.JS_XML_DOCUMENTATION_COMMENT">
-      <value>
-        <option name="FONT_TYPE" value="3" />
-        <option name="EFFECT_COLOR" value="93a1a1" />
-        <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="ReSharper.MATCHED_FORMAT_STRING_ITEM">
@@ -2371,11 +2328,6 @@
     </option>
     <option name="SLIM_ID" baseAttributes="CSS.HASH" />
     <option name="SLIM_RUBY_CODE" baseAttributes="DEFAULT_TEMPLATE_LANGUAGE_COLOR" />
-    <option name="SMARTY_IDENTIFIER">
-      <value>
-        <option name="BACKGROUND" value="eee8d5" />
-      </value>
-    </option>
     <option name="SOY.BAD">
       <value>
         <option name="FOREGROUND" value="dc322f" />
