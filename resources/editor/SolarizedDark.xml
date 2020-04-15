@@ -123,7 +123,7 @@
     </option>
     <option name="ANGLE_BRACKETS_RAINBOW_COLOR3">
       <value>
-        <option name="FOREGROUND" value="537dc9" />
+        <option name="FOREGROUND" value="5380cc" />
       </value>
     </option>
     <option name="ANGLE_BRACKETS_RAINBOW_COLOR4">
@@ -1974,7 +1974,7 @@
     </option>
     <option name="ROUND_BRACKETS_RAINBOW_COLOR3">
       <value>
-        <option name="FOREGROUND" value="537dc9" />
+        <option name="FOREGROUND" value="5380cc" />
       </value>
     </option>
     <option name="ROUND_BRACKETS_RAINBOW_COLOR4">
@@ -2069,42 +2069,42 @@
     </option>
     <option name="Rainbow Parens Level 2">
       <value>
-        <option name="FOREGROUND" value="dc322f" />
+        <option name="FOREGROUND" value="d9335a" />
       </value>
     </option>
     <option name="Rainbow Parens Level 3">
       <value>
-        <option name="FOREGROUND" value="cb4b16" />
+        <option name="FOREGROUND" value="d34124" />
       </value>
     </option>
     <option name="Rainbow Parens Level 4">
       <value>
-        <option name="FOREGROUND" value="b58900" />
+        <option name="FOREGROUND" value="c16d0c" />
       </value>
     </option>
     <option name="Rainbow Parens Level 5">
       <value>
-        <option name="FOREGROUND" value="859900" />
+        <option name="FOREGROUND" value="9e9200" />
       </value>
     </option>
     <option name="Rainbow Parens Level 6">
       <value>
-        <option name="FOREGROUND" value="2aa198" />
+        <option name="FOREGROUND" value="6a9d59" />
       </value>
     </option>
     <option name="Rainbow Parens Level 7">
       <value>
-        <option name="FOREGROUND" value="268bd2" />
+        <option name="FOREGROUND" value="3095b4" />
       </value>
     </option>
     <option name="Rainbow Parens Level 8">
       <value>
-        <option name="FOREGROUND" value="6c71c4" />
+        <option name="FOREGROUND" value="5380cc" />
       </value>
     </option>
     <option name="Rainbow Parens Level 9">
       <value>
-        <option name="FOREGROUND" value="d33682" />
+        <option name="FOREGROUND" value="a85ba3" />
       </value>
     </option>
     <option name="ReSharper.ASP_NET_MVC_ACTION">
@@ -2489,7 +2489,7 @@
     </option>
     <option name="SQUARE_BRACKETS_RAINBOW_COLOR3">
       <value>
-        <option name="FOREGROUND" value="537dc9" />
+        <option name="FOREGROUND" value="5380cc" />
       </value>
     </option>
     <option name="SQUARE_BRACKETS_RAINBOW_COLOR4">
@@ -2514,7 +2514,7 @@
     </option>
     <option name="SQUIGGLY_BRACKETS_RAINBOW_COLOR3">
       <value>
-        <option name="FOREGROUND" value="537dc9" />
+        <option name="FOREGROUND" value="5380cc" />
       </value>
     </option>
     <option name="SQUIGGLY_BRACKETS_RAINBOW_COLOR4">
