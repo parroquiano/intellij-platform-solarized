@@ -1562,7 +1562,7 @@
     </option>
     <option name="OC.MACRONAME">
       <value>
-        <option name="FOREGROUND" value="cb4b16" />
+        <option name="FOREGROUND" value="c16d0c" />
       </value>
     </option>
     <option name="OC.MACRO_PARAMETER">
@@ -1570,7 +1570,7 @@
     </option>
     <option name="OC.OVERLOADED_OPERATOR">
       <value>
-        <option name="FOREGROUND" value="268bd2" />
+        <option name="FOREGROUND" value="3095b4" />
       </value>
     </option>
     <option name="OC.PROPERTY">
