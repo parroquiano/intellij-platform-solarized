@@ -858,7 +858,11 @@
         <option name="FOREGROUND" value="859900" />
       </value>
     </option>
-    <option name="GO_BUILTIN_FUNCTION_CALL" baseAttributes="DEFAULT_FUNCTION_CALL" />
+    <option name="GO_BUILTIN_FUNCTION_CALL">
+      <value>
+        <option name="FOREGROUND" value="859900" />
+      </value>
+    </option>
     <option name="GO_BUILTIN_TYPE_REFERENCE">
       <value>
         <option name="FOREGROUND" value="859900" />
@@ -869,24 +873,26 @@
         <option name="FOREGROUND" value="859900" />
       </value>
     </option>
+    <option name="GO_EXPORTED_FUNCTION_CALL">
+      <value>
+        <option name="FOREGROUND" value="a85ba3" />
+      </value>
+    </option>
+    <option name="GO_LOCAL_FUNCTION_CALL">
+      <value>
+        <option name="FOREGROUND" value="a85ba3" />
+      </value>
+    </option>
     <option name="GO_METHOD_RECEIVER">
       <value>
         <option name="FOREGROUND" value="b58900" />
       </value>
     </option>
-    <option name="GO_EXPORTED_FUNCTION" baseAttributes="DEFAULT_FUNCTION_DECLARATION" />
-    <option name="GO_EXPORTED_FUNCTION_CALL" baseAttributes="DEFAULT_FUNCTION_CALL" />
-    <option name="GO_LOCAL_CONSTANT" baseAttributes="DEFAULT_CONSTANT" />
-    <option name="GO_LOCAL_FUNCTION" baseAttributes="DEFAULT_FUNCTION_DECLARATION" />
-    <option name="GO_LOCAL_FUNCTION_CALL" baseAttributes="DEFAULT_FUNCTION_CALL" />
-    <option name="GO_METHOD_RECEIVER" baseAttributes="DEFAULT_LOCAL_VARIABLE" />
     <option name="GO_PACKAGE">
       <value>
-        <option name="FOREGROUND" value="268bd2" />
+        <option name="FOREGROUND" value="3095b4" />
       </value>
     </option>
-    <option name="GO_PACKAGE_EXPORTED_CONSTANT" baseAttributes="DEFAULT_CONSTANT" />
-    <option name="GO_PACKAGE_LOCAL_CONSTANT" baseAttributes="DEFAULT_CONSTANT" />
     <option name="GO_STRUCT_EXPORTED_MEMBER">
       <value>
         <option name="FOREGROUND" value="6c71c4" />
