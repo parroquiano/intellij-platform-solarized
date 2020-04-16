@@ -113,12 +113,12 @@
     </option>
     <option name="ANGLE_BRACKETS_RAINBOW_COLOR1">
       <value>
-        <option name="FOREGROUND" value="6a9d59" />
+        <option name="FOREGROUND" value="6c9d59" />
       </value>
     </option>
     <option name="ANGLE_BRACKETS_RAINBOW_COLOR2">
       <value>
-        <option name="FOREGROUND" value="3095b4" />
+        <option name="FOREGROUND" value="2e98b6" />
       </value>
     </option>
     <option name="ANGLE_BRACKETS_RAINBOW_COLOR3">
@@ -886,7 +886,7 @@
     </option>
     <option name="GO_PACKAGE">
       <value>
-        <option name="FOREGROUND" value="3095b4" />
+        <option name="FOREGROUND" value="2e98b6" />
       </value>
     </option>
     <option name="GO_STRUCT_EXPORTED_MEMBER">
@@ -1243,7 +1243,7 @@
     </option>
     <option name="KOTLIN_LABEL">
       <value>
-        <option name="FOREGROUND" value="3095b4" />
+        <option name="FOREGROUND" value="2e98b6" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
@@ -1255,7 +1255,7 @@
     </option>
     <option name="KOTLIN_NAMED_ARGUMENT">
       <value>
-        <option name="FOREGROUND" value="3095b4" />
+        <option name="FOREGROUND" value="2e98b6" />
       </value>
     </option>
     <option name="KOTLIN_NAMESPACE_PROPERTY">
@@ -1570,7 +1570,7 @@
     </option>
     <option name="OC.OVERLOADED_OPERATOR">
       <value>
-        <option name="FOREGROUND" value="3095b4" />
+        <option name="FOREGROUND" value="2e98b6" />
       </value>
     </option>
     <option name="OC.PROPERTY">
@@ -1964,12 +1964,12 @@
     </option>
     <option name="ROUND_BRACKETS_RAINBOW_COLOR1">
       <value>
-        <option name="FOREGROUND" value="6a9d59" />
+        <option name="FOREGROUND" value="6c9d59" />
       </value>
     </option>
     <option name="ROUND_BRACKETS_RAINBOW_COLOR2">
       <value>
-        <option name="FOREGROUND" value="3095b4" />
+        <option name="FOREGROUND" value="2e98b6" />
       </value>
     </option>
     <option name="ROUND_BRACKETS_RAINBOW_COLOR3">
@@ -2047,7 +2047,7 @@
     </option>
     <option name="RUBY_REGEXP">
       <value>
-        <option name="FOREGROUND" value="3095b4" />
+        <option name="FOREGROUND" value="2e98b6" />
       </value>
     </option>
     <option name="RUBY_SPECIFIC_CALL">
@@ -2074,7 +2074,7 @@
     </option>
     <option name="Rainbow Parens Level 3">
       <value>
-        <option name="FOREGROUND" value="d34124" />
+        <option name="FOREGROUND" value="d44024" />
       </value>
     </option>
     <option name="Rainbow Parens Level 4">
@@ -2089,12 +2089,12 @@
     </option>
     <option name="Rainbow Parens Level 6">
       <value>
-        <option name="FOREGROUND" value="6a9d59" />
+        <option name="FOREGROUND" value="6c9d59" />
       </value>
     </option>
     <option name="Rainbow Parens Level 7">
       <value>
-        <option name="FOREGROUND" value="3095b4" />
+        <option name="FOREGROUND" value="2e98b6" />
       </value>
     </option>
     <option name="Rainbow Parens Level 8">
@@ -2228,7 +2228,7 @@
     </option>
     <option name="ReSharper.OPERATOR_IDENTIFIER">
       <value>
-        <option name="FOREGROUND" value="3095b4" />
+        <option name="FOREGROUND" value="2e98b6" />
       </value>
     </option>
     <option name="ReSharper.OUTLINED_ENTITY">
@@ -2479,12 +2479,12 @@
     </option>
     <option name="SQUARE_BRACKETS_RAINBOW_COLOR1">
       <value>
-        <option name="FOREGROUND" value="6a9d59" />
+        <option name="FOREGROUND" value="6c9d59" />
       </value>
     </option>
     <option name="SQUARE_BRACKETS_RAINBOW_COLOR2">
       <value>
-        <option name="FOREGROUND" value="3095b4" />
+        <option name="FOREGROUND" value="2e98b6" />
       </value>
     </option>
     <option name="SQUARE_BRACKETS_RAINBOW_COLOR3">
@@ -2504,12 +2504,12 @@
     </option>
     <option name="SQUIGGLY_BRACKETS_RAINBOW_COLOR1">
       <value>
-        <option name="FOREGROUND" value="6a9d59" />
+        <option name="FOREGROUND" value="6c9d59" />
       </value>
     </option>
     <option name="SQUIGGLY_BRACKETS_RAINBOW_COLOR2">
       <value>
-        <option name="FOREGROUND" value="3095b4" />
+        <option name="FOREGROUND" value="2e98b6" />
       </value>
     </option>
     <option name="SQUIGGLY_BRACKETS_RAINBOW_COLOR3">
@@ -2655,7 +2655,7 @@
     <option name="TEXT_SEARCH_RESULT_ATTRIBUTES">
       <value>
         <option name="BACKGROUND" value="14403d" />
-        <option name="EFFECT_COLOR" value="6a9d59" />
+        <option name="EFFECT_COLOR" value="6c9d59" />
         <option name="ERROR_STRIPE_COLOR" value="859900" />
       </value>
     </option>
@@ -2975,7 +2975,7 @@
     </option>
     <option name="org.rust.LIFETIME">
       <value>
-        <option name="FOREGROUND" value="3095b4" />
+        <option name="FOREGROUND" value="2e98b6" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
