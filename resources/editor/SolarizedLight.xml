@@ -185,11 +185,6 @@
       </value>
     </option>
     <option name="BASH.FUNCTION_DEF_NAME" baseAttributes="DEFAULT_FUNCTION_DECLARATION" />
-    <option name="BASH.HERE_DOC">
-      <value>
-        <option name="BACKGROUND" value="eee8d5" />
-      </value>
-    </option>
     <option name="BASH.INTERNAL_COMMAND">
       <value>
         <option name="FOREGROUND" value="859900" />
@@ -310,7 +305,7 @@
     </option>
     <option name="CONSOLE_DARKGRAY_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="93a1a1" />
+        <option name="FOREGROUND" value="839496" />
       </value>
     </option>
     <option name="CONSOLE_ERROR_OUTPUT">
@@ -320,7 +315,7 @@
     </option>
     <option name="CONSOLE_GRAY_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="839496" />
+        <option name="FOREGROUND" value="93a1a1" />
       </value>
     </option>
     <option name="CONSOLE_GREEN_BRIGHT_OUTPUT">
@@ -986,7 +981,7 @@
     </option>
     <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="dae5e0" />
+        <option name="BACKGROUND" value="e5ebeb" />
         <option name="ERROR_STRIPE_COLOR" value="268bd2" />
       </value>
     </option>
@@ -1006,13 +1001,13 @@
     <option name="INFO_ATTRIBUTES">
       <value>
         <option name="EFFECT_COLOR" value="93a1a1" />
-        <option name="ERROR_STRIPE_COLOR" value="d9bf71" />
+        <option name="ERROR_STRIPE_COLOR" value="dbbc7a" />
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
     <option name="INJECTED_LANGUAGE_FRAGMENT">
       <value>
-        <option name="BACKGROUND" value="ebf4d3" />
+        <option name="BACKGROUND" value="e7efdc" />
       </value>
     </option>
     <option name="INLINE_PARAMETER_HINT">
@@ -1276,17 +1271,17 @@
     </option>
     <option name="KOTLIN_SMART_CAST_RECEIVER">
       <value>
-        <option name="BACKGROUND" value="ecf5c3" />
+        <option name="BACKGROUND" value="e6f0cd" />
       </value>
     </option>
     <option name="KOTLIN_SMART_CAST_VALUE">
       <value>
-        <option name="BACKGROUND" value="ecf5c3" />
+        <option name="BACKGROUND" value="e6f0cd" />
       </value>
     </option>
     <option name="KOTLIN_SMART_CONSTANT">
       <value>
-        <option name="BACKGROUND" value="ecf5c3" />
+        <option name="BACKGROUND" value="e6f0cd" />
       </value>
     </option>
     <option name="LABEL">
@@ -1408,7 +1403,7 @@
     </option>
     <option name="MAKO.SUBSTITUTION">
       <value>
-        <option name="BACKGROUND" value="e4dee1" />
+        <option name="BACKGROUND" value="eee7eb" />
       </value>
     </option>
     <option name="MARKDOWN.AUTO_LINK">
@@ -1538,7 +1533,7 @@
     <option name="MATCHED_BRACE_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="586e75" />
-        <option name="BACKGROUND" value="bddccc" />
+        <option name="BACKGROUND" value="badccc" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
@@ -1710,7 +1705,8 @@
     <option name="PHP_EXEC_COMMAND_ID">
       <value>
         <option name="FOREGROUND" value="2aa198" />
-        <option name="BACKGROUND" value="e1f4e6" />
+        <option name="BACKGROUND" value="e7efdc" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="PHP_INSTANCE_METHOD">
@@ -1926,7 +1922,7 @@
     </option>
     <option name="REST.FIXED">
       <value>
-        <option name="BACKGROUND" value="d7d1d8" />
+        <option name="BACKGROUND" value="eee7eb" />
       </value>
     </option>
     <option name="REST.INLINE">
@@ -1936,7 +1932,7 @@
     </option>
     <option name="REST.INTERPRETED">
       <value>
-        <option name="BACKGROUND" value="d1e2c3" />
+        <option name="BACKGROUND" value="ebeed1" />
       </value>
     </option>
     <option name="RHTML_EXPRESSION_END_ID">
@@ -2171,12 +2167,12 @@
     </option>
     <option name="ReSharper.FORMAT_STRING_ITEM">
       <value>
-        <option name="FOREGROUND" value="b25240" />
+        <option name="FOREGROUND" value="ba5941" />
       </value>
     </option>
     <option name="ReSharper.FORMAT_STRING_ITEM_2">
       <value>
-        <option name="FOREGROUND" value="9c5e53" />
+        <option name="FOREGROUND" value="a76553" />
       </value>
     </option>
     <option name="ReSharper.FSHARP_ACTIVE_PATTERN_CASE_IDENTIFIER">
@@ -2190,11 +2186,6 @@
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
-    <option name="ReSharper.IL_CODE_LABEL">
-      <value>
-        <option name="FOREGROUND" value="6c71c4" />
-      </value>
-    </option>
     <option name="ReSharper.IL_INSTRUCTION">
       <value>
         <option name="FOREGROUND" value="b58900" />
@@ -2205,19 +2196,14 @@
         <option name="FOREGROUND" value="d33682" />
       </value>
     </option>
-    <option name="ReSharper.IL_TARGET_CODE_LABEL">
-      <value>
-        <option name="FOREGROUND" value="cb4b16" />
-      </value>
-    </option>
     <option name="ReSharper.IL_VIEWER_SYNCHRONIZATION">
       <value>
-        <option name="BACKGROUND" value="e6e8e6" />
+        <option name="BACKGROUND" value="fae3e3" />
       </value>
     </option>
     <option name="ReSharper.MATCHED_FORMAT_STRING_ITEM">
       <value>
-        <option name="BACKGROUND" value="f7dcc8" />
+        <option name="BACKGROUND" value="ffe4c0" />
       </value>
     </option>
     <option name="ReSharper.MUTABLE_LOCAL_VARIABLE_IDENTIFIER">
@@ -2326,7 +2312,7 @@
     </option>
     <option name="SEARCH_RESULT_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="c1d8de" />
+        <option name="BACKGROUND" value="d1dee9" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
@@ -2542,13 +2528,13 @@
     </option>
     <option name="Scala Immutable Collection">
       <value>
-        <option name="EFFECT_COLOR" value="a8c56a" />
+        <option name="EFFECT_COLOR" value="a8c5e2" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
     <option name="Scala Mutable Collection">
       <value>
-        <option name="EFFECT_COLOR" value="e199b1" />
+        <option name="EFFECT_COLOR" value="f5a4b9" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
@@ -2658,8 +2644,8 @@
     </option>
     <option name="TEXT_SEARCH_RESULT_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="e0e4c7" />
-        <option name="EFFECT_COLOR" value="6c9d59" />
+        <option name="BACKGROUND" value="f6ecc3" />
+        <option name="EFFECT_COLOR" value="9e9200" />
         <option name="ERROR_STRIPE_COLOR" value="859900" />
       </value>
     </option>
@@ -2677,7 +2663,7 @@
     </option>
     <option name="TS.TYPE_GUARD">
       <value>
-        <option name="BACKGROUND" value="ecf5c3" />
+        <option name="BACKGROUND" value="e6f0cd" />
       </value>
     </option>
     <option name="TS.TYPE_PARAMETER">
@@ -2794,13 +2780,13 @@
     </option>
     <option name="WRITE_IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="f6d7d3" />
+        <option name="BACKGROUND" value="ffe0dc" />
         <option name="ERROR_STRIPE_COLOR" value="d33682" />
       </value>
     </option>
     <option name="WRITE_SEARCH_RESULT_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="f2c4ca" />
+        <option name="BACKGROUND" value="ffcbd2" />
       </value>
     </option>
     <option name="WRONG_REFERENCES_ATTRIBUTES">
@@ -3012,7 +2998,7 @@
     </option>
     <option name="org.rust.UNSAFE_CODE">
       <value>
-        <option name="BACKGROUND" value="fbdead" />
+        <option name="BACKGROUND" value="fbe6cb" />
       </value>
     </option>
   </attributes>
