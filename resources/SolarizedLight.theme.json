@@ -84,7 +84,7 @@
       "background" : "colorAlternativeBackground",
       "disabledBackground": "colorBackground",
       "disabledForeground": "#AEAA9C",
-      "modifiedItemForeground": "#2A66E1",
+      "modifiedItemForeground": "#3961FA",
       "nonEditableBackground": "colorAlternativeBackground"
     },
     "ComboBoxButton": {
@@ -118,13 +118,13 @@
     },
     "Debugger": {
       "Variables": {
-        "changedValueForeground": "#0049FD",
+        "changedValueForeground": "#3961FA",
         "collectingDataForeground": "#586e75",
-        "errorMessageForeground": "#FA4F2C",
+        "errorMessageForeground": "#F94A26",
         "evaluatingExpressionForeground": "#586e75",
-        "exceptionForeground": "#FA4F2C",
-        "modifyingValueForeground": "#0049FD",
-        "valueForeground": "#7C0000"
+        "exceptionForeground": "#F94A26",
+        "modifyingValueForeground": "#3961FA",
+        "valueForeground": "#C44C30"
       }
     },
     "DebuggerPopup": {
@@ -215,7 +215,7 @@
     "Label": {
       "disabledForeground": "#657b83",
       "disabledText": "#657b83",
-      "errorForeground": "#B90000",
+      "errorForeground": "#F95551",
       "infoForeground": "#657b83",
       "selectedForeground": "colorForeground"
     },
@@ -300,13 +300,13 @@
       "background": "colorAlternativeBackground",
       "Button": {
         "installBackground": "colorAlternativeBackground",
-        "installBorderColor": "#58953D",
-        "installFillBackground": "#58953D",
-        "installFillForeground": "#FDF6E3",
+        "installBorderColor": "#81BA5C",
+        "installFillBackground": "#81BA5C",
+        "installFillForeground": "colorAlternativeBackground",
         "installFocusedBackground": "#DFEEC2",
-        "installForeground": "#58953D",
-        "updateBackground": "#1D72BC",
-        "updateBorderColor": "#1D72BC",
+        "installForeground": "#81BA5C",
+        "updateBackground": "#5F9DE7",
+        "updateBorderColor": "#5F9DE7",
         "updateForeground": "#FDF6E3"
       },
       "disabledForeground": "#B0AB9E",
@@ -432,7 +432,7 @@
     },
     "SpeedSearch": {
       "borderColor": "#6B8086",
-      "errorForeground": "#76000F"
+      "errorForeground": "#F94A26"
     },
     "Spinner": {},
     "SplitPane": {
@@ -501,7 +501,7 @@
       "disabledText": "colorDisabledForeground",
       "offBackground": "colorBackground",
       "offForeground": "#657b83",
-      "onBackground": "#498F41",
+      "onBackground": "#6FB460",
       "onForeground": "colorForeground"
     },
     "ToolBar": {
@@ -548,9 +548,9 @@
     },
     "Tree": {
       "background": "colorAlternativeBackground",
-      "errorForeground": "#B90000",
+      "errorForeground": "#F94A26",
       "hash": "#E2DCCC",
-      "modifiedItemForeground": "#2A66E1"
+      "modifiedItemForeground": "#3961FA"
     },
     "ValidationTooltip": {
       "errorBackground": "#F2DED1",

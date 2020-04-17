@@ -82,7 +82,7 @@
       },
       "disabledBackground": "colorBackground",
       "disabledForeground": "#9FB0B5",
-      "modifiedItemForeground": "#5693BA",
+      "modifiedItemForeground": "#519AF2",
       "nonEditableBackground": "colorBackground"
     },
     "ComboBoxButton": {},
@@ -114,13 +114,13 @@
     },
     "Debugger": {
       "Variables": {
-        "changedValueForeground": "#0097FF",
+        "changedValueForeground": "#519AF2",
         "collectingDataForeground": "#93a1a1",
-        "errorMessageForeground": "#D55048",
+        "errorMessageForeground": "#FA6060",
         "evaluatingExpressionForeground": "#93a1a1",
-        "exceptionForeground": "#D55048",
-        "modifyingValueForeground": "#0097FF",
-        "valueForeground": "#fa898a"
+        "exceptionForeground": "#FA6060",
+        "modifyingValueForeground": "#519AF2",
+        "valueForeground": "#FD7E7A"
       }
     },
     "DebuggerPopup": {
@@ -428,7 +428,7 @@
     },
     "SpeedSearch": {
       "borderColor": "#6B8086",
-      "errorForeground": "#F92A2D"
+      "errorForeground": "#FA6060"
     },
     "Spinner": {},
     "SplitPane": {
@@ -545,7 +545,7 @@
     "Tree": {
       "errorForeground": "#FA6060",
       "hash": "#28515E",
-      "modifiedItemForeground": "#5693BA"
+      "modifiedItemForeground": "#519AF2"
     },
     "ValidationTooltip": {
       "errorBackground": "#353E4D",
