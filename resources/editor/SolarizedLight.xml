@@ -987,8 +987,7 @@
     </option>
     <option name="IMPLICIT_ANONYMOUS_CLASS_PARAMETER_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="6c71c4" />
-        <option name="EFFECT_COLOR" value="b1b8b2" />
+        <option name="EFFECT_COLOR" value="a9a8f8" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
@@ -1282,6 +1281,12 @@
     <option name="KOTLIN_SMART_CONSTANT">
       <value>
         <option name="BACKGROUND" value="e6f0cd" />
+      </value>
+    </option>
+    <option name="KOTLIN_WRAPPED_INTO_REF">
+      <value>
+        <option name="EFFECT_COLOR" value="a9a8f8" />
+        <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="LABEL">
@@ -2971,7 +2976,7 @@
     </option>
     <option name="org.rust.MACRO">
       <value>
-        <option name="FOREGROUND" value="cb4b16" />
+        <option name="FOREGROUND" value="c16d0c" />
       </value>
     </option>
     <option name="org.rust.METHOD">
