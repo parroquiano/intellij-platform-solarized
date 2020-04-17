@@ -2141,8 +2141,18 @@
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
-    <option name="ReSharper.ASP_NET_RAZOR_TAG_HELPER_ATTRIBUTE" baseAttributes="ReSharper.ASP_NET_RAZOR_KEYWORD" />
-    <option name="ReSharper.ASP_NET_RAZOR_TAG_HELPER_ELEMENT" baseAttributes="ReSharper.ASP_NET_RAZOR_KEYWORD" />
+    <option name="ReSharper.ASP_NET_RAZOR_TAG_HELPER_ATTRIBUTE">
+      <value>
+        <option name="FOREGROUND" value="6c71c4" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="ReSharper.ASP_NET_RAZOR_TAG_HELPER_ELEMENT">
+      <value>
+        <option name="FOREGROUND" value="6c71c4" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
     <option name="ReSharper.ASP_NET_RUN_AT_ATTRIBUTE">
       <value>
         <option name="FOREGROUND" value="b58900" />
@@ -2159,29 +2169,24 @@
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
-    <option name="ReSharper.DELEGATE_IDENTIFIER">
-      <value>
-        <option name="FOREGROUND" value="268bd2" />
-      </value>
-    </option>
-    <option name="ReSharper.ENUM_IDENTIFIER">
-      <value>
-        <option name="FOREGROUND" value="268bd2" />
-      </value>
-    </option>
     <option name="ReSharper.FORMAT_STRING_ITEM">
       <value>
-        <option name="FOREGROUND" value="9e5b3c" />
+        <option name="FOREGROUND" value="b25240" />
       </value>
     </option>
     <option name="ReSharper.FORMAT_STRING_ITEM_2">
       <value>
-        <option name="FOREGROUND" value="c17856" />
+        <option name="FOREGROUND" value="9c5e53" />
+      </value>
+    </option>
+    <option name="ReSharper.FSHARP_ACTIVE_PATTERN_CASE_IDENTIFIER">
+      <value>
+        <option name="FOREGROUND" value="d33682" />
       </value>
     </option>
     <option name="ReSharper.HINT">
       <value>
-        <option name="EFFECT_COLOR" value="8f00" />
+        <option name="EFFECT_COLOR" value="6c9d59" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
@@ -2212,7 +2217,7 @@
     </option>
     <option name="ReSharper.MATCHED_FORMAT_STRING_ITEM">
       <value>
-        <option name="BACKGROUND" value="d5e8cd" />
+        <option name="BACKGROUND" value="f7dcc8" />
       </value>
     </option>
     <option name="ReSharper.MUTABLE_LOCAL_VARIABLE_IDENTIFIER">
@@ -2223,6 +2228,11 @@
     <option name="ReSharper.NAMESPACE_IDENTIFIER">
       <value>
         <option name="FOREGROUND" value="268bd2" />
+      </value>
+    </option>
+    <option name="ReSharper.OPERATOR_IDENTIFIER">
+      <value>
+        <option name="FOREGROUND" value="3095b4" />
       </value>
     </option>
     <option name="ReSharper.OUTLINED_ENTITY">
@@ -2245,6 +2255,11 @@
         <option name="BACKGROUND" value="fbddbc" />
       </value>
     </option>
+    <option name="ReSharper.ReSharper.Cg_FUNCTION_IDENTIFIER">
+      <value>
+        <option name="FOREGROUND" value="d33682" />
+      </value>
+    </option>
     <option name="ReSharper.STATIC_CLASS_IDENTIFIER">
       <value>
         <option name="FOREGROUND" value="268bd2" />
@@ -2253,11 +2268,6 @@
     <option name="ReSharper.STRING_ESCAPE_CHARACTER_2">
       <value>
         <option name="FOREGROUND" value="b58900" />
-      </value>
-    </option>
-    <option name="ReSharper.STRUCT_IDENTIFIER">
-      <value>
-        <option name="FOREGROUND" value="268bd2" />
       </value>
     </option>
     <option name="ReSharper.ST_METHOD">
