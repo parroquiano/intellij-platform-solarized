@@ -1,7 +1,7 @@
 <idea-plugin>
   <name>Solarized Themes</name>
   <id>com.4lex4.intellij.solarized</id>
-  <version>2.2.1</version>
+  <version>2.2.2</version>
   <vendor email="4lex49@zoho.com" url="https://github.com/4lex4/intellij-platform-solarized">4lex4</vendor>
   <category>UI</category>
 
@@ -38,6 +38,15 @@ To install:
 
   <change-notes>
     <![CDATA[
+<b>2.2.2</b>
+<br/>
+<ul>
+<li>Fix some UI foreground colors</li>
+<li>Improve background highlighting colors in editor schemes</li>
+<li>Improvements to syntax highlighting for some technologies</li>
+<li>Other minor fixes</li>
+</ul>
+<br/>
 <b>2.2.1</b>
 <br/>
 <ul>
