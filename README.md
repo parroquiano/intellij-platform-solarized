@@ -65,9 +65,9 @@ Supported products:
 **`Perl`**
 **`Intellij-Haskell`**
 **`Erlang`**
-**`CMD support`**
+**`PowerShell`**
 **`Rainbow Brackets`**
-and the JetBrains' plugins bundled into the supported IDEs
+\+ the JetBrains' plugins bundled into the supported IDEs and the other ones inheriting language defaults.
 
 Screenshots
 ------------

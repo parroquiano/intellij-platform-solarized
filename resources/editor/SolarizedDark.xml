@@ -275,7 +275,7 @@
     </option>
     <option name="CONSOLE_BLACK_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="93a1a1" />
+        <option name="FOREGROUND" value="839496" />
       </value>
     </option>
     <option name="CONSOLE_BLUE_BRIGHT_OUTPUT">
@@ -392,7 +392,7 @@
     </option>
     <option name="CSS.IMPORTANT">
       <value>
-        <option name="FOREGROUND" value="dc322f" />
+        <option name="FOREGROUND" value="d9345d" />
       </value>
     </option>
     <option name="CSS.TAG_NAME">
@@ -911,9 +911,12 @@
       </value>
     </option>
     <option name="GROOVY_KEYWORD" baseAttributes="JAVA_KEYWORD" />
-    <option name="HAML_CLASS">
+    <option name="GQL_ID">
+      <value />
+    </option>
+    <option name="HAML_ID">
       <value>
-        <option name="FOREGROUND" value="6c71c4" />
+        <option name="FOREGROUND" value="b58900" />
       </value>
     </option>
     <option name="HOCON_OPTIONAL_SUBSTITUTION_SIGN">
@@ -1158,7 +1161,8 @@
     </option>
     <option name="JS.GLOBAL_VARIABLE">
       <value>
-        <option name="FONT_TYPE" value="1" />
+        <option name="FOREGROUND" value="5380cc" />
+        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="JS.INSTANCE_MEMBER_FUNCTION">
@@ -1168,11 +1172,6 @@
     </option>
     <option name="JS.INTERFACE">
       <value />
-    </option>
-    <option name="JS.LOCAL_FUNCTION">
-      <value>
-        <option name="FONT_TYPE" value="2" />
-      </value>
     </option>
     <option name="JS.LOCAL_VARIABLE" baseAttributes="DEFAULT_LOCAL_VARIABLE" />
     <option name="JS.PARAMETER" baseAttributes="DEFAULT_PARAMETER" />
@@ -1622,8 +1621,18 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
+    <option name="PERL_AUTOLOAD">
+      <value>
+        <option name="FOREGROUND" value="a85ba3" />
+      </value>
+    </option>
     <option name="PERL_DQ_STRING" baseAttributes="DEFAULT_STRING" />
-    <option name="PERL_DX_STRING" baseAttributes="DEFAULT_STRING" />
+    <option name="PERL_DX_STRING">
+      <value>
+        <option name="FOREGROUND" value="2aa198" />
+        <option name="BACKGROUND" value="73642" />
+      </value>
+    </option>
     <option name="PERL_EMBED_MARKER">
       <value>
         <option name="FOREGROUND" value="859900" />
@@ -1659,14 +1668,14 @@
     <option name="PERL_PACKAGE" baseAttributes="DEFAULT_CLASS_NAME" />
     <option name="PERL_PACKAGE_CORE">
       <value>
-        <option name="FOREGROUND" value="839496" />
+        <option name="FOREGROUND" value="268bd2" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="PERL_PACKAGE_PRAGMA">
       <value>
-        <option name="FOREGROUND" value="839496" />
-        <option name="FONT_TYPE" value="3" />
+        <option name="FOREGROUND" value="268bd2" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="PERL_REGEX_TOKEN" baseAttributes="DEFAULT_STRING" />
@@ -1738,17 +1747,9 @@
         <option name="FOREGROUND" value="268bd2" />
       </value>
     </option>
-    <option name="POD_CODE">
+    <option name="POWER_SHELL_COMMAND_NAME">
       <value>
-        <option name="FOREGROUND" value="268bd2" />
-        <option name="FONT_TYPE" value="2" />
-      </value>
-    </option>
-    <option name="POD_TAG">
-      <value>
-        <option name="FOREGROUND" value="268bd2" />
-        <option name="FONT_TYPE" value="1" />
-        <option name="EFFECT_TYPE" value="1" />
+        <option name="FOREGROUND" value="b58900" />
       </value>
     </option>
     <option name="POD_TEXT" baseAttributes="DEFAULT_DOC_COMMENT" />
@@ -1890,19 +1891,11 @@
     <option name="REGEXP.CHAR_CLASS">
       <value>
         <option name="FOREGROUND" value="d33682" />
-        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="REGEXP.ESC_CHARACTER">
       <value>
-        <option name="FOREGROUND" value="859900" />
-        <option name="FONT_TYPE" value="1" />
-      </value>
-    </option>
-    <option name="REGEXP.META">
-      <value>
-        <option name="FOREGROUND" value="859900" />
-        <option name="FONT_TYPE" value="1" />
+        <option name="FOREGROUND" value="268bd2" />
       </value>
     </option>
     <option name="REGEXP.PARENTHS">
@@ -1912,14 +1905,12 @@
     </option>
     <option name="REGEXP.QUOTE_CHARACTER">
       <value>
-        <option name="FOREGROUND" value="859900" />
-        <option name="FONT_TYPE" value="1" />
+        <option name="FOREGROUND" value="268bd2" />
       </value>
     </option>
     <option name="REGEXP.REDUNDANT_ESCAPE">
       <value>
         <option name="FOREGROUND" value="6c71c4" />
-        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="REST.FIXED">
@@ -2049,7 +2040,8 @@
     </option>
     <option name="RUBY_REGEXP">
       <value>
-        <option name="FOREGROUND" value="2e98b6" />
+        <option name="FOREGROUND" value="6c9d59" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="RUBY_SPECIFIC_CALL">
