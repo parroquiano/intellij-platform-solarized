@@ -1,7 +1,7 @@
 <idea-plugin>
   <name>Solarized Themes</name>
   <id>com.4lex4.intellij.solarized</id>
-  <version>2.2.2</version>
+  <version>2.2.3</version>
   <vendor email="4lex49@zoho.com" url="https://github.com/4lex4/intellij-platform-solarized">4lex4</vendor>
   <category>UI</category>
 
@@ -38,6 +38,14 @@ To install:
 
   <change-notes>
     <![CDATA[
+<b>2.2.3</b>
+<br/>
+<ul>
+<li>Full Flame Graph support</li>
+<li>Fix: some editor scroll bar colors became invalid after editing the scheme in IDE</li>
+<li>Other minor fixes</li>
+</ul>
+<br/>
 <b>2.2.2</b>
 <br/>
 <ul>
