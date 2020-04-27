@@ -168,30 +168,57 @@
     "FlameGraph": {
       "JavaCell": {
         "background": "#F8D583",
-        "foreground": "#002B36",
+        "foreground": "#073642",
         "hoverBackground": "#E5C67B",
+        "hoverForeground": "#073642",
+        "hoverInactiveBackground": "#C9A95A",
+        "hoverInactiveForeground": "#073642",
+        "inactiveBackground": "#DBB969",
+        "inactiveForeground": "#657B83",
         "searchFailBackground": "#C0A86D",
         "searchFailHoverBackground": "#9A865B",
+        "searchFailHoverInactiveBackground": "#7F6D43",
+        "searchFailInactiveBackground": "#A48E54",
         "searchOkBackground": "#F8D583",
-        "searchOkHoverBackground": "#E5C67B"
+        "searchOkHoverBackground": "#E5C67B",
+        "searchOkHoverInactiveBackground": "#C7AA60",
+        "searchOkInactiveBackground": "#DBB969"
       },
       "NativeCell": {
         "background": "#A7D1DD",
-        "foreground": "#002B36",
+        "foreground": "#073642",
         "hoverBackground": "#98BBCD",
+        "hoverForeground": "#073642",
+        "hoverInactiveBackground": "#7CA5B1",
+        "hoverInactiveForeground": "#073642",
+        "inactiveBackground": "#8CB5C1",
+        "inactiveForeground": "#657B83",
         "searchFailBackground": "#8DADBA",
         "searchFailHoverBackground": "#72858C",
+        "searchFailHoverInactiveBackground": "#596B72",
+        "searchFailInactiveBackground": "#75939F",
         "searchOkBackground": "#A7D1DD",
-        "searchOkHoverBackground": "#98BBCD"
+        "searchOkHoverBackground": "#98BBCD",
+        "searchOkHoverInactiveBackground": "#7FA1B2",
+        "searchOkInactiveBackground": "#8CB5C1"
       },
       "ParentCell": {
         "background": "#D7D1C1",
-        "foreground": "#002B36",
+        "foreground": "#073642",
         "hoverBackground": "#C5C0B1",
+        "hoverForeground": "#073642",
+        "hoverInactiveBackground": "#ABA595",
+        "hoverInactiveForeground": "#073642",
+        "inactiveBackground": "#BBB5A5",
+        "inactiveForeground": "#657B83",
         "searchFailBackground": "#8C897E",
         "searchFailHoverBackground": "#AAA598",
+        "searchFailHoverInactiveBackground": "#8F8B7F",
+        "searchFailInactiveBackground": "#736F65",
         "searchOkBackground": "#D7D1C1",
-        "searchOkHoverBackground": "#C5C0B1"
+        "searchOkHoverBackground": "#C5C0B1",
+        "searchOkHoverInactiveBackground": "#AAA597",
+        "searchOkInactiveBackground": "#BBB5A5"
       }
     },
     "FormattedTextField": {

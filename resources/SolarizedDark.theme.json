@@ -166,28 +166,55 @@
         "background": "#B29F66",
         "foreground": "#002B36",
         "hoverBackground": "#8E865F",
+        "hoverForeground": "#002B36",
+        "hoverInactiveBackground": "#76704A",
+        "hoverInactiveForeground": "#002B36",
+        "inactiveBackground": "#96854E",
+        "inactiveForeground": "#586E75",
         "searchFailBackground": "#536861",
         "searchFailHoverBackground": "#3D5853",
+        "searchFailHoverInactiveBackground": "#29423F",
+        "searchFailInactiveBackground": "#3E524C",
         "searchOkBackground": "#B29F66",
-        "searchOkHoverBackground": "#8E865F"
+        "searchOkHoverBackground": "#8E865F",
+        "searchOkHoverInactiveBackground": "#76704A",
+        "searchOkInactiveBackground": "#988750"
       },
       "NativeCell": {
         "background": "#75ABCA",
         "foreground": "#002B36",
         "hoverBackground": "#5B8DAC",
+        "hoverForeground": "#002B36",
+        "hoverInactiveBackground": "#437694",
+        "hoverInactiveForeground": "#002B36",
+        "inactiveBackground": "#5B90AF",
+        "inactiveForeground": "#586E75",
         "searchFailBackground": "#376375",
         "searchFailHoverBackground": "#265465",
+        "searchFailHoverInactiveBackground": "#0C3F4F",
+        "searchFailInactiveBackground": "#1E4D5E",
         "searchOkBackground": "#75ABCA",
-        "searchOkHoverBackground": "#5B8DAC"
+        "searchOkHoverBackground": "#5B8DAC",
+        "searchOkHoverInactiveBackground": "#437694",
+        "searchOkInactiveBackground": "#5D93B1"
       },
       "ParentCell": {
         "background": "#90A3A8",
         "foreground": "#002B36",
         "hoverBackground": "#788F95",
+        "hoverForeground": "#002B36",
+        "hoverInactiveBackground": "#63787E",
+        "hoverInactiveForeground": "#002B36",
+        "inactiveBackground": "#778A8F",
+        "inactiveForeground": "#586E75",
         "searchFailBackground": "#416169",
         "searchFailHoverBackground": "#516E76",
+        "searchFailHoverInactiveBackground": "#3B575F",
+        "searchFailInactiveBackground": "#2E4C53",
         "searchOkBackground": "#90A3A8",
-        "searchOkHoverBackground": "#788F95"
+        "searchOkHoverBackground": "#788F95",
+        "searchOkHoverInactiveBackground": "#63787E",
+        "searchOkInactiveBackground": "#7A8C91"
       }
     },
     "FormattedTextField": {
