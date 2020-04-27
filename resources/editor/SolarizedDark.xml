@@ -22,24 +22,24 @@
     <option name="DOC_COMMENT_GUIDE" value="14483e" />
     <option name="DOC_COMMENT_LINK" value="4183cc" />
     <option name="ERROR_HINT" value="671c3c" />
-    <option name="FILESTATUS_ADDED" value="49955A" />
-    <option name="FILESTATUS_COPIED" value="49955A"/>
-    <option name="FILESTATUS_DELETED" value="586E75" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_DELETED_FROM_FILE_SYSTEM" value="4C6E77" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="7D8000" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_BOTH_CONFLICTS" value="C8736C" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_CONFLICTS" value="C8736C" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_PROPERTY_CONFLICTS" value="C8736C" />
-    <option name="FILESTATUS_MERGED" value="8375AE" deuteranopia="6E8BBB" protanopia="6E8BBB"/>
-    <option name="FILESTATUS_MODIFIED" value="5693BA" />
-    <option name="FILESTATUS_RENAMED" value="1E828A"/>
+    <option name="FILESTATUS_ADDED" value="49955a" />
+    <option name="FILESTATUS_COPIED" value="49955a"/>
+    <option name="FILESTATUS_DELETED" value="586e75" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_DELETED_FROM_FILE_SYSTEM" value="4c6e77" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="7d8000" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_BOTH_CONFLICTS" value="c8736c" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_CONFLICTS" value="c8736c" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_PROPERTY_CONFLICTS" value="c8736c" />
+    <option name="FILESTATUS_MERGED" value="8375ae" />
+    <option name="FILESTATUS_MODIFIED" value="5693ba" />
+    <option name="FILESTATUS_RENAMED" value="1e828a"/>
     <option name="FILESTATUS_NOT_CHANGED" value="" />
-    <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="5693BA" />
-    <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="5693BA" />
-    <option name="FILESTATUS_UNKNOWN" value="C6665C" />
-    <option name="FILESTATUS_addedOutside" value="49955A" />
-    <option name="FILESTATUS_changelistConflict" value="C8736C" />
-    <option name="FILESTATUS_modifiedOutside" value="5693BA" />
+    <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="5693ba" />
+    <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="5693ba" />
+    <option name="FILESTATUS_UNKNOWN" value="c6665c" />
+    <option name="FILESTATUS_addedOutside" value="49955a" />
+    <option name="FILESTATUS_changelistConflict" value="c8736c" />
+    <option name="FILESTATUS_modifiedOutside" value="5693ba" />
     <option name="FOLDED_TEXT_BORDER_COLOR" value="73642" />
     <option name="GUTTER_BACKGROUND" value="73642" />
     <option name="HTML_TAG_TREE_LEVEL0" value="dc322f" />
@@ -71,31 +71,31 @@
     <option name="SEPARATOR_BELOW_COLOR" value="f3844" />
     <option name="SOFT_WRAP_SIGN_COLOR" value="" />
     <option name="STRING_CONTENT_INDENT_GUIDE" value="2a5f46" />
-    <option name="ScrollBar.background" value="16414D"/>
-    <option name="ScrollBar.trackColor" value="65818900"/>
-    <option name="ScrollBar.thumbColor" value="94A7AC47"/>
-    <option name="ScrollBar.thumbBorderColor" value="15374147"/>
-    <option name="ScrollBar.hoverTrackColor" value="65818900"/>
-    <option name="ScrollBar.hoverThumbColor" value="94A7AC59"/>
-    <option name="ScrollBar.hoverThumbBorderColor" value="15374159"/>
-    <option name="ScrollBar.Transparent.trackColor" value="65818900"/>
-    <option name="ScrollBar.Transparent.thumbColor" value="94A7AC47"/>
-    <option name="ScrollBar.Transparent.thumbBorderColor" value="15374147"/>
-    <option name="ScrollBar.Transparent.hoverTrackColor" value="6581891A"/>
-    <option name="ScrollBar.Transparent.hoverThumbColor" value="94A7AC59"/>
-    <option name="ScrollBar.Transparent.hoverThumbBorderColor" value="15374159"/>
-    <option name="ScrollBar.Mac.trackColor" value="65818900"/>
-    <option name="ScrollBar.Mac.thumbColor" value="65818959"/>
-    <option name="ScrollBar.Mac.thumbBorderColor" value="0E252C59"/>
-    <option name="ScrollBar.Mac.hoverTrackColor" value="65818900"/>
-    <option name="ScrollBar.Mac.hoverThumbColor" value="6581898C"/>
-    <option name="ScrollBar.Mac.hoverThumbBorderColor" value="0E252C8C"/>
-    <option name="ScrollBar.Mac.Transparent.trackColor" value="65818900"/>
-    <option name="ScrollBar.Mac.Transparent.thumbColor" value="65818900"/>
-    <option name="ScrollBar.Mac.Transparent.thumbBorderColor" value="0E252C00"/>
-    <option name="ScrollBar.Mac.Transparent.hoverTrackColor" value="6581891A"/>
-    <option name="ScrollBar.Mac.Transparent.hoverThumbColor" value="6581898C"/>
-    <option name="ScrollBar.Mac.Transparent.hoverThumbBorderColor" value="0E252C8C"/>
+    <option name="ScrollBar.background" value="16414d"/>
+    <option name="ScrollBar.trackColor" value=""/>
+    <option name="ScrollBar.thumbColor" value="99a6a547"/>
+    <option name="ScrollBar.thumbBorderColor" value="0a384447"/>
+    <option name="ScrollBar.hoverTrackColor" value=""/>
+    <option name="ScrollBar.hoverThumbColor" value="99a6a559"/>
+    <option name="ScrollBar.hoverThumbBorderColor" value="0a384459"/>
+    <option name="ScrollBar.Transparent.trackColor" value=""/>
+    <option name="ScrollBar.Transparent.thumbColor" value="99a6a547"/>
+    <option name="ScrollBar.Transparent.thumbBorderColor" value="0a384447"/>
+    <option name="ScrollBar.Transparent.hoverTrackColor" value="6b80861a"/>
+    <option name="ScrollBar.Transparent.hoverThumbColor" value="99a6a559"/>
+    <option name="ScrollBar.Transparent.hoverThumbBorderColor" value="0a384459"/>
+    <option name="ScrollBar.Mac.trackColor" value=""/>
+    <option name="ScrollBar.Mac.thumbColor" value="6b808659"/>
+    <option name="ScrollBar.Mac.thumbBorderColor" value="00273259"/>
+    <option name="ScrollBar.Mac.hoverTrackColor" value=""/>
+    <option name="ScrollBar.Mac.hoverThumbColor" value="6b80868c"/>
+    <option name="ScrollBar.Mac.hoverThumbBorderColor" value="0027328c"/>
+    <option name="ScrollBar.Mac.Transparent.trackColor" value=""/>
+    <option name="ScrollBar.Mac.Transparent.thumbColor" value=""/>
+    <option name="ScrollBar.Mac.Transparent.thumbBorderColor" value=""/>
+    <option name="ScrollBar.Mac.Transparent.hoverTrackColor" value="6b80861a"/>
+    <option name="ScrollBar.Mac.Transparent.hoverThumbColor" value="6b80868c"/>
+    <option name="ScrollBar.Mac.Transparent.hoverThumbBorderColor" value="0027328c"/>
     <option name="TEARLINE_COLOR" value="3d5963" />
     <option name="VCS_ANNOTATIONS_COLOR_1" value="244d4e" />
     <option name="VCS_ANNOTATIONS_COLOR_2" value="1a414a" />

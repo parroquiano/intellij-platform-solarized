@@ -359,36 +359,36 @@
       "disabledForeground": "colorDisabledForeground"
     },
     "ScrollBar": {
-      "background": "#F5F0E3,",
-      "hoverThumbBorderColor": "#59575247,",
-      "hoverThumbColor": "#726F6947,",
-      "hoverTrackColor": "#807D7700,",
+      "background": "#F5F0E3",
+      "hoverThumbBorderColor": "#4b5a5f47",
+      "hoverThumbColor": "#5d737b47",
+      "hoverTrackColor": "",
       "Mac": {
-        "hoverThumbBorderColor": "#00000080,",
-        "hoverThumbColor": "#00000080,",
-        "hoverTrackColor": "#807D7700,",
-        "thumbBorderColor": "#00000033,",
-        "thumbColor": "#00000033,",
-        "trackColor": "#807D7700,",
+        "hoverThumbBorderColor": "#002b3680",
+        "hoverThumbColor": "#002b3680",
+        "hoverTrackColor": "",
+        "thumbBorderColor": "#002b3633",
+        "thumbColor": "#002b3633",
+        "trackColor": "",
         "Transparent": {
-          "hoverThumbBorderColor": "#00000080",
-          "hoverThumbColor": "#00000080,",
-          "hoverTrackColor": "#807D771A,",
-          "thumbBorderColor": "#00000000,",
-          "thumbColor": "#00000000,",
-          "trackColor": "#807D7700,"
+          "hoverThumbBorderColor": "#002b3680",
+          "hoverThumbColor": "#002b3680",
+          "hoverTrackColor": "#6d82891a",
+          "thumbBorderColor": "",
+          "thumbColor": "",
+          "trackColor": ""
         }
       },
-      "thumbBorderColor": "#59575233,",
-      "thumbColor": "#726F6933,",
-      "trackColor": "#807D7700,",
+      "thumbBorderColor": "#4b5a5f33",
+      "thumbColor": "#5d737b33",
+      "trackColor": "",
       "Transparent": {
-        "hoverThumbBorderColor": "#59575247,",
-        "hoverThumbColor": "#726F6947,",
-        "hoverTrackColor": "#807D771A,",
-        "thumbBorderColor": "#59575233,",
-        "thumbColor": "#726F6933,",
-        "trackColor": "#807D7700,"
+        "hoverThumbBorderColor": "#4b5a5f47",
+        "hoverThumbColor": "#5d737b47",
+        "hoverTrackColor": "#6d82891a",
+        "thumbBorderColor": "#4b5a5f33",
+        "thumbColor": "#5d737b33",
+        "trackColor": ""
       }
     },
     "ScrollPane": {},
