@@ -17,7 +17,7 @@
     "colorAlternativeBackground": "#FDF6E3",
     "colorSeparator": "#C9C3B3",
     "colorAcceleratorForeground": "#617EB3",
-    "colorAcceleratorSelectionForeground": "#32312D",
+    "colorAcceleratorSelectionForeground": "#073642",
     "colorHighlight": "#FFFFFF",
     "colorShadow": "#B5C7CF"
   },
@@ -83,7 +83,7 @@
       },
       "background" : "colorAlternativeBackground",
       "disabledBackground": "colorBackground",
-      "disabledForeground": "#AEAA9C",
+      "disabledForeground": "#A3ADAB",
       "modifiedItemForeground": "#3961FA",
       "nonEditableBackground": "colorAlternativeBackground"
     },
@@ -142,11 +142,11 @@
     "DragAndDrop": {
       "areaBackground": "#DEE3DE",
       "areaBorderColor": "#88ACCD",
-      "areaForeground": "#60767d"
+      "areaForeground": "#657b83"
     },
     "Editor": {
       "background": "#B5B0A2",
-      "foreground": "#4F4D46",
+      "foreground": "#36525b",
       "shortcutForeground": "#516091"
     },
     "EditorPane": {
@@ -203,7 +203,7 @@
       "separatorColor": "colorSeparator"
     },
     "GutterTooltip": {
-      "infoForeground": "#60767d",
+      "infoForeground": "#657b83",
       "lineSeparatorColor": "colorBorder"
     },
     "InformationHint": {
@@ -287,10 +287,9 @@
       "background": "#F5F1E5",
       "borderColor": "#DCD7C5",
       "currentOverloadBackground": "#DCD7C5",
-      "currentParameterForeground": "#1E1D1B",
-      "disabledForeground": "#A7A396",
-      "foreground": "#1E1D1B",
-      "infoForeground": "#60767d",
+      "currentParameterForeground": "colorForeground",
+      "disabledForeground": "#B7BDB6",
+      "infoForeground": "#657b83",
       "lineSeparatorColor": "#DCD7C5"
     },
     "PasswordField": {
@@ -307,9 +306,9 @@
         "installForeground": "#81BA5C",
         "updateBackground": "#5F9DE7",
         "updateBorderColor": "#5F9DE7",
-        "updateForeground": "#FDF6E3"
+        "updateForeground": "colorAlternativeBackground"
       },
-      "disabledForeground": "#B0AB9E",
+      "disabledForeground": "#A3ADAB",
       "eapTagBackground": "#EECAB6",
       "lightSelectionBackground": "#F3F1E3",
       "SearchField": {
@@ -441,7 +440,7 @@
       "shadow": "colorShadow"
     },
     "SplitPaneDivider": {
-      "draggingColor": "#3F3D38"
+      "draggingColor": "#1E434E"
     },
     "StatusBar": {
       "borderColor": "#8F8B80",
@@ -602,7 +601,7 @@
       "footerForeground": "colorForeground",
       "groupIconBorderColor": "#BEB9AA",
       "headerBackground": "#DDD7C4",
-      "headerForeground": "#3c5158",
+      "headerForeground": "#36525b",
       "Projects": {
         "background": "colorAlternativeBackground",
         "selectionInactiveBackground": "#DAD4C1"
