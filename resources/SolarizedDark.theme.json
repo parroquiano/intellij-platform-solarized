@@ -17,7 +17,7 @@
     "colorAlternativeBackground": "#1B4854",
     "colorSeparator": "#284E59",
     "colorAcceleratorForeground": "#527FBF",
-    "colorAcceleratorSelectionForeground": "#04343F",
+    "colorAcceleratorSelectionForeground": "#C2C5BC",
     "colorHighlight": "#FFFFFF",
     "colorShadow": "#B2CEE6"
   },
@@ -480,9 +480,9 @@
     },
     "Table": {
       "dropLineColor": "colorAcceleratorForeground",
-      "dropLineShortColor": "colorAcceleratorSelectionForeground",
-      "focusCellBackground": "#FFFFFF",
-      "focusCellForeground": "colorAcceleratorSelectionForeground",
+      "dropLineShortColor": "#0C3542",
+      "focusCellBackground": "colorAlternativeBackground",
+      "focusCellForeground": "colorForeground",
       "gridColor": "#254E5A",
       "lightSelectionBackground": "#1B4755",
       "lightSelectionForeground": "colorForeground",
@@ -494,7 +494,7 @@
     "TableHeader": {
       "background": "#194553",
       "bottomSeparatorColor": "#0C3340",
-      "focusCellBackground": "#C2DBF1",
+      "focusCellBackground": "colorAlternativeBackground",
       "separatorColor": "#0C3340"
     },
     "TextArea": {

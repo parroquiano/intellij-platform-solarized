@@ -17,7 +17,7 @@
     "colorAlternativeBackground": "#FDF6E3",
     "colorSeparator": "#C9C3B3",
     "colorAcceleratorForeground": "#617EB3",
-    "colorAcceleratorSelectionForeground": "#073642",
+    "colorAcceleratorSelectionForeground": "#FFFFFF",
     "colorHighlight": "#FFFFFF",
     "colorShadow": "#B5C7CF"
   },
@@ -277,7 +277,7 @@
       "shadow": "colorShadow"
     },
     "MenuItem": {
-      "acceleratorForeground": "colorForeground",
+      "acceleratorForeground": "#49636B",
       "disabledBackground": "colorBackground",
       "disabledForeground": "colorDisabledForeground"
     },
@@ -485,9 +485,9 @@
     "Table": {
       "background": "colorAlternativeBackground",
       "dropLineColor": "colorAcceleratorForeground",
-      "dropLineShortColor": "colorAcceleratorSelectionForeground",
+      "dropLineShortColor": "#5F63A9",
       "focusCellBackground": "colorAlternativeBackground",
-      "focusCellForeground": "colorAcceleratorSelectionForeground",
+      "focusCellForeground": "colorForeground",
       "gridColor": "#F5EEDC",
       "lightSelectionBackground": "#E7E6DA",
       "lightSelectionForeground": "colorForeground",
@@ -499,6 +499,7 @@
     "TableHeader": {
       "background": "colorAlternativeBackground",
       "bottomSeparatorColor": "#E1DCCA",
+      "focusCellBackground": "colorAlternativeBackground",
       "separatorColor": "#E1DCCA"
     },
     "TextArea": {
