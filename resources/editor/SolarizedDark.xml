@@ -51,10 +51,10 @@
     <option name="IGNORED_ADDED_LINES_BORDER_COLOR" value="2d6754" />
     <option name="IGNORED_DELETED_LINES_BORDER_COLOR" value="496e7d" />
     <option name="IGNORED_MODIFIED_LINES_BORDER_COLOR" value="25566b" />
-    <option name="INDENT_GUIDE" value="93640" />
+    <option name="INDENT_GUIDE" value="73642" />
     <option name="INFORMATION_HINT" value="284f58" />
-    <option name="LINE_NUMBERS_COLOR" value="586e75" />
-    <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="74878c" />
+    <option name="LINE_NUMBERS_COLOR" value="49636b" />
+    <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="73888c" />
     <option name="METHOD_SEPARATORS_COLOR" value="2b4c56" />
     <option name="MODIFIED_LINES_COLOR" value="c4357" />
     <option name="NOTIFICATION_BACKGROUND" value="3359" />
@@ -67,8 +67,8 @@
     <option name="SELECTED_TEARLINE_COLOR" value="657b83" />
     <option name="SELECTION_BACKGROUND" value="657b83" />
     <option name="SELECTION_FOREGROUND" value="2b36" />
-    <option name="SEPARATOR_ABOVE_COLOR" value="284e59" />
-    <option name="SEPARATOR_BELOW_COLOR" value="f3844" />
+    <option name="SEPARATOR_ABOVE_COLOR" value="2e4e58" />
+    <option name="SEPARATOR_BELOW_COLOR" value="a3844" />
     <option name="SOFT_WRAP_SIGN_COLOR" value="" />
     <option name="STRING_CONTENT_INDENT_GUIDE" value="2a5f46" />
     <option name="ScrollBar.background" value="16414d"/>
@@ -102,7 +102,7 @@
     <option name="VCS_ANNOTATIONS_COLOR_3" value="194352" />
     <option name="VCS_ANNOTATIONS_COLOR_4" value="234251" />
     <option name="VCS_ANNOTATIONS_COLOR_5" value="283943" />
-    <option name="VISUAL_INDENT_GUIDE" value="103a45" />
+    <option name="VISUAL_INDENT_GUIDE" value="d3a46" />
     <option name="WHITESPACES" value="586e75" />
     <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="284641" />
   </colors>
@@ -207,7 +207,7 @@
     <option name="BREADCRUMBS_CURRENT">
       <value>
         <option name="FOREGROUND" value="93a1a1" />
-        <option name="BACKGROUND" value="1f4753" />
+        <option name="BACKGROUND" value="274751" />
       </value>
     </option>
     <option name="BREADCRUMBS_DEFAULT">
@@ -218,7 +218,7 @@
     <option name="BREADCRUMBS_HOVERED">
       <value>
         <option name="FOREGROUND" value="93a1a1" />
-        <option name="BACKGROUND" value="133f4b" />
+        <option name="BACKGROUND" value="193e49" />
       </value>
     </option>
     <option name="BREADCRUMBS_INACTIVE">
@@ -1012,19 +1012,19 @@
     <option name="INLINE_PARAMETER_HINT">
       <value>
         <option name="FOREGROUND" value="586e75" />
-        <option name="BACKGROUND" value="133b45" />
+        <option name="BACKGROUND" value="d3a46" />
       </value>
     </option>
     <option name="INLINE_PARAMETER_HINT_CURRENT">
       <value>
         <option name="FOREGROUND" value="839496" />
-        <option name="BACKGROUND" value="f597c" />
+        <option name="BACKGROUND" value="95779" />
       </value>
     </option>
     <option name="INLINE_PARAMETER_HINT_HIGHLIGHTED">
       <value>
         <option name="FOREGROUND" value="839496" />
-        <option name="BACKGROUND" value="2b4e58" />
+        <option name="BACKGROUND" value="2e4e58" />
       </value>
     </option>
     <option name="INSTANCE_FIELD_ATTRIBUTES" baseAttributes="DEFAULT_INSTANCE_FIELD" />
