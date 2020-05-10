@@ -121,6 +121,8 @@ To install:
   <extensions defaultExtensionNs="com.intellij">
     <themeProvider id="6a41f0b6-ad89-4fc0-a326-ff52958b07b7" path="/SolarizedDark.theme.json"/>
     <themeProvider id="987fea89-a3e4-45f6-9898-7dbace4d7bd3" path="/SolarizedLight.theme.json"/>
+    <bundledColorScheme id="6a41f0b6-ad89-4fc0-a326-ff52958b07b8" path="/editor/SolarizedDarkHardGray"/>
+    <bundledColorScheme id="987fea89-a3e4-45f6-9898-7dbace4d7bd4" path="/editor/SolarizedLightHardGray"/>
   </extensions>
 
   <actions>
