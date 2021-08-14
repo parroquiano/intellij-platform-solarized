@@ -653,7 +653,7 @@
     </option>
     <option name="DEBUGGER_SMART_STEP_INTO_TARGET">
       <value>
-        <option name="FOREGROUND" value="abbcbe" />
+        <option name="FOREGROUND" value="a7b0ac" />
         <option name="BACKGROUND" value="323866" />
       </value>
     </option>
@@ -903,6 +903,7 @@
       <value>
         <option name="FOREGROUND" value="b4bab5" />
         <option name="BACKGROUND" value="165b98" />
+        <option name="ERROR_STRIPE_COLOR" value="165b98" />
       </value>
     </option>
     <option name="FOLDED_TEXT_ATTRIBUTES">

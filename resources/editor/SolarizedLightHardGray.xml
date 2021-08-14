@@ -258,8 +258,8 @@
     </option>
     <option name="BREAKPOINT_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="f8e2cd" />
-        <option name="ERROR_STRIPE_COLOR" value="fdc1b2" />
+        <option name="BACKGROUND" value="fce7d2" />
+        <option name="ERROR_STRIPE_COLOR" value="ffcebf" />
       </value>
     </option>
     <option name="BUILD.BUILTIN_NAME">
@@ -637,27 +637,27 @@
     </option>
     <option name="DEBUGGER_INLINED_VALUES_EXECUTION_LINE">
       <value>
-        <option name="FOREGROUND" value="a8b1c3" />
+        <option name="FOREGROUND" value="ced8ea" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="DEBUGGER_INLINED_VALUES_MODIFIED">
       <value>
-        <option name="FOREGROUND" value="c67c19" />
+        <option name="FOREGROUND" value="f69a33" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="DEBUGGER_SMART_STEP_INTO_SELECTION">
       <value>
-        <option name="FOREGROUND" value="283c43" />
-        <option name="BACKGROUND" value="f1adeb" />
-        <option name="EFFECT_COLOR" value="ca21c5" />
+        <option name="FOREGROUND" value="476068" />
+        <option name="BACKGROUND" value="ffbefd" />
+        <option name="EFFECT_COLOR" value="ed68f0" />
       </value>
     </option>
     <option name="DEBUGGER_SMART_STEP_INTO_TARGET">
       <value>
-        <option name="FOREGROUND" value="33484f" />
-        <option name="BACKGROUND" value="ddc9d7" />
+        <option name="FOREGROUND" value="455e66" />
+        <option name="BACKGROUND" value="ebd7e5" />
       </value>
     </option>
     <option name="DEFAULT_ATTRIBUTE" baseAttributes="DEFAULT_IDENTIFIER" />
@@ -894,18 +894,19 @@
     </option>
     <option name="EVALUATED_EXPRESSION_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="e3ddcc" />
+        <option name="BACKGROUND" value="ebe5d2" />
       </value>
     </option>
     <option name="EVALUATED_EXPRESSION_EXECUTION_LINE_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="beb8aa" />
+        <option name="BACKGROUND" value="cfd0c3" />
       </value>
     </option>
     <option name="EXECUTIONPOINT_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="fdf6e3" />
-        <option name="BACKGROUND" value="2052a2" />
+        <option name="BACKGROUND" value="6588df" />
+        <option name="ERROR_STRIPE_COLOR" value="6588df" />
       </value>
     </option>
     <option name="FOLDED_TEXT_ATTRIBUTES">
@@ -1676,7 +1677,7 @@
     </option>
     <option name="NOT_TOP_FRAME_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="bec9db" />
+        <option name="BACKGROUND" value="ced8ea" />
       </value>
     </option>
     <option name="NOT_USED_ELEMENT_ATTRIBUTES">
