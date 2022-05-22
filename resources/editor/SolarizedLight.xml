@@ -4,7 +4,7 @@
     <option name="ANNOTATIONS_COLOR" value="586e76" />
     <option name="ANNOTATIONS_MERGED_COLOR" value="2aa198" />
     <option name="ActionButton.hoverBackground" value="d9d7ca" />
-    <option name="ActionButton.iconTextForeground" value="839496" />
+    <option name="ActionButton.iconTextForeground" value="4e5657" />
     <option name="ActionButton.pressedBackground" value="c8cac0" />
     <option name="BookmarkIcon.background" value="f0ae3b"/>
     <option name="CARET_COLOR" value="586e75" />
@@ -82,7 +82,7 @@
     <option name="METHOD_SEPARATORS_COLOR" value="c8cac0" />
     <option name="MODIFIED_LINES_COLOR" value="c1cfd3" />
     <option name="MODIFIED_TAB_ICON" value="268bd2" />
-    <option name="MnemonicIcon.foreground" value="657b83"/>
+    <option name="MnemonicIcon.foreground" value="435055"/>
     <option name="MnemonicIcon.background" value="fcefd2"/>
     <option name="MnemonicIcon.borderColor" value="f1a933"/>
     <option name="NOTIFICATION_BACKGROUND" value="faeeb7" />
@@ -165,13 +165,13 @@
     <option name="ANNOTATION_NAME_ATTRIBUTES" baseAttributes="DEFAULT_METADATA" />
     <option name="Abstract class">
       <value>
-        <option name="FOREGROUND" value="859900" />
+        <option name="FOREGROUND" value="4b5700" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="Annotation name">
       <value>
-        <option name="FOREGROUND" value="6c6fc4" />
+        <option name="FOREGROUND" value="505290" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
@@ -264,12 +264,12 @@
     </option>
     <option name="BUILD.BUILTIN_NAME">
       <value>
-        <option name="FOREGROUND" value="9e9200" />
+        <option name="FOREGROUND" value="6e6601" />
       </value>
     </option>
     <option name="CLASS_REFERENCE">
       <value>
-        <option name="FOREGROUND" value="b38700" />
+        <option name="FOREGROUND" value="554202" />
       </value>
     </option>
     <option name="CMD_LABEL">
@@ -284,7 +284,7 @@
     </option>
     <option name="CODE_VISION_DEFAULT">
       <value>
-        <option name="FOREGROUND" value="93a1a1" />
+        <option name="FOREGROUND" value="608181" />
       </value>
     </option>
     <option name="CODE_VISION_HOVERED">
@@ -657,7 +657,7 @@
     <option name="DEFAULT_ATTRIBUTE" baseAttributes="DEFAULT_IDENTIFIER" />
     <option name="DEFAULT_BLOCK_COMMENT">
       <value>
-        <option name="FOREGROUND" value="93a1a1" />
+        <option name="FOREGROUND" value="5d6161" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -679,14 +679,14 @@
     </option>
     <option name="DEFAULT_DOC_COMMENT">
       <value>
-        <option name="FOREGROUND" value="93a1a1" />
+        <option name="FOREGROUND" value="5d6161" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="DEFAULT_DOC_COMMENT_TAG">
       <value>
         <option name="FONT_TYPE" value="3" />
-        <option name="EFFECT_COLOR" value="93a1a1" />
+        <option name="EFFECT_COLOR" value="5d6161" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
@@ -714,12 +714,12 @@
     </option>
     <option name="DEFAULT_IDENTIFIER">
       <value>
-        <option name="FOREGROUND" value="657b83" />
+        <option name="FOREGROUND" value="3f4344" />
       </value>
     </option>
     <option name="DEFAULT_INSTANCE_FIELD">
       <value>
-        <option name="FOREGROUND" value="6c71c4" />
+        <option name="FOREGROUND" value="474994" />
       </value>
     </option>
     <option name="DEFAULT_INSTANCE_METHOD">
@@ -727,7 +727,7 @@
     </option>
     <option name="DEFAULT_INTERFACE_NAME">
       <value>
-        <option name="FOREGROUND" value="268bd2" />
+        <option name="FOREGROUND" value="1e669C" />
       </value>
     </option>
     <option name="DEFAULT_INVALID_STRING_ESCAPE">
@@ -739,7 +739,7 @@
     </option>
     <option name="DEFAULT_KEYWORD">
       <value>
-        <option name="FOREGROUND" value="859900" />
+        <option name="FOREGROUND" value="5a6800" />
       </value>
     </option>
     <option name="DEFAULT_LABEL">
@@ -749,23 +749,23 @@
     </option>
     <option name="DEFAULT_LINE_COMMENT">
       <value>
-        <option name="FOREGROUND" value="93a1a1" />
+        <option name="FOREGROUND" value="555555" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="DEFAULT_LOCAL_VARIABLE">
       <value>
-        <option name="FOREGROUND" value="657b83" />
+        <option name="FOREGROUND" value="485255" />
       </value>
     </option>
     <option name="DEFAULT_METADATA">
       <value>
-        <option name="FOREGROUND" value="b58900" />
+        <option name="FOREGROUND" value="705600" />
       </value>
     </option>
     <option name="DEFAULT_NUMBER">
       <value>
-        <option name="FOREGROUND" value="cb4b16" />
+        <option name="FOREGROUND" value="973a12" />
       </value>
     </option>
     <option name="DEFAULT_PREDEFINED_SYMBOL" baseAttributes="DEFAULT_IDENTIFIER" />
@@ -783,13 +783,13 @@
     </option>
     <option name="DEFAULT_STATIC_FIELD">
       <value>
-        <option name="FOREGROUND" value="6c71c4" />
+        <option name="FOREGROUND" value="4a4c86" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="DEFAULT_STRING">
       <value>
-        <option name="FOREGROUND" value="2aa198" />
+        <option name="FOREGROUND" value="1b6964" />
       </value>
     </option>
     <option name="DEFAULT_TAG" baseAttributes="TEXT" />
@@ -800,7 +800,7 @@
     </option>
     <option name="DEFAULT_VALID_STRING_ESCAPE">
       <value>
-        <option name="FOREGROUND" value="859900" />
+        <option name="FOREGROUND" value="455000" />
       </value>
     </option>
     <option name="DELETED_TEXT_ATTRIBUTES">
@@ -1540,7 +1540,7 @@
     </option>
     <option name="MARKDOWN.AUTO_LINK">
       <value>
-        <option name="FOREGROUND" value="268bd2" />
+        <option name="FOREGROUND" value="175787" />
       </value>
     </option>
     <option name="MARKDOWN.BLOCK_QUOTE">
@@ -1555,47 +1555,47 @@
     </option>
     <option name="MARKDOWN.CODE_BLOCK">
       <value>
-        <option name="FOREGROUND" value="cb4b16" />
+        <option name="FOREGROUND" value="792e0e" />
       </value>
     </option>
     <option name="MARKDOWN.EXPLICIT_LINK">
       <value>
-        <option name="FOREGROUND" value="268bd2" />
+        <option name="FOREGROUND" value="165483" />
       </value>
     </option>
     <option name="MARKDOWN.HEADER_LEVEL_1">
       <value>
-        <option name="FOREGROUND" value="859900" />
+        <option name="FOREGROUND" value="475200" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="MARKDOWN.HEADER_LEVEL_2">
       <value>
-        <option name="FOREGROUND" value="859900" />
+        <option name="FOREGROUND" value="535F00" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="MARKDOWN.HEADER_LEVEL_3">
       <value>
-        <option name="FOREGROUND" value="859900" />
+        <option name="FOREGROUND" value="535F00" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="MARKDOWN.HEADER_LEVEL_4">
       <value>
-        <option name="FOREGROUND" value="859900" />
+        <option name="FOREGROUND" value="535F00" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="MARKDOWN.HEADER_LEVEL_5">
       <value>
-        <option name="FOREGROUND" value="859900" />
+        <option name="FOREGROUND" value="535F00" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="MARKDOWN.HEADER_LEVEL_6">
       <value>
-        <option name="FOREGROUND" value="859900" />
+        <option name="FOREGROUND" value="535F00" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
@@ -2133,12 +2133,12 @@
     </option>
     <option name="RUBY_HEREDOC_CONTENT">
       <value>
-        <option name="FOREGROUND" value="5d9f6f" />
+        <option name="FOREGROUND" value="40724d" />
       </value>
     </option>
     <option name="RUBY_HEREDOC_ID">
       <value>
-        <option name="FOREGROUND" value="5d9f6f" />
+        <option name="FOREGROUND" value="3f6e4b" />
         <option name="FONT_TYPE" value="1" />
         <option name="EFFECT_COLOR" value="5d9f6f" />
         <option name="EFFECT_TYPE" value="1" />
@@ -2151,13 +2151,13 @@
     </option>
     <option name="RUBY_LOCAL_VAR_ID">
       <value>
-        <option name="FOREGROUND" value="268bd2" />
+        <option name="FOREGROUND" value="215d8b" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="RUBY_METHOD_NAME">
       <value>
-        <option name="FOREGROUND" value="d33682" />
+        <option name="FOREGROUND" value="812450" />
       </value>
     </option>
     <option name="RUBY_NTH_REF">
@@ -2170,24 +2170,24 @@
     </option>
     <option name="RUBY_PARAMDEF_CALL">
       <value>
-        <option name="FOREGROUND" value="b58900" />
+        <option name="FOREGROUND" value="6f5500" />
       </value>
     </option>
     <option name="RUBY_PARAMETER_ID">
       <value>
-        <option name="FOREGROUND" value="2e98b6" />
+        <option name="FOREGROUND" value="1f677d" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="RUBY_REGEXP">
       <value>
-        <option name="FOREGROUND" value="6c9d59" />
+        <option name="FOREGROUND" value="456938" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="RUBY_SPECIFIC_CALL">
       <value>
-        <option name="FOREGROUND" value="b58900" />
+        <option name="FOREGROUND" value="5b4601" />
       </value>
     </option>
     <option name="RUNTIME_ERROR">
