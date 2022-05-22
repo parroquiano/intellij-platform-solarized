@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="solarized">
+    <output-path>$PROJECT_DIR$/out/artifacts/solarized</output-path>
+    <root id="archive" name="solarized.jar">
+      <element id="dir-copy" path="$PROJECT_DIR$/resources" />
+    </root>
+  </artifact>
+</component>
